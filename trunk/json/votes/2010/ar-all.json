@@ -1,0 +1,50 @@
+{"state":"AR","total":0,"candidates":
+{"60238":"GOP|Womack|Steve Womack","60551":"Ind|Drown|Trevor Drown","60553":"Ind|Levi|Lance Levi","1620":"GOP|Boozman|John Boozman","7086":"Dem|Lincoln|Blanche Lincoln","60226":"GOP|Crawford|Rick Crawford","60233":"Dem|Whitaker|David Whitaker","60223":"Dem|Causey|Chad Causey","1194":"Dem|Ross|Mike Ross","60240":"GOP|Rankin|Beth Anne Rankin","52723":"Grn|Lendall|Jim Lendall","52721":"Dem|Elliott|Joyce Elliott","61137":"Grn|Gray|John Gray","60197":"GOP|Keet|Jim Keet","60231":"GOP|Griffin|Tim Griffin","59645":"Grn|Drake|Josh Drake","2":"|Yes| Yes","61138":"Grn|Adler|Ken Adler","61139":"Grn|Kennedy|Lewis Kennedy","5647":"Dem|Beebe|Mike Beebe","3":"|No| No"},
+"locals":
+{},
+"totals":
+{"name":"Arkansas","fix":
+{"Saint Francis":"St. Francis"},
+"precincts":
+{"total":2406,"reporting":434},
+"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":25114,"id":"60223"},
+{"votes":21939,"id":"60226"},
+{"votes":7788,"id":"61138"}]},
+"3":
+{"votes":[
+{"votes":1828,"id":"60233"},
+{"votes":1010,"id":"60238"}]},
+"2":
+{"votes":[
+{"votes":47693,"id":"60231"},
+{"votes":42423,"id":"52721"},
+{"votes":9287,"id":"61139"},
+{"votes":7304,"id":"60553"}]},
+"4":
+{"votes":[
+{"votes":11551,"id":"60240"},
+{"votes":11254,"id":"1194"},
+{"votes":3182,"id":"59645"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":44689,"id":"1620"},
+{"votes":33796,"id":"7086"},
+{"votes":22463,"id":"60551"},
+{"votes":11289,"id":"61137"}]}},
+"Issue":
+{"1 - Hunting and Fishing":
+{"votes":[
+{"votes":55980,"id":"2"},
+{"votes":51095,"id":"3"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":56634,"id":"60197"},
+{"votes":50940,"id":"5647"},
+{"votes":18073,"id":"52723"}]}}},
+"abbr":"AR"}}

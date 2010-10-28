@@ -1,0 +1,21 @@
+{"state":"WY","total":0,"candidates":
+{"60550":"Dem|Petersen|Leslie Petersen","60548":"Dem|Wendt|David Wendt","61197":"Lib|Love|John Love","49396":"GOP|Lummis|Cynthia Lummis","61082":"GOP|Mead|Matt Mead","61198":"Lib|Wheeler|Mike Wheeler"},
+"locals":
+{},
+"totals":
+{"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":19252,"id":"49396"},
+{"votes":18990,"id":"60548"},
+{"votes":7723,"id":"61197"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":21908,"id":"60550"},
+{"votes":19893,"id":"61082"},
+{"votes":7079,"id":"61198"}]}}},
+"precincts":
+{"total":486,"reporting":147},
+"abbr":"WY","name":"Wyoming"}}

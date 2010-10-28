@@ -1,0 +1,36 @@
+{"state":"NH","total":0,"candidates":
+{"50448":"Dem|Hodes|Paul Hodes","1075":"Lib|Blevens|Ken Blevens","61213":"Dem|Kuster|Ann Kuster","1080":"GOP|Bass|Charlie Bass","61219":"Ind|Booth|Chris Booth","61212":"GOP|Guinta|Frank Guinta","61220":"Lib|Hodson|Philip Hodson","61221":"Ind|vanBlommesteyn|Tim vanBlommesteyn","61222":"Lib|Wilson|Howard Wilson","59860":"GOP|Stephen|John Stephen","61040":"GOP|Ayotte|Kelly Ayotte","7722":"Dem|Lynch|John Lynch","53539":"Dem|Shea-Porter|Carol Shea-Porter","1072":"Lib|Babiarz|John Babiarz"},
+"locals":
+{},
+"totals":
+{"name":"New Hampshire","fix":
+{"":"Atkinson and Gilmanton Academy"},
+"precincts":
+{"total":301,"reporting":57},
+"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":23499,"id":"53539"},
+{"votes":18563,"id":"61212"},
+{"votes":7649,"id":"61220"}]},
+"2":
+{"votes":[
+{"votes":26547,"id":"1080"},
+{"votes":23185,"id":"61213"},
+{"votes":4580,"id":"61221"},
+{"votes":4336,"id":"61222"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":35808,"id":"50448"},
+{"votes":33579,"id":"1075"},
+{"votes":21946,"id":"61040"},
+{"votes":17026,"id":"61219"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":42368,"id":"59860"},
+{"votes":39718,"id":"1072"},
+{"votes":26273,"id":"7722"}]}}},
+"abbr":"NH","votesby":"town"}}

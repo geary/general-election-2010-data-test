@@ -1,0 +1,36 @@
+{"state":"VT","total":0,"candidates":
+{"50649":"LUn|Mitchell|Ben Mitchell","60888":"Ind|Freilich|Daniel Freilich","60887":"Ind|Cain|Stephen Cain","1158":"Oth|Ericson|Cris Ericson","60885":"GOP|Britton|Len Britton","60894":"Ind|Peyton|Em Peyton","60895":"Ind|Steele|Dennis Steele","1157":"Soc|Diamondstone|Peter Diamondstone","58883":"Dem|Welch|Peter Welch","45222":"GOP|Dubie|Brian Dubie","60891":"Ind|Jaccaci|Gus Jaccaci","1152":"Soc|Newton|Jane Newton","61151":"GOP|Beaudry|Paul Beaudry","1760":"Dem|Leahy|Patrick Leahy","60893":"Ind|Feliciano|Dan Feliciano","60889":"Ind|Nunes|Johenry Nunes","45461":"Dem|Shumlin|Peter Shumlin"},
+"locals":
+{},
+"totals":
+{"name":"Vermont","precincts":
+{"total":260,"reporting":64},
+"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":27972,"id":"58883"},
+{"votes":22907,"id":"61151"},
+{"votes":4882,"id":"1152"},
+{"votes":3700,"id":"60891"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":25951,"id":"1760"},
+{"votes":19792,"id":"60885"},
+{"votes":4001,"id":"1157"},
+{"votes":3930,"id":"1158"},
+{"votes":3546,"id":"60888"},
+{"votes":1247,"id":"60889"},
+{"votes":994,"id":"60887"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":31878,"id":"45461"},
+{"votes":18262,"id":"45222"},
+{"votes":3163,"id":"1158"},
+{"votes":2374,"id":"50649"},
+{"votes":1664,"id":"60893"},
+{"votes":1538,"id":"60895"},
+{"votes":582,"id":"60894"}]}}},
+"abbr":"VT","votesby":"town"}}

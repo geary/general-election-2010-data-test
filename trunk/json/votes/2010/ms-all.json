@@ -1,0 +1,39 @@
+{"state":"MS","total":0,"candidates":
+{"60438":"Ind|Hoskins|Rico Hoskins","60439":"GOP|Palazzo|Steven Palazzo","28712":"RP|Washer|Barbara Washer","57825":"GOP|Harper|Gregg Harper","57824":"Dem|Gill|Joel Gill","1335":"Dem|Thompson|Bennie Thompson","50442":"RP|Hill|Tracella Hill","57828":"GOP|Marcy|Bill Marcy","60436":"Ind|Baddley|A. G. Baddley","57814":"Dem|Childers|Travis Childers","58428":"Ind|Pang|Wally Pang","60437":"Ind|Green|Les Green","61199":"RP|Revies|Anna Revies","214":"Lib|Taylor|Harold Taylor","60440":"Lib|Hampton|Tim Hampton","60435":"CST|Giaramita|Gail Giaramita","220":"Dem|Taylor|Gene Taylor","55675":"GOP|Nunnelee|Alan Nunnelee","60613":"RP|Norwood|Ashley Norwood"},
+"locals":
+{},
+"totals":
+{"name":"Mississippi","fix":
+{"Jeff Davis":"Jefferson Davis"},
+"precincts":
+{"total":471,"reporting":183},
+"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":7832,"id":"57814"},
+{"votes":6694,"id":"55675"},
+{"votes":4983,"id":"58428"},
+{"votes":4560,"id":"60438"},
+{"votes":3537,"id":"60437"},
+{"votes":2936,"id":"60436"},
+{"votes":2138,"id":"28712"},
+{"votes":1438,"id":"214"},
+{"votes":753,"id":"60435"}]},
+"3":
+{"votes":[
+{"votes":29181,"id":"57825"},
+{"votes":24006,"id":"57824"},
+{"votes":8651,"id":"50442"}]},
+"2":
+{"votes":[
+{"votes":30069,"id":"1335"},
+{"votes":27761,"id":"57828"},
+{"votes":10231,"id":"60613"}]},
+"4":
+{"votes":[
+{"votes":24073,"id":"220"},
+{"votes":21712,"id":"60439"},
+{"votes":4260,"id":"61199"},
+{"votes":2938,"id":"60440"}]}}},
+"abbr":"MS"}}

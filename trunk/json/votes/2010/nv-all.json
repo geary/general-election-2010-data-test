@@ -1,0 +1,56 @@
+{"state":"NV","total":0,"candidates":
+{"30718":"Dem|Price|Nancy Price","60751":"Lib|Klapproth|Ed Klapproth","30878":"Dem|Titus|Dina Titus","60747":"IAP|Fasano|Tim Fasano","51987":"GOP|Wegner|Kenneth Wegner","60689":"GOP|Heck|Joe Heck","60746":"TEA|Ashjian|Scott Ashjian","59552":"Ind|Reeves|Jeffrey Reeves","60748":"Ind|Haines|Michael Haines","60749":"Ind|Holland|Jesse Holland","56895":"GOP|Angle|Sharron Angle","51349":"Lib|Silvestri|Joseph Silvestri","30423":"GOP|Heller|Dean Heller","3":"|No| No","2":"|Yes| Yes","100013":"NPD|None of these candidates| None of these candidates","30767":"GOP|Sandoval|Brian Sandoval","30396":"IAP|Hansen|Jonathan Hansen","60756":"Ind|Honig|Aaron Honig","60755":"Ind|Disimone|Eugene Disimone","60754":"Grn|Curtis|David Curtis","60753":"IAP|Narter|Scott Narter","60752":"IAP|Best|Russell Best","489":"Dem|Berkley|Shelley Berkley","60750":"Ind|Stand|Wil Stand","59549":"Ind|Michaels|Barry Michaels","60757":"Lib|Lampitt|Arthur Lampitt","59554":"IAP|Fitzgibbons|Floyd Fitzgibbons","30739":"Dem|Reid|Rory Reid","1741":"Dem|Reid|Harry Reid"},
+"locals":
+{},
+"totals":
+{"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":36039,"id":"489"},
+{"votes":31836,"id":"51987"},
+{"votes":7064,"id":"60751"},
+{"votes":6823,"id":"30396"}]},
+"3":
+{"votes":[
+{"votes":42776,"id":"30878"},
+{"votes":40729,"id":"60689"},
+{"votes":5756,"id":"59549"},
+{"votes":5622,"id":"60753"},
+{"votes":4985,"id":"51349"}]},
+"2":
+{"votes":[
+{"votes":15944,"id":"30718"},
+{"votes":15081,"id":"30423"},
+{"votes":6497,"id":"60752"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":114344,"id":"1741"},
+{"votes":109302,"id":"56895"},
+{"votes":7292,"id":"60747"},
+{"votes":6491,"id":"60746"},
+{"votes":6232,"id":"60748"},
+{"votes":5977,"id":"59552"},
+{"votes":5839,"id":"60749"},
+{"votes":4974,"id":"100013"},
+{"votes":4885,"id":"60750"}]}},
+"Question":
+{"4 - Eminent Domain":
+{"votes":[
+{"votes":187018,"id":"2"},
+{"votes":147621,"id":"3"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":107082,"id":"30739"},
+{"votes":95950,"id":"30767"},
+{"votes":11874,"id":"100013"},
+{"votes":8325,"id":"59554"},
+{"votes":7733,"id":"60754"},
+{"votes":7681,"id":"60757"},
+{"votes":7391,"id":"60756"},
+{"votes":7142,"id":"60755"}]}}},
+"precincts":
+{"total":492,"reporting":283},
+"abbr":"NV","name":"Nevada"}}
