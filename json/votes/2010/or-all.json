@@ -1,0 +1,61 @@
+{"state":"OR","total":0,"candidates":
+{"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","38806":"WF|Cronk|Bruce Cronk","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","59797":"PAG|Meo|Michael Meo","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},
+"locals":
+{},
+"totals":
+{"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":6132,"id":"60610"},
+{"votes":5594,"id":"478"},
+{"votes":743,"id":"59846"},
+{"votes":678,"id":"39371"},
+{"votes":671,"id":"61132"}]},
+"3":
+{"votes":[
+{"votes":614,"id":"59797"},
+{"votes":333,"id":"58449"},
+{"votes":99,"id":"482"},
+{"votes":70,"id":"61141"}]},
+"2":
+{"votes":[
+{"votes":5722,"id":"60611"},
+{"votes":3292,"id":"481"}]},
+"5":
+{"votes":[
+{"votes":35550,"id":"38736"},
+{"votes":30540,"id":"57501"},
+{"votes":9853,"id":"51866"}]},
+"4":
+{"votes":[
+{"votes":46186,"id":"60612"},
+{"votes":40566,"id":"484"},
+{"votes":14464,"id":"59807"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":73402,"id":"60190"},
+{"votes":66730,"id":"1750"},
+{"votes":9968,"id":"38806"},
+{"votes":9155,"id":"61143"},
+{"votes":8771,"id":"61142"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":28582,"id":"60200"},
+{"votes":25059,"id":"39053"},
+{"votes":5567,"id":"61133"},
+{"votes":4849,"id":"61134"}]}},
+"Measure":
+{"75 - Multnomah Casino":
+{"votes":[
+{"votes":161214,"id":"3"},
+{"votes":126569,"id":"2"}]},
+"74 - Medical Marijuana":
+{"votes":[
+{"votes":115527,"id":"3"},
+{"votes":92628,"id":"2"}]}}},
+"precincts":
+{"total":1000,"reporting":64},
+"abbr":"OR","name":"Oregon"}}

@@ -1,0 +1,50 @@
+{"state":"KS","total":0,"candidates":
+{"61105":"Lib|Talbert|Jasmin Talbert","61104":"Lib|Gray|Andrew Gray","61103":"RP|Cannon|Ken Cannon","61102":"Lib|Dann|Michael Dann","59786":"Lib|Garrard|Robert Garrard","61085":"Dem|Goyle|Raj Goyle","61084":"Dem|Hudspeth|Cheryl Hudspeth","59789":"RP|Ducey|Susan Ducey","53995":"Dem|Holland|Tom Holland","61083":"Dem|Johnston|Lisa Johnston","692":"GOP|Moran|Jerry Moran","693":"Lib|Warner|Jack Warner","60768":"GOP|Pompeo|Mike Pompeo","60766":"Dem|Moore|Stephene Moore","60764":"Dem|Jilka|Alan Jilka","3":"|No| No","2":"|Yes| Yes","51224":"RP|Bellis|Joe Bellis","61243":"Lib|Smith|Shawn Smith","54149":"GOP|Huelskamp|Tim Huelskamp","54005":"GOP|Yoder|Kevin Yoder","19867":"GOP|Jenkins|Lynn Jenkins","1720":"GOP|Brownback|Sam Brownback"},
+"locals":
+{},
+"totals":
+{"name":"Kansas","precincts":
+{"total":1323,"reporting":464},
+"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":32174,"id":"54149"},
+{"votes":29569,"id":"60764"},
+{"votes":10786,"id":"693"}]},
+"3":
+{"votes":[
+{"votes":40881,"id":"60766"},
+{"votes":34288,"id":"54005"},
+{"votes":11639,"id":"61105"}]},
+"2":
+{"votes":[
+{"votes":23217,"id":"61084"},
+{"votes":19387,"id":"19867"},
+{"votes":8162,"id":"59786"}]},
+"4":
+{"votes":[
+{"votes":46903,"id":"60768"},
+{"votes":44871,"id":"61085"},
+{"votes":9627,"id":"59789"},
+{"votes":9177,"id":"61243"}]}},
+"Amendment":
+{"1 - Right to Bear Arms":
+{"votes":[
+{"votes":146804,"id":"2"},
+{"votes":116440,"id":"3"}]}},
+"U.S. Senate":
+{"2010":
+{"votes":[
+{"votes":145424,"id":"692"},
+{"votes":133164,"id":"61083"},
+{"votes":25881,"id":"51224"},
+{"votes":24622,"id":"61102"}]}},
+"Governor":
+{"":
+{"votes":[
+{"votes":119256,"id":"1720"},
+{"votes":112827,"id":"53995"},
+{"votes":28156,"id":"61103"},
+{"votes":23368,"id":"61104"}]}}},
+"abbr":"KS","votesby":"district"}}

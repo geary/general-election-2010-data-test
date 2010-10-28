@@ -1,0 +1,24 @@
+{"state":"DE","total":0,"candidates":
+{"57577":"GOP|O'Donnell|Christine O'Donnell","61246":"IPD|Miller|Glenn Miller","61247":"Lib|Rash|James Rash","60997":"Dem|Coons|Christopher Coons","61245":"Lib|Wangen|Brent Wangen","10206":"Dem|Carney|John Carney","61140":"GOP|Urquhart|Glen Urquhart","61244":"IPD|Lofland|Earl Lofland","59889":"BEP|Brown|Jeffrey Brown"},
+"locals":
+{},
+"totals":
+{"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":61601,"id":"10206"},
+{"votes":57647,"id":"61140"},
+{"votes":11324,"id":"59889"},
+{"votes":10081,"id":"61244"},
+{"votes":3814,"id":"61245"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":35511,"id":"60997"},
+{"votes":30925,"id":"57577"},
+{"votes":23446,"id":"61246"},
+{"votes":4296,"id":"61247"}]}}},
+"precincts":
+{"total":436,"reporting":211},
+"abbr":"DE","name":"Delaware"}}

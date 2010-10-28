@@ -1,0 +1,20 @@
+{"state":"ND","total":0,"candidates":
+{"56129":"GOP|Berg|Rick Berg","591":"Dem|Pomeroy|Earl Pomeroy","60744":"Dem|Potter|Tracy Potter","60745":"Lib|Hanson|Keith Hanson","1780":"GOP|Hoeven|John Hoeven"},
+"locals":
+{},
+"totals":
+{"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":10752,"id":"56129"},
+{"votes":8029,"id":"591"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":7318,"id":"60744"},
+{"votes":6350,"id":"60745"},
+{"votes":5113,"id":"1780"}]}}},
+"precincts":
+{"total":505,"reporting":76},
+"abbr":"ND","name":"North Dakota"}}
