@@ -6,28 +6,24 @@
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
-{"total":462,"reporting":462},
+{"total":462,"reporting":0},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":85344,"id":"60546"},
-{"votes":69828,"id":"59492"}],
-"final":"60546"},
+{"votes":0,"id":"60546"},
+{"votes":0,"id":"59492"}]},
 "3":
 {"votes":[
-{"votes":101816,"id":"60547"},
-{"votes":83305,"id":"56805"}],
-"final":"60547"},
+{"votes":0,"id":"56805"},
+{"votes":0,"id":"60547"}]},
 "2":
 {"votes":[
-{"votes":90778,"id":"31918"},
-{"votes":74274,"id":"59494"}],
-"final":"31918"}},
+{"votes":0,"id":"59494"},
+{"votes":0,"id":"31918"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":313489,"id":"31522"},
-{"votes":256490,"id":"31807"}],
-"final":"31522"}}},
+{"votes":0,"id":"31522"},
+{"votes":0,"id":"31807"}]}}},
 "abbr":"NM"}}
