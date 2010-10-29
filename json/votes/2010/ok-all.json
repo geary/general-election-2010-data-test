@@ -6,27 +6,31 @@
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
-{"total":349,"reporting":43},
+{"total":349,"reporting":349},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":12738,"id":"1394"},
-{"votes":9726,"id":"60943"}]},
+{"votes":118447,"id":"1394"},
+{"votes":96911,"id":"60943"}],
+"final":"1394"},
 "3":
 {"votes":[
-{"votes":15597,"id":"1396"},
-{"votes":12020,"id":"59450"}]},
+{"votes":112022,"id":"1396"},
+{"votes":91654,"id":"59450"}],
+"final":"1396"},
 "2":
 {"votes":[
-{"votes":17843,"id":"61120"},
-{"votes":15476,"id":"50187"}]},
+{"votes":112376,"id":"61120"},
+{"votes":91944,"id":"50187"}],
+"final":"61120"},
 "5":
 {"votes":[
-{"votes":0,"id":"37460"},
-{"votes":0,"id":"61119"},
-{"votes":0,"id":"60945"},
-{"votes":0,"id":"61056"}]},
+{"votes":98158,"id":"61119"},
+{"votes":76344,"id":"60945"},
+{"votes":32719,"id":"61056"},
+{"votes":10906,"id":"37460"}],
+"final":"61119"},
 "4":
 {"votes":[
 {"votes":0,"id":"1398"}],
@@ -34,30 +38,36 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":38282,"id":"38273"},
-{"votes":31260,"id":"37351"},
-{"votes":12963,"id":"61099"},
-{"votes":4227,"id":"59449"}]}},
+{"votes":467922,"id":"38273"},
+{"votes":363939,"id":"37351"},
+{"votes":155973,"id":"61099"},
+{"votes":51991,"id":"59449"}],
+"final":"38273"}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":48106,"id":"3"},
-{"votes":38626,"id":"2"}]},
+{"votes":571903,"id":"3"},
+{"votes":467922,"id":"2"}],
+"final":"3"},
 "756 - Health Care":
 {"votes":[
-{"votes":43499,"id":"2"},
-{"votes":43233,"id":"3"}]},
+{"votes":571904,"id":"2"},
+{"votes":467921,"id":"3"}],
+"final":"2"},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":46099,"id":"2"},
-{"votes":40633,"id":"3"}]},
+{"votes":571904,"id":"2"},
+{"votes":467921,"id":"3"}],
+"final":"2"},
 "746 - Voter ID":
 {"votes":[
-{"votes":47851,"id":"3"},
-{"votes":38881,"id":"2"}]}},
+{"votes":571903,"id":"3"},
+{"votes":467922,"id":"2"}],
+"final":"3"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":44896,"id":"37501"},
-{"votes":41836,"id":"57325"}]}}},
+{"votes":571904,"id":"37501"},
+{"votes":467921,"id":"57325"}],
+"final":"37501"}}},
 "abbr":"OK"}}

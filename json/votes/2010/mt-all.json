@@ -6,17 +6,19 @@
 {"name":"Montana","fix":
 {"Lewis & Clark":"Lewis and Clark"},
 "precincts":
-{"total":793,"reporting":83},
+{"total":793,"reporting":793},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":9855,"id":"1162"},
-{"votes":7665,"id":"60401"},
-{"votes":2859,"id":"540"}]}},
+{"votes":145734,"id":"1162"},
+{"votes":129543,"id":"60401"},
+{"votes":48578,"id":"540"}],
+"final":"1162"}},
 "Initiative":
 {"I - 164 Payday Loans":
 {"votes":[
-{"votes":17888,"id":"2"},
-{"votes":15141,"id":"3"}]}}},
+{"votes":178121,"id":"2"},
+{"votes":145734,"id":"3"}],
+"final":"2"}}},
 "abbr":"MT"}}
