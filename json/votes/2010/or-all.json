@@ -7,11 +7,11 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"60610"},
-{"votes":0,"id":"478"},
-{"votes":0,"id":"39371"},
-{"votes":0,"id":"61132"},
-{"votes":0,"id":"59846"}]},
+{"votes":6132,"id":"60610"},
+{"votes":5594,"id":"478"},
+{"votes":743,"id":"59846"},
+{"votes":678,"id":"39371"},
+{"votes":671,"id":"61132"}]},
 "3":
 {"votes":[
 {"votes":0,"id":"61141"},
@@ -35,27 +35,27 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"38806"},
-{"votes":0,"id":"60190"},
-{"votes":0,"id":"61143"},
-{"votes":0,"id":"61142"},
-{"votes":0,"id":"1750"}]}},
+{"votes":5892,"id":"1750"},
+{"votes":5838,"id":"60190"},
+{"votes":755,"id":"61143"},
+{"votes":673,"id":"61142"},
+{"votes":660,"id":"38806"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"61134"},
-{"votes":0,"id":"39053"},
-{"votes":0,"id":"60200"},
-{"votes":0,"id":"61133"}]}},
+{"votes":6533,"id":"39053"},
+{"votes":4905,"id":"60200"},
+{"votes":1390,"id":"61133"},
+{"votes":990,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]},
+{"votes":7665,"id":"3"},
+{"votes":6153,"id":"2"}]},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}}},
+{"votes":8378,"id":"3"},
+{"votes":5440,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":0},
+{"total":1000,"reporting":14},
 "abbr":"OR","name":"Oregon"}}
