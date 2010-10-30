@@ -34,19 +34,19 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":35767,"id":"38273"},
-{"votes":30557,"id":"37351"},
-{"votes":12152,"id":"61099"},
-{"votes":3964,"id":"59449"}]}},
+{"votes":35921,"id":"38273"},
+{"votes":30887,"id":"37351"},
+{"votes":12266,"id":"61099"},
+{"votes":3990,"id":"59449"}]}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":31836,"id":"3"},
-{"votes":26107,"id":"2"}]},
+{"votes":33883,"id":"3"},
+{"votes":28364,"id":"2"}]},
 "756 - Health Care":
 {"votes":[
-{"votes":30992,"id":"2"},
-{"votes":26148,"id":"3"}]},
+{"votes":31440,"id":"2"},
+{"votes":26507,"id":"3"}]},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
 {"votes":31950,"id":"2"},

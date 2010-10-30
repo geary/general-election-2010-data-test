@@ -6,7 +6,7 @@
 {"name":"Massachusetts","fix":
 {"Barnstable":"Barnstable Town","Manchester":"Manchester-by-the-Sea"},
 "precincts":
-{"total":255,"reporting":2},
+{"total":255,"reporting":3},
 "races":
 {"U.S. House":
 {"10":
@@ -18,9 +18,9 @@
 {"votes":0,"id":"54436"}]},
 "1":
 {"votes":[
-{"votes":330,"id":"880"},
+{"votes":368,"id":"880"},
 {"votes":198,"id":"60669"},
-{"votes":53,"id":"61227"}]},
+{"votes":61,"id":"61227"}]},
 "3":
 {"votes":[
 {"votes":0,"id":"883"},
@@ -62,8 +62,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":2693,"id":"51516"},
-{"votes":2124,"id":"60668"},
-{"votes":1462,"id":"22674"},
-{"votes":1245,"id":"895"}]}}},
+{"votes":5340,"id":"51516"},
+{"votes":4668,"id":"60668"},
+{"votes":3021,"id":"22674"},
+{"votes":2682,"id":"895"}]}}},
 "abbr":"MA","votesby":"town"}}

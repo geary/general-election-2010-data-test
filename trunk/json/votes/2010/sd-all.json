@@ -7,9 +7,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"60394"},
-{"votes":0,"id":"60708"},
-{"votes":0,"id":"581"}]}},
+{"votes":1673,"id":"60394"},
+{"votes":1516,"id":"581"},
+{"votes":869,"id":"60708"}]}},
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
@@ -23,8 +23,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"40715"},
-{"votes":0,"id":"60690"}]}},
+{"votes":1358,"id":"60690"},
+{"votes":807,"id":"40715"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -36,5 +36,5 @@
 {"votes":0,"id":"3"},
 {"votes":0,"id":"2"}]}}},
 "precincts":
-{"total":791,"reporting":0},
+{"total":791,"reporting":37},
 "abbr":"SD","name":"South Dakota"}}
