@@ -6,31 +6,31 @@
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":62},
+{"total":301,"reporting":68},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":2308,"id":"53539"},
-{"votes":2223,"id":"61212"},
-{"votes":742,"id":"61220"}]},
+{"votes":2481,"id":"53539"},
+{"votes":2301,"id":"61212"},
+{"votes":769,"id":"61220"}]},
 "2":
 {"votes":[
-{"votes":3252,"id":"1080"},
-{"votes":3125,"id":"61213"},
-{"votes":605,"id":"61221"},
-{"votes":562,"id":"61222"}]}},
+{"votes":4039,"id":"61213"},
+{"votes":3765,"id":"1080"},
+{"votes":729,"id":"61221"},
+{"votes":723,"id":"61222"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":4668,"id":"50448"},
-{"votes":3586,"id":"1075"},
-{"votes":2383,"id":"61040"},
-{"votes":2116,"id":"61219"}]}},
+{"votes":5313,"id":"50448"},
+{"votes":4332,"id":"1075"},
+{"votes":2775,"id":"61040"},
+{"votes":2418,"id":"61219"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":5104,"id":"59860"},
-{"votes":4663,"id":"1072"},
-{"votes":3697,"id":"7722"}]}}},
+{"votes":5830,"id":"59860"},
+{"votes":5266,"id":"1072"},
+{"votes":4196,"id":"7722"}]}}},
 "abbr":"NH","votesby":"town"}}

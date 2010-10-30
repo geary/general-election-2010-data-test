@@ -8,7 +8,8 @@
 {"1":
 {"votes":[
 {"votes":44913,"id":"52020"},
-{"votes":36747,"id":"513"}]}},
+{"votes":36747,"id":"513"}],
+"final":"52020"}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -21,10 +22,11 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":18373,"id":"52025"},
-{"votes":15940,"id":"4434"},
-{"votes":3303,"id":"1174"},
-{"votes":3213,"id":"931"}]}}},
+{"votes":36747,"id":"52025"},
+{"votes":31880,"id":"4434"},
+{"votes":6606,"id":"1174"},
+{"votes":6426,"id":"931"}],
+"final":"52025"}}},
 "precincts":
-{"total":438,"reporting":219},
+{"total":438,"reporting":438},
 "abbr":"AK","name":"Alaska"}}
