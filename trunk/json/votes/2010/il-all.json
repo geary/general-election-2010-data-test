@@ -6,7 +6,7 @@
 {"name":"Illinois","fix":
 {"JoDaviess":"Jo Daviess","DeWitt":"De Witt","LaSalle":"La Salle"},
 "precincts":
-{"total":11209,"reporting":5514},
+{"total":11209,"reporting":5597},
 "races":
 {"U.S. House":
 {"11":
@@ -55,8 +55,8 @@
 "final":"1283"},
 "19":
 {"votes":[
-{"votes":34036,"id":"1285"},
-{"votes":28274,"id":"28671"}],
+{"votes":34553,"id":"1285"},
+{"votes":28924,"id":"28671"}],
 "final":"1285"},
 "18":
 {"votes":[
@@ -114,24 +114,24 @@
 "Amendment":
 {"Recall of Governor":
 {"votes":[
-{"votes":376818,"id":"2"},
-{"votes":304510,"id":"3"}],
+{"votes":383835,"id":"2"},
+{"votes":309842,"id":"3"}],
 "final":"3"}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":339612,"id":"1277"},
-{"votes":311849,"id":"60136"},
-{"votes":63103,"id":"60769"},
-{"votes":60473,"id":"60771"}],
+{"votes":343391,"id":"1277"},
+{"votes":315595,"id":"60136"},
+{"votes":63856,"id":"60769"},
+{"votes":61197,"id":"60771"}],
 "final":"1277"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":326933,"id":"17730"},
-{"votes":305313,"id":"53821"},
-{"votes":45792,"id":"18534"},
-{"votes":45493,"id":"60781"},
-{"votes":44215,"id":"60777"}],
+{"votes":327796,"id":"17730"},
+{"votes":306209,"id":"53821"},
+{"votes":45909,"id":"18534"},
+{"votes":45592,"id":"60781"},
+{"votes":44315,"id":"60777"}],
 "final":"17730"}}},
 "abbr":"IL"}}
