@@ -7,24 +7,24 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":22110,"id":"581"},
-{"votes":21619,"id":"60394"},
-{"votes":10500,"id":"60708"}]}},
+{"votes":22501,"id":"581"},
+{"votes":22138,"id":"60394"},
+{"votes":10701,"id":"60708"}]}},
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
-{"votes":22897,"id":"2"},
-{"votes":19098,"id":"3"}]}},
+{"votes":23106,"id":"2"},
+{"votes":19145,"id":"3"}]}},
 "Referendum":
 {"12 - Smoking Ban":
 {"votes":[
-{"votes":21938,"id":"3"},
-{"votes":18923,"id":"2"}]}},
+{"votes":22035,"id":"3"},
+{"votes":19082,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":22802,"id":"60690"},
-{"votes":18017,"id":"40715"}]}},
+{"votes":23258,"id":"60690"},
+{"votes":18280,"id":"40715"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -36,5 +36,5 @@
 {"votes":23292,"id":"2"},
 {"votes":18704,"id":"3"}]}}},
 "precincts":
-{"total":791,"reporting":448},
+{"total":791,"reporting":457},
 "abbr":"SD","name":"South Dakota"}}

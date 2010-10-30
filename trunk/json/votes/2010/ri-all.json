@@ -13,24 +13,24 @@
 {"votes":653,"id":"40044"}]},
 "2":
 {"votes":[
-{"votes":1879,"id":"59621"},
-{"votes":1848,"id":"967"},
-{"votes":691,"id":"968"}]}},
+{"votes":1924,"id":"967"},
+{"votes":1882,"id":"59621"},
+{"votes":694,"id":"968"}]}},
 "Question":
 {"1 - State Name Change":
 {"votes":[
-{"votes":5471,"id":"3"},
-{"votes":3817,"id":"2"}]}},
+{"votes":7008,"id":"3"},
+{"votes":4826,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":3416,"id":"61225"},
-{"votes":2627,"id":"61224"},
-{"votes":2479,"id":"57844"},
-{"votes":2142,"id":"61041"},
-{"votes":1728,"id":"1753"},
-{"votes":1504,"id":"61226"},
-{"votes":1243,"id":"61223"}]}}},
+{"votes":3630,"id":"61225"},
+{"votes":2754,"id":"61224"},
+{"votes":2659,"id":"57844"},
+{"votes":2322,"id":"61041"},
+{"votes":1901,"id":"1753"},
+{"votes":1623,"id":"61226"},
+{"votes":1343,"id":"61223"}]}}},
 "precincts":
-{"total":537,"reporting":74},
+{"total":537,"reporting":79},
 "abbr":"RI","name":"Rhode Island"}}

@@ -68,9 +68,9 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":76816,"id":"835"},
-{"votes":66217,"id":"13241"},
-{"votes":24915,"id":"61027"}],
+{"votes":77074,"id":"835"},
+{"votes":66224,"id":"13241"},
+{"votes":24918,"id":"61027"}],
 "final":"835"}},
 "Governor":
 {"":
@@ -79,5 +79,5 @@
 {"votes":63025,"id":"841"},
 {"votes":22049,"id":"61029"}]}}},
 "precincts":
-{"total":2902,"reporting":605},
+{"total":2902,"reporting":616},
 "abbr":"GA","name":"Georgia"}}
