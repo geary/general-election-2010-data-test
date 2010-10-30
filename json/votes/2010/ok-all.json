@@ -19,8 +19,8 @@
 {"votes":62,"id":"59450"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"61120"},
-{"votes":0,"id":"50187"}]},
+{"votes":1072,"id":"61120"},
+{"votes":897,"id":"50187"}]},
 "5":
 {"votes":[
 {"votes":0,"id":"37460"},
@@ -34,30 +34,30 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":792,"id":"38273"},
-{"votes":633,"id":"37351"},
-{"votes":267,"id":"61099"},
-{"votes":85,"id":"59449"}]}},
+{"votes":1588,"id":"38273"},
+{"votes":1447,"id":"37351"},
+{"votes":639,"id":"61099"},
+{"votes":179,"id":"59449"}]}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
-{"votes":445,"id":"3"},
-{"votes":253,"id":"2"}]},
+{"votes":1383,"id":"3"},
+{"votes":1153,"id":"2"}]},
 "756 - Health Care":
 {"votes":[
-{"votes":415,"id":"2"},
-{"votes":284,"id":"3"}]},
+{"votes":631,"id":"2"},
+{"votes":560,"id":"3"}]},
 "755 - Ban Intl or Islamic Law":
 {"votes":[
-{"votes":412,"id":"3"},
-{"votes":287,"id":"2"}]},
+{"votes":743,"id":"3"},
+{"votes":448,"id":"2"}]},
 "746 - Voter ID":
 {"votes":[
-{"votes":378,"id":"3"},
-{"votes":321,"id":"2"}]}},
+{"votes":1572,"id":"3"},
+{"votes":966,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":1634,"id":"37501"},
-{"votes":1526,"id":"57325"}]}}},
+{"votes":6837,"id":"37501"},
+{"votes":5381,"id":"57325"}]}}},
 "abbr":"OK"}}

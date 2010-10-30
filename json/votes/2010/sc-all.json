@@ -29,8 +29,8 @@
 "final":"1410"},
 "5":
 {"votes":[
-{"votes":3912,"id":"60619"},
-{"votes":3061,"id":"612"}],
+{"votes":10092,"id":"60619"},
+{"votes":7453,"id":"612"}],
 "final":"612"},
 "4":
 {"votes":[
@@ -49,8 +49,8 @@
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":2301,"id":"3"},
-{"votes":1683,"id":"2"}]},
+{"votes":7878,"id":"3"},
+{"votes":6677,"id":"2"}]},
 "2 - Secret Ballot":
 {"votes":[
 {"votes":2126,"id":"2"},
@@ -58,16 +58,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":39776,"id":"60335"},
-{"votes":35327,"id":"610"},
-{"votes":13381,"id":"60671"}],
+{"votes":46674,"id":"60335"},
+{"votes":40761,"id":"610"},
+{"votes":15558,"id":"60671"}],
 "final":"610"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":30563,"id":"58026"},
-{"votes":27801,"id":"60420"},
-{"votes":10721,"id":"60672"}],
+{"votes":35385,"id":"58026"},
+{"votes":31994,"id":"60420"},
+{"votes":12277,"id":"60672"}],
 "final":"60420"}}},
 "precincts":
 {"total":398,"reporting":30},
