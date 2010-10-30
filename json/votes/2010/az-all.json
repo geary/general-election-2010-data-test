@@ -66,24 +66,24 @@
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":4877,"id":"2"},
-{"votes":3750,"id":"3"}]},
+{"votes":14372,"id":"2"},
+{"votes":13319,"id":"3"}]},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":5282,"id":"2"},
-{"votes":3345,"id":"3"}]},
+{"votes":14912,"id":"2"},
+{"votes":12779,"id":"3"}]},
 "106 - Health Care":
 {"votes":[
-{"votes":4788,"id":"2"},
-{"votes":3839,"id":"3"}]},
+{"votes":15649,"id":"2"},
+{"votes":12042,"id":"3"}]},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":5193,"id":"3"},
-{"votes":3433,"id":"2"}]},
+{"votes":15245,"id":"3"},
+{"votes":12444,"id":"2"}]},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":4721,"id":"3"},
-{"votes":3906,"id":"2"}]}}},
+{"votes":15024,"id":"3"},
+{"votes":12666,"id":"2"}]}}},
 "precincts":
 {"total":2239,"reporting":577},
 "abbr":"AZ","name":"Arizona"}}
