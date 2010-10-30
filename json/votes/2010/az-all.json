@@ -59,31 +59,31 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":4522,"id":"4627"},
-{"votes":3870,"id":"4875"},
-{"votes":877,"id":"1137"},
-{"votes":776,"id":"61009"}]}},
+{"votes":12788,"id":"4627"},
+{"votes":11559,"id":"4875"},
+{"votes":2425,"id":"1137"},
+{"votes":2335,"id":"61009"}]}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":3937,"id":"2"},
-{"votes":3249,"id":"3"}]},
+{"votes":4877,"id":"2"},
+{"votes":3750,"id":"3"}]},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":4394,"id":"2"},
-{"votes":2792,"id":"3"}]},
+{"votes":5282,"id":"2"},
+{"votes":3345,"id":"3"}]},
 "106 - Health Care":
 {"votes":[
-{"votes":3763,"id":"2"},
-{"votes":3423,"id":"3"}]},
+{"votes":4788,"id":"2"},
+{"votes":3839,"id":"3"}]},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":4302,"id":"3"},
-{"votes":2884,"id":"2"}]},
+{"votes":5193,"id":"3"},
+{"votes":3433,"id":"2"}]},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":3949,"id":"3"},
-{"votes":3237,"id":"2"}]}}},
+{"votes":4721,"id":"3"},
+{"votes":3906,"id":"2"}]}}},
 "precincts":
 {"total":2239,"reporting":577},
 "abbr":"AZ","name":"Arizona"}}
