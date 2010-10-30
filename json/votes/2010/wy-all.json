@@ -7,15 +7,15 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":4459,"id":"60548"},
-{"votes":3473,"id":"49396"},
-{"votes":1531,"id":"61197"}]}},
+{"votes":5279,"id":"60548"},
+{"votes":4195,"id":"49396"},
+{"votes":1791,"id":"61197"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":4130,"id":"60550"},
-{"votes":3921,"id":"61082"},
-{"votes":1408,"id":"61198"}]}}},
+{"votes":4860,"id":"60550"},
+{"votes":4740,"id":"61082"},
+{"votes":1662,"id":"61198"}]}}},
 "precincts":
-{"total":486,"reporting":75},
+{"total":486,"reporting":92},
 "abbr":"WY","name":"Wyoming"}}
