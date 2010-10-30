@@ -27,8 +27,8 @@
 {"votes":197,"id":"60679"}]},
 "5":
 {"votes":[
-{"votes":12885,"id":"60619"},
-{"votes":9913,"id":"612"}]},
+{"votes":13561,"id":"60619"},
+{"votes":10593,"id":"612"}]},
 "4":
 {"votes":[
 {"votes":122,"id":"59677"},
@@ -44,24 +44,24 @@
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":23355,"id":"3"},
-{"votes":18751,"id":"2"}]},
+{"votes":24058,"id":"3"},
+{"votes":19404,"id":"2"}]},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":13931,"id":"3"},
-{"votes":13170,"id":"2"}]}},
+{"votes":14432,"id":"3"},
+{"votes":14025,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":81912,"id":"60335"},
-{"votes":72386,"id":"610"},
-{"votes":28208,"id":"60671"}]}},
+{"votes":82594,"id":"60335"},
+{"votes":72906,"id":"610"},
+{"votes":28361,"id":"60671"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":67789,"id":"58026"},
-{"votes":63900,"id":"60420"},
-{"votes":24579,"id":"60672"}]}}},
+{"votes":68468,"id":"58026"},
+{"votes":64365,"id":"60420"},
+{"votes":24790,"id":"60672"}]}}},
 "precincts":
 {"total":398,"reporting":66},
 "abbr":"SC","name":"South Carolina"}}
