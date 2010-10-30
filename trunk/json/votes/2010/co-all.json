@@ -56,13 +56,13 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":206898,"id":"3"},
-{"votes":168634,"id":"2"}],
+{"votes":207175,"id":"3"},
+{"votes":168743,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":204985,"id":"3"},
-{"votes":170547,"id":"2"}]}},
+{"votes":205133,"id":"3"},
+{"votes":170785,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -77,12 +77,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":133515,"id":"61076"},
-{"votes":103177,"id":"751"},
-{"votes":97931,"id":"60601"},
-{"votes":17650,"id":"60607"},
-{"votes":16828,"id":"53523"},
-{"votes":16157,"id":"60604"}],
+{"votes":133691,"id":"61076"},
+{"votes":103259,"id":"751"},
+{"votes":98016,"id":"60601"},
+{"votes":17665,"id":"60607"},
+{"votes":16841,"id":"53523"},
+{"votes":16170,"id":"60604"}],
 "final":"61076"}}},
 "precincts":
 {"total":462,"reporting":255},

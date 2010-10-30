@@ -6,13 +6,13 @@
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
-{"total":349,"reporting":7},
+{"total":349,"reporting":31},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":2165,"id":"1394"},
-{"votes":1757,"id":"60943"}]},
+{"votes":3592,"id":"1394"},
+{"votes":3085,"id":"60943"}]},
 "3":
 {"votes":[
 {"votes":19256,"id":"1396"},
@@ -35,10 +35,10 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":51528,"id":"38273"},
-{"votes":42670,"id":"37351"},
-{"votes":17213,"id":"61099"},
-{"votes":5620,"id":"59449"}]}},
+{"votes":52868,"id":"38273"},
+{"votes":43538,"id":"37351"},
+{"votes":17647,"id":"61099"},
+{"votes":5735,"id":"59449"}]}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
@@ -59,7 +59,7 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":90051,"id":"37501"},
-{"votes":74021,"id":"57325"}],
+{"votes":90254,"id":"37501"},
+{"votes":74099,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"}}

@@ -1,4 +1,4 @@
-{"dttime":"Oct 30,2010 04:41 PM","totals":
+{"dttime":"Oct 30,2010 04:47 PM","totals":
 {"races":
 {"President":
 {"":
@@ -66,13 +66,13 @@
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
-{"total":349,"reporting":7},
+{"total":349,"reporting":31},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":2165,"id":"1394"},
-{"votes":1757,"id":"60943"}]},
+{"votes":3592,"id":"1394"},
+{"votes":3085,"id":"60943"}]},
 "3":
 {"votes":[
 {"votes":19256,"id":"1396"},
@@ -95,10 +95,10 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":51528,"id":"38273"},
-{"votes":42670,"id":"37351"},
-{"votes":17213,"id":"61099"},
-{"votes":5620,"id":"59449"}]}},
+{"votes":52868,"id":"38273"},
+{"votes":43538,"id":"37351"},
+{"votes":17647,"id":"61099"},
+{"votes":5735,"id":"59449"}]}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
@@ -119,8 +119,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":90051,"id":"37501"},
-{"votes":74021,"id":"57325"}],
+{"votes":90254,"id":"37501"},
+{"votes":74099,"id":"57325"}],
 "final":"37501"}}},
 "abbr":"OK"},
 "Delaware":
@@ -653,17 +653,17 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":8087,"id":"60548"},
-{"votes":6418,"id":"49396"},
-{"votes":2623,"id":"61197"}]}},
+{"votes":8885,"id":"60548"},
+{"votes":7113,"id":"49396"},
+{"votes":2829,"id":"61197"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":7334,"id":"61082"},
-{"votes":7237,"id":"60550"},
-{"votes":2554,"id":"61198"}]}}},
+{"votes":8078,"id":"61082"},
+{"votes":7915,"id":"60550"},
+{"votes":2832,"id":"61198"}]}}},
 "precincts":
-{"total":486,"reporting":140},
+{"total":486,"reporting":158},
 "abbr":"WY","name":"Wyoming"},
 "Tennessee":
 {"races":
@@ -834,24 +834,24 @@
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":4877,"id":"2"},
-{"votes":3750,"id":"3"}]},
+{"votes":14372,"id":"2"},
+{"votes":13319,"id":"3"}]},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":5282,"id":"2"},
-{"votes":3345,"id":"3"}]},
+{"votes":14912,"id":"2"},
+{"votes":12779,"id":"3"}]},
 "106 - Health Care":
 {"votes":[
-{"votes":4788,"id":"2"},
-{"votes":3839,"id":"3"}]},
+{"votes":15649,"id":"2"},
+{"votes":12042,"id":"3"}]},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":5193,"id":"3"},
-{"votes":3433,"id":"2"}]},
+{"votes":15245,"id":"3"},
+{"votes":12444,"id":"2"}]},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":4721,"id":"3"},
-{"votes":3906,"id":"2"}]}}},
+{"votes":15024,"id":"3"},
+{"votes":12666,"id":"2"}]}}},
 "precincts":
 {"total":2239,"reporting":577},
 "abbr":"AZ","name":"Arizona"},
@@ -866,9 +866,9 @@
 {"votes":464,"id":"61107"}]},
 "3":
 {"votes":[
-{"votes":35517,"id":"535"},
-{"votes":29557,"id":"60403"},
-{"votes":1337,"id":"61111"}],
+{"votes":36193,"id":"535"},
+{"votes":29858,"id":"60403"},
+{"votes":1361,"id":"61111"}],
 "final":"535"},
 "2":
 {"votes":[
@@ -891,21 +891,21 @@
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":77287,"id":"1717"},
-{"votes":70459,"id":"60379"},
-{"votes":26231,"id":"61106"}],
+{"votes":77978,"id":"1717"},
+{"votes":71189,"id":"60379"},
+{"votes":26541,"id":"61106"}],
 "final":"1717"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":87635,"id":"19289"},
-{"votes":76476,"id":"60381"},
-{"votes":4475,"id":"61116"},
-{"votes":3989,"id":"19282"},
-{"votes":735,"id":"61115"},
-{"votes":730,"id":"61114"}]}}},
+{"votes":88261,"id":"19289"},
+{"votes":76798,"id":"60381"},
+{"votes":4498,"id":"61116"},
+{"votes":4011,"id":"19282"},
+{"votes":739,"id":"61115"},
+{"votes":734,"id":"61114"}]}}},
 "precincts":
-{"total":1873,"reporting":914},
+{"total":1873,"reporting":927},
 "abbr":"IA","name":"Iowa"},
 "Michigan":
 {"races":
@@ -1853,37 +1853,37 @@
 "abbr":"WI","name":"Wisconsin"},
 "Vermont":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":153},
+{"total":260,"reporting":166},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":69470,"id":"58883"},
-{"votes":33345,"id":"61151"},
-{"votes":13918,"id":"60891"},
-{"votes":13837,"id":"1152"}],
+{"votes":76675,"id":"58883"},
+{"votes":36654,"id":"61151"},
+{"votes":15045,"id":"60891"},
+{"votes":14974,"id":"1152"}],
 "final":"58883"}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":49501,"id":"60885"},
-{"votes":47940,"id":"1760"},
-{"votes":9562,"id":"1157"},
-{"votes":8834,"id":"1158"},
-{"votes":7844,"id":"60888"},
-{"votes":3924,"id":"60889"},
-{"votes":3218,"id":"60887"}],
+{"votes":54354,"id":"60885"},
+{"votes":52662,"id":"1760"},
+{"votes":10510,"id":"1157"},
+{"votes":9668,"id":"1158"},
+{"votes":8626,"id":"60888"},
+{"votes":4287,"id":"60889"},
+{"votes":3512,"id":"60887"}],
 "final":"1760"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":67985,"id":"45461"},
-{"votes":41390,"id":"45222"},
-{"votes":6340,"id":"1158"},
-{"votes":4566,"id":"50649"},
-{"votes":4482,"id":"60894"},
-{"votes":4060,"id":"60893"},
-{"votes":1983,"id":"60895"}]}}},
+{"votes":74684,"id":"45461"},
+{"votes":45431,"id":"45222"},
+{"votes":6961,"id":"1158"},
+{"votes":5032,"id":"50649"},
+{"votes":4900,"id":"60894"},
+{"votes":4437,"id":"60893"},
+{"votes":2157,"id":"60895"}]}}},
 "abbr":"VT","votesby":"town"},
 "Georgia":
 {"races":
@@ -1919,8 +1919,8 @@
 "final":"13348"},
 "2":
 {"votes":[
-{"votes":15487,"id":"1253"},
-{"votes":12885,"id":"61016"}],
+{"votes":15602,"id":"1253"},
+{"votes":13055,"id":"61016"}],
 "final":"1253"},
 "5":
 {"votes":[
@@ -1951,16 +1951,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":78465,"id":"835"},
-{"votes":66955,"id":"13241"},
-{"votes":25177,"id":"61027"}],
+{"votes":78511,"id":"835"},
+{"votes":67022,"id":"13241"},
+{"votes":25207,"id":"61027"}],
 "final":"835"}},
 "Governor":
 {"":
 {"votes":[
-{"votes":68509,"id":"824"},
-{"votes":63872,"id":"841"},
-{"votes":22355,"id":"61029"}]}}},
+{"votes":68585,"id":"824"},
+{"votes":64055,"id":"841"},
+{"votes":22380,"id":"61029"}]}}},
 "precincts":
 {"total":2902,"reporting":629},
 "abbr":"GA","name":"Georgia"},
@@ -2135,7 +2135,7 @@
 "3":
 {"votes":[
 {"votes":20813,"id":"1242"},
-{"votes":19058,"id":"60478"},
+{"votes":19070,"id":"60478"},
 {"votes":6050,"id":"60503"}],
 "final":"1242"},
 "2":
@@ -2147,7 +2147,7 @@
 "5":
 {"votes":[
 {"votes":23091,"id":"60482"},
-{"votes":18291,"id":"60481"}]},
+{"votes":18791,"id":"60481"}]},
 "4":
 {"votes":[
 {"votes":37696,"id":"851"},
@@ -2233,8 +2233,8 @@
 "Referendum":
 {"1 - Balanced Budget":
 {"votes":[
-{"votes":427460,"id":"3"},
-{"votes":352613,"id":"2"}]}},
+{"votes":428016,"id":"3"},
+{"votes":352936,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
@@ -2885,13 +2885,13 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":206898,"id":"3"},
-{"votes":168634,"id":"2"}],
+{"votes":207175,"id":"3"},
+{"votes":168743,"id":"2"}],
 "final":"3"},
 "63 - Health Care":
 {"votes":[
-{"votes":204985,"id":"3"},
-{"votes":170547,"id":"2"}]}},
+{"votes":205133,"id":"3"},
+{"votes":170785,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -2906,12 +2906,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":133515,"id":"61076"},
-{"votes":103177,"id":"751"},
-{"votes":97931,"id":"60601"},
-{"votes":17650,"id":"60607"},
-{"votes":16828,"id":"53523"},
-{"votes":16157,"id":"60604"}],
+{"votes":133691,"id":"61076"},
+{"votes":103259,"id":"751"},
+{"votes":98016,"id":"60601"},
+{"votes":17665,"id":"60607"},
+{"votes":16841,"id":"53523"},
+{"votes":16170,"id":"60604"}],
 "final":"61076"}}},
 "precincts":
 {"total":462,"reporting":255},
@@ -3350,30 +3350,30 @@
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":130},
+{"total":184,"reporting":140},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":108090,"id":"59613"},
-{"votes":95291,"id":"60618"}]},
+{"votes":115377,"id":"59613"},
+{"votes":102362,"id":"60618"}]},
 "2":
 {"votes":[
-{"votes":138174,"id":"585"},
-{"votes":67782,"id":"60617"}]}},
+{"votes":151206,"id":"585"},
+{"votes":74223,"id":"60617"}]}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":222952,"id":"2"},
-{"votes":182084,"id":"3"}]}},
+{"votes":243713,"id":"2"},
+{"votes":199065,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":119531,"id":"60414"},
-{"votes":107302,"id":"60614"},
-{"votes":69410,"id":"60616"},
-{"votes":61085,"id":"60416"},
-{"votes":52648,"id":"60615"}]}}},
+{"votes":129362,"id":"60414"},
+{"votes":116175,"id":"60614"},
+{"votes":75166,"id":"60616"},
+{"votes":66153,"id":"60416"},
+{"votes":57005,"id":"60615"}]}}},
 "abbr":"ME"},
 "Rhode Island":
 {"races":
