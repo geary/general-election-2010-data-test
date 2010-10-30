@@ -1,8 +1,4 @@
-{"state":"AL","total":0,"candidates":
-{"52867":"GOP|Bentley|Robert Bentley","4080":"Dem|Sparks|Ron Sparks","59445":"Dem|Bright|Bobby Bright","60637":"Dem|Raby|Steve Raby","1161":"GOP|Rogers|Mike Rogers","60557":"Dem|Barnes|William Barnes","60629":"GOP|Brooks|Mo Brooks","60628":"GOP|Roby|Martha Roby","4019":"Dem|Segrest|Steve Segrest","526":"GOP|Bachus|Spencer Bachus","60639":"Dem|Sewell|Terri Sewell","523":"GOP|Aderholt|Robert Aderholt","61158":"CST|Walter|David Walter","1004":"GOP|Bonner|Jo Bonner","1702":"GOP|Shelby|Richard Shelby","3198":"GOP|Chamberlain|Don Chamberlain"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -48,4 +44,8 @@
 "final":"52867"}}},
 "precincts":
 {"total":398,"reporting":21},
-"abbr":"AL","name":"Alabama"}}
+"abbr":"AL","name":"Alabama"},
+"state":"AL","candidates":
+{"52867":"GOP|Bentley|Robert Bentley","4080":"Dem|Sparks|Ron Sparks","59445":"Dem|Bright|Bobby Bright","60637":"Dem|Raby|Steve Raby","1161":"GOP|Rogers|Mike Rogers","60557":"Dem|Barnes|William Barnes","60629":"GOP|Brooks|Mo Brooks","60628":"GOP|Roby|Martha Roby","4019":"Dem|Segrest|Steve Segrest","526":"GOP|Bachus|Spencer Bachus","60639":"Dem|Sewell|Terri Sewell","523":"GOP|Aderholt|Robert Aderholt","61158":"CST|Walter|David Walter","1004":"GOP|Bonner|Jo Bonner","1702":"GOP|Shelby|Richard Shelby","3198":"GOP|Chamberlain|Don Chamberlain"},
+"total":0,"locals":
+{}}

@@ -1,8 +1,4 @@
-{"state":"MT","total":0,"candidates":
-{"540":"Lib|Fellows|Mike Fellows","2":"|Yes| Yes","1162":"GOP|Rehberg|Denny Rehberg","60401":"Dem|McDonald|Dennis McDonald","3":"|No| No"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"name":"Montana","fix":
 {"Lewis & Clark":"Lewis and Clark"},
 "precincts":
@@ -19,4 +15,8 @@
 {"votes":[
 {"votes":25256,"id":"3"},
 {"votes":20461,"id":"2"}]}}},
-"abbr":"MT"}}
+"abbr":"MT"},
+"state":"MT","candidates":
+{"540":"Lib|Fellows|Mike Fellows","2":"|Yes| Yes","1162":"GOP|Rehberg|Denny Rehberg","60401":"Dem|McDonald|Dennis McDonald","3":"|No| No"},
+"total":0,"locals":
+{}}

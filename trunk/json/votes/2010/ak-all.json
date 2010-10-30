@@ -1,8 +1,4 @@
-{"state":"AK","total":0,"candidates":
-{"1174":"AKI|Wright|Don Wright","59900":"Lib|Haase|David Haase","61250":"NPD|Carter|Tim Carter","51351":"NPD|Gianoutsos|Ted Gianoutsos","100008":"NPD|Total Write-In| Total Write-In","52020":"Dem|Crawford|Harry Crawford","4434":"GOP|Parnell|Sean Parnell","931":"Lib|Toien|Billy Toien","61157":"GOP|Miller|Joe Miller","61042":"Dem|McAdams|Scott McAdams","513":"GOP|Young|Don Young","52025":"Dem|Berkowitz|Ethan Berkowitz"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -29,4 +25,8 @@
 "final":"52025"}}},
 "precincts":
 {"total":438,"reporting":438},
-"abbr":"AK","name":"Alaska"}}
+"abbr":"AK","name":"Alaska"},
+"state":"AK","candidates":
+{"1174":"AKI|Wright|Don Wright","59900":"Lib|Haase|David Haase","61250":"NPD|Carter|Tim Carter","51351":"NPD|Gianoutsos|Ted Gianoutsos","100008":"NPD|Total Write-In| Total Write-In","52020":"Dem|Crawford|Harry Crawford","4434":"GOP|Parnell|Sean Parnell","931":"Lib|Toien|Billy Toien","61157":"GOP|Miller|Joe Miller","61042":"Dem|McAdams|Scott McAdams","513":"GOP|Young|Don Young","52025":"Dem|Berkowitz|Ethan Berkowitz"},
+"total":0,"locals":
+{}}
