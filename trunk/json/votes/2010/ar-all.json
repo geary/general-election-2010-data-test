@@ -6,18 +6,18 @@
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":504},
+{"total":2406,"reporting":610},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":3182,"id":"60223"},
-{"votes":2901,"id":"60226"},
-{"votes":1043,"id":"61138"}]},
+{"votes":3495,"id":"60223"},
+{"votes":3166,"id":"60226"},
+{"votes":1140,"id":"61138"}]},
 "3":
 {"votes":[
-{"votes":10788,"id":"60238"},
-{"votes":8221,"id":"60233"}]},
+{"votes":11788,"id":"60238"},
+{"votes":8674,"id":"60233"}]},
 "2":
 {"votes":[
 {"votes":1888,"id":"52721"},
@@ -32,15 +32,15 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":16271,"id":"1620"},
-{"votes":11764,"id":"7086"},
-{"votes":8126,"id":"60551"},
-{"votes":3656,"id":"61137"}]}},
+{"votes":21426,"id":"1620"},
+{"votes":15437,"id":"7086"},
+{"votes":10424,"id":"60551"},
+{"votes":5385,"id":"61137"}]}},
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":16580,"id":"3"},
-{"votes":13740,"id":"2"}]}},
+{"votes":17865,"id":"3"},
+{"votes":15013,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[

@@ -7,9 +7,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":6894,"id":"60394"},
-{"votes":6647,"id":"581"},
-{"votes":3130,"id":"60708"}]}},
+{"votes":6980,"id":"60394"},
+{"votes":6748,"id":"581"},
+{"votes":3171,"id":"60708"}]}},
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
@@ -18,8 +18,8 @@
 "Referendum":
 {"12 - Smoking Ban":
 {"votes":[
-{"votes":909,"id":"3"},
-{"votes":738,"id":"2"}]}},
+{"votes":2302,"id":"3"},
+{"votes":1756,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
@@ -33,8 +33,8 @@
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
-{"votes":846,"id":"2"},
-{"votes":800,"id":"3"}]}}},
+{"votes":2317,"id":"2"},
+{"votes":1741,"id":"3"}]}}},
 "precincts":
-{"total":791,"reporting":95},
+{"total":791,"reporting":101},
 "abbr":"SD","name":"South Dakota"}}
