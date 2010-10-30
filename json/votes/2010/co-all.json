@@ -20,10 +20,10 @@
 {"votes":0,"id":"60999"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"60584"},
-{"votes":0,"id":"60585"},
-{"votes":0,"id":"9302"},
-{"votes":0,"id":"60691"}]},
+{"votes":942,"id":"60691"},
+{"votes":718,"id":"9302"},
+{"votes":134,"id":"60585"},
+{"votes":120,"id":"60584"}]},
 "5":
 {"votes":[
 {"votes":0,"id":"60595"},
@@ -32,10 +32,10 @@
 {"votes":0,"id":"59791"}]},
 "4":
 {"votes":[
-{"votes":0,"id":"59348"},
-{"votes":0,"id":"60588"},
-{"votes":0,"id":"60593"},
-{"votes":0,"id":"60589"}]},
+{"votes":4693,"id":"60588"},
+{"votes":3806,"id":"59348"},
+{"votes":864,"id":"60593"},
+{"votes":812,"id":"60589"}]},
 "7":
 {"votes":[
 {"votes":0,"id":"9291"},
@@ -49,12 +49,12 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]},
+{"votes":6808,"id":"3"},
+{"votes":5288,"id":"2"}]},
 "63 - Health Care":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}},
+{"votes":7183,"id":"3"},
+{"votes":4913,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -68,12 +68,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"60604"},
-{"votes":0,"id":"751"},
-{"votes":0,"id":"60601"},
-{"votes":0,"id":"60607"},
-{"votes":0,"id":"53523"},
-{"votes":0,"id":"61076"}]}}},
+{"votes":3278,"id":"751"},
+{"votes":3175,"id":"60601"},
+{"votes":546,"id":"60607"},
+{"votes":531,"id":"53523"},
+{"votes":499,"id":"60604"},
+{"votes":405,"id":"61076"}]}}},
 "precincts":
-{"total":462,"reporting":0},
+{"total":462,"reporting":8},
 "abbr":"CO","name":"Colorado"}}
