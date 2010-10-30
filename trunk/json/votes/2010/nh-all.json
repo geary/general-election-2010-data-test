@@ -6,7 +6,7 @@
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":20},
+{"total":301,"reporting":21},
 "races":
 {"U.S. House":
 {"1":
@@ -23,14 +23,14 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":2001,"id":"50448"},
-{"votes":1349,"id":"1075"},
-{"votes":822,"id":"61040"},
-{"votes":761,"id":"61219"}]}},
+{"votes":2038,"id":"50448"},
+{"votes":1356,"id":"1075"},
+{"votes":858,"id":"61040"},
+{"votes":791,"id":"61219"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":2291,"id":"59860"},
-{"votes":1907,"id":"1072"},
-{"votes":1541,"id":"7722"}]}}},
+{"votes":2293,"id":"59860"},
+{"votes":1909,"id":"1072"},
+{"votes":1648,"id":"7722"}]}}},
 "abbr":"NH","votesby":"town"}}

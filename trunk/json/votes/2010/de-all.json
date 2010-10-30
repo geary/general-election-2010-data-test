@@ -11,14 +11,16 @@
 {"votes":0,"id":"61140"},
 {"votes":0,"id":"59889"},
 {"votes":0,"id":"61244"},
-{"votes":0,"id":"61245"}]}},
+{"votes":0,"id":"61245"}],
+"final":"10206"}},
 "U.S. Senate":
 {"":
 {"votes":[
 {"votes":0,"id":"57577"},
 {"votes":0,"id":"61246"},
 {"votes":0,"id":"61247"},
-{"votes":0,"id":"60997"}]}}},
+{"votes":0,"id":"60997"}],
+"final":"60997"}}},
 "precincts":
 {"total":436,"reporting":0},
 "abbr":"DE","name":"Delaware"}}

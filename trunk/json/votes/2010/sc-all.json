@@ -18,15 +18,13 @@
 {"votes":[
 {"votes":7467,"id":"59676"},
 {"votes":6117,"id":"57891"},
-{"votes":1096,"id":"60680"}],
-"final":"57891"},
+{"votes":1096,"id":"60680"}]},
 "2":
 {"votes":[
 {"votes":1305,"id":"59675"},
 {"votes":1243,"id":"1410"},
 {"votes":286,"id":"60678"},
-{"votes":197,"id":"60679"}],
-"final":"1410"},
+{"votes":197,"id":"60679"}]},
 "5":
 {"votes":[
 {"votes":11727,"id":"60619"},
@@ -49,8 +47,8 @@
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":10112,"id":"3"},
-{"votes":8170,"id":"2"}]},
+{"votes":12691,"id":"3"},
+{"votes":10518,"id":"2"}]},
 "2 - Secret Ballot":
 {"votes":[
 {"votes":9166,"id":"3"},
@@ -58,17 +56,15 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":60273,"id":"60335"},
-{"votes":52752,"id":"610"},
-{"votes":20121,"id":"60671"}],
-"final":"610"}},
+{"votes":66338,"id":"60335"},
+{"votes":58910,"id":"610"},
+{"votes":22647,"id":"60671"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":52403,"id":"58026"},
-{"votes":49085,"id":"60420"},
-{"votes":18776,"id":"60672"}],
-"final":"60420"}}},
+{"votes":53007,"id":"58026"},
+{"votes":49955,"id":"60420"},
+{"votes":19055,"id":"60672"}]}}},
 "precincts":
 {"total":398,"reporting":66},
 "abbr":"SC","name":"South Carolina"}}
