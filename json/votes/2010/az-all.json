@@ -7,9 +7,9 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"61192"},
-{"votes":0,"id":"59526"},
-{"votes":0,"id":"61002"}]},
+{"votes":3232,"id":"61002"},
+{"votes":2913,"id":"59526"},
+{"votes":1041,"id":"61192"}]},
 "3":
 {"votes":[
 {"votes":0,"id":"61004"},
@@ -52,17 +52,17 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":40176,"id":"61000"},
-{"votes":35706,"id":"1701"},
-{"votes":6894,"id":"61001"},
-{"votes":6589,"id":"56827"}]}},
+{"votes":41780,"id":"61000"},
+{"votes":37123,"id":"1701"},
+{"votes":7182,"id":"61001"},
+{"votes":6873,"id":"56827"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"4875"},
-{"votes":0,"id":"1137"},
-{"votes":0,"id":"61009"},
-{"votes":0,"id":"4627"}]}},
+{"votes":3079,"id":"4627"},
+{"votes":2943,"id":"4875"},
+{"votes":600,"id":"61009"},
+{"votes":564,"id":"1137"}]}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
@@ -85,5 +85,5 @@
 {"votes":0,"id":"3"},
 {"votes":0,"id":"2"}]}}},
 "precincts":
-{"total":2239,"reporting":460},
+{"total":2239,"reporting":483},
 "abbr":"AZ","name":"Arizona"}}
