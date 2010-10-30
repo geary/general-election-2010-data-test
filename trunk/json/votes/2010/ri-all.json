@@ -7,10 +7,10 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"60670"},
-{"votes":0,"id":"40044"},
-{"votes":0,"id":"39864"},
-{"votes":0,"id":"56221"}]},
+{"votes":1197,"id":"39864"},
+{"votes":785,"id":"60670"},
+{"votes":207,"id":"40044"},
+{"votes":201,"id":"56221"}]},
 "2":
 {"votes":[
 {"votes":0,"id":"967"},
@@ -24,13 +24,13 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"61224"},
-{"votes":0,"id":"61225"},
-{"votes":0,"id":"61226"},
-{"votes":0,"id":"57844"},
-{"votes":0,"id":"61223"},
-{"votes":0,"id":"61041"},
-{"votes":0,"id":"1753"}]}}},
+{"votes":259,"id":"61225"},
+{"votes":164,"id":"61224"},
+{"votes":157,"id":"57844"},
+{"votes":157,"id":"61041"},
+{"votes":139,"id":"1753"},
+{"votes":120,"id":"61226"},
+{"votes":80,"id":"61223"}]}}},
 "precincts":
-{"total":537,"reporting":0},
+{"total":537,"reporting":5},
 "abbr":"RI","name":"Rhode Island"}}
