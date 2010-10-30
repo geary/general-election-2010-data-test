@@ -24,9 +24,9 @@
 {"votes":4913,"id":"60611"}]},
 "5":
 {"votes":[
-{"votes":0,"id":"57501"},
-{"votes":0,"id":"51866"},
-{"votes":0,"id":"38736"}]},
+{"votes":687,"id":"38736"},
+{"votes":598,"id":"57501"},
+{"votes":304,"id":"51866"}]},
 "4":
 {"votes":[
 {"votes":0,"id":"59807"},
@@ -43,10 +43,10 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":4855,"id":"39053"},
-{"votes":4053,"id":"60200"},
-{"votes":859,"id":"61134"},
-{"votes":818,"id":"61133"}]}},
+{"votes":19812,"id":"39053"},
+{"votes":17653,"id":"60200"},
+{"votes":3701,"id":"61133"},
+{"votes":3673,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
@@ -57,5 +57,5 @@
 {"votes":0,"id":"3"},
 {"votes":0,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":7},
+{"total":1000,"reporting":31},
 "abbr":"OR","name":"Oregon"}}
