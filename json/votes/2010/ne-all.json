@@ -11,9 +11,9 @@
 {"votes":101,"id":"60706"}]},
 "3":
 {"votes":[
-{"votes":385,"id":"30010"},
-{"votes":256,"id":"60620"},
-{"votes":44,"id":"61191"}]},
+{"votes":495,"id":"30010"},
+{"votes":352,"id":"60620"},
+{"votes":60,"id":"61191"}]},
 "2":
 {"votes":[
 {"votes":0,"id":"60707"},
@@ -21,8 +21,8 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":586,"id":"29957"},
-{"votes":322,"id":"29894"}]}}},
+{"votes":706,"id":"29957"},
+{"votes":424,"id":"29894"}]}}},
 "precincts":
-{"total":1636,"reporting":6},
+{"total":1636,"reporting":8},
 "abbr":"NE","name":"Nebraska"}}
