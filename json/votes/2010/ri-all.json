@@ -10,12 +10,14 @@
 {"votes":0,"id":"60670"},
 {"votes":0,"id":"40044"},
 {"votes":0,"id":"39864"},
-{"votes":0,"id":"56221"}]},
+{"votes":0,"id":"56221"}],
+"final":"39864"},
 "2":
 {"votes":[
 {"votes":0,"id":"967"},
 {"votes":0,"id":"968"},
-{"votes":0,"id":"59621"}]}},
+{"votes":0,"id":"59621"}],
+"final":"967"}},
 "Question":
 {"1 - State Name Change":
 {"votes":[
@@ -30,7 +32,8 @@
 {"votes":0,"id":"57844"},
 {"votes":0,"id":"61223"},
 {"votes":0,"id":"61041"},
-{"votes":0,"id":"1753"}]}}},
+{"votes":0,"id":"1753"}],
+"final":"1753"}}},
 "precincts":
 {"total":537,"reporting":0},
 "abbr":"RI","name":"Rhode Island"}}

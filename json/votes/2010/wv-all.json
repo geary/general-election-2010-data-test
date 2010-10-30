@@ -1,5 +1,5 @@
 {"state":"WV","total":0,"candidates":
-{"47239":"CST|Hudok|Phil Hudok","47656":"Dem|Oliverio|Mike Oliverio","60898":"Dem|Graf|Virginia Lynch Graf","47478":"GOP|Maynard|Elliott Maynard","442":"Dem|Rahall|Nick Rahall","441":"GOP|Capito|Shelley Moore Capito","47450":"Dem|Manchin|Joe Manchin","61249":"CST|Becker|Jeff Becker","47518":"GOP|McKinley|David McKinley","51735":"GOP|Raese|John Raese","51149":"Mnt|Johnson|Jesse Johnson"},
+{"47239":"CST|Hudok|Phil Hudok","47656":"Dem|Oliverio|Mike Oliverio","60898":"Dem|Graf|Virginia Lynch Graf","47478":"GOP|Maynard|Elliott Maynard","442":"Dem|Rahall|Nick Rahall","441":"GOP|Capito|Shelley Moore Capito","47450":"Dem|Manchin|Joe Manchin","51149":"Mnt|Johnson|Jesse Johnson","61249":"CST|Becker|Jeff Becker","47518":"GOP|McKinley|David McKinley","51735":"GOP|Raese|John Raese"},
 "locals":
 {},
 "totals":
@@ -7,24 +7,24 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"47518"},
-{"votes":0,"id":"47656"}]},
+{"votes":11706,"id":"47518"},
+{"votes":10002,"id":"47656"}]},
 "3":
 {"votes":[
-{"votes":0,"id":"442"},
-{"votes":0,"id":"47478"}]},
+{"votes":14123,"id":"47478"},
+{"votes":12369,"id":"442"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"441"},
-{"votes":0,"id":"60898"},
-{"votes":0,"id":"47239"}]}},
+{"votes":7056,"id":"441"},
+{"votes":3775,"id":"60898"},
+{"votes":1956,"id":"47239"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"61249"},
-{"votes":0,"id":"51735"},
-{"votes":0,"id":"47450"},
-{"votes":0,"id":"51149"}]}}},
+{"votes":27350,"id":"47450"},
+{"votes":23603,"id":"51735"},
+{"votes":5186,"id":"51149"},
+{"votes":4835,"id":"61249"}]}}},
 "precincts":
-{"total":672,"reporting":0},
+{"total":672,"reporting":194},
 "abbr":"WV","name":"West Virginia"}}
