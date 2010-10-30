@@ -6,7 +6,7 @@
 {"name":"Virginia","fix":
 {},
 "precincts":
-{"total":196,"reporting":47},
+{"total":196,"reporting":52},
 "races":
 {"U.S. House":
 {"11":
@@ -24,9 +24,9 @@
 "final":"719"},
 "1":
 {"votes":[
-{"votes":1209,"id":"61063"},
+{"votes":1211,"id":"61063"},
 {"votes":1180,"id":"59800"},
-{"votes":1116,"id":"57798"}],
+{"votes":1117,"id":"57798"}],
 "final":"57798"},
 "3":
 {"votes":[
@@ -58,9 +58,9 @@
 "final":"715"},
 "6":
 {"votes":[
-{"votes":1549,"id":"714"},
-{"votes":828,"id":"61124"},
-{"votes":380,"id":"61125"}],
+{"votes":1554,"id":"714"},
+{"votes":833,"id":"61124"},
+{"votes":385,"id":"61125"}],
 "final":"714"},
 "9":
 {"votes":[
