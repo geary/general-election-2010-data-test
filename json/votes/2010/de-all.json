@@ -1,8 +1,4 @@
-{"state":"DE","total":0,"candidates":
-{"57577":"GOP|O'Donnell|Christine O'Donnell","61246":"IPD|Miller|Glenn Miller","61247":"Lib|Rash|James Rash","59889":"BEP|Brown|Jeffrey Brown","61245":"Lib|Wangen|Brent Wangen","10206":"Dem|Carney|John Carney","61140":"GOP|Urquhart|Glen Urquhart","61244":"IPD|Lofland|Earl Lofland","60997":"Dem|Coons|Christopher Coons"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -23,4 +19,8 @@
 "final":"57577"}}},
 "precincts":
 {"total":436,"reporting":33},
-"abbr":"DE","name":"Delaware"}}
+"abbr":"DE","name":"Delaware"},
+"state":"DE","candidates":
+{"57577":"GOP|O'Donnell|Christine O'Donnell","61246":"IPD|Miller|Glenn Miller","61247":"Lib|Rash|James Rash","59889":"BEP|Brown|Jeffrey Brown","61245":"Lib|Wangen|Brent Wangen","10206":"Dem|Carney|John Carney","61140":"GOP|Urquhart|Glen Urquhart","61244":"IPD|Lofland|Earl Lofland","60997":"Dem|Coons|Christopher Coons"},
+"total":0,"locals":
+{}}

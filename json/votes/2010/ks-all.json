@@ -1,8 +1,4 @@
-{"state":"KS","total":0,"candidates":
-{"61105":"Lib|Talbert|Jasmin Talbert","61104":"Lib|Gray|Andrew Gray","61103":"RP|Cannon|Ken Cannon","61102":"Lib|Dann|Michael Dann","59786":"Lib|Garrard|Robert Garrard","61085":"Dem|Goyle|Raj Goyle","61084":"Dem|Hudspeth|Cheryl Hudspeth","59789":"RP|Ducey|Susan Ducey","53995":"Dem|Holland|Tom Holland","61083":"Dem|Johnston|Lisa Johnston","692":"GOP|Moran|Jerry Moran","693":"Lib|Warner|Jack Warner","60768":"GOP|Pompeo|Mike Pompeo","60766":"Dem|Moore|Stephene Moore","60764":"Dem|Jilka|Alan Jilka","3":"|No| No","2":"|Yes| Yes","51224":"RP|Bellis|Joe Bellis","61243":"Lib|Smith|Shawn Smith","54149":"GOP|Huelskamp|Tim Huelskamp","54005":"GOP|Yoder|Kevin Yoder","19867":"GOP|Jenkins|Lynn Jenkins","1720":"GOP|Brownback|Sam Brownback"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"name":"Kansas","precincts":
 {"total":1323,"reporting":1323},
 "races":
@@ -47,4 +43,8 @@
 {"votes":343362,"id":"53995"},
 {"votes":71333,"id":"61103"},
 {"votes":69702,"id":"61104"}]}}},
-"abbr":"KS","votesby":"district"}}
+"abbr":"KS","votesby":"district"},
+"state":"KS","candidates":
+{"61105":"Lib|Talbert|Jasmin Talbert","61104":"Lib|Gray|Andrew Gray","61103":"RP|Cannon|Ken Cannon","61102":"Lib|Dann|Michael Dann","59786":"Lib|Garrard|Robert Garrard","61085":"Dem|Goyle|Raj Goyle","61084":"Dem|Hudspeth|Cheryl Hudspeth","59789":"RP|Ducey|Susan Ducey","53995":"Dem|Holland|Tom Holland","61083":"Dem|Johnston|Lisa Johnston","692":"GOP|Moran|Jerry Moran","693":"Lib|Warner|Jack Warner","60768":"GOP|Pompeo|Mike Pompeo","60766":"Dem|Moore|Stephene Moore","60764":"Dem|Jilka|Alan Jilka","3":"|No| No","2":"|Yes| Yes","51224":"RP|Bellis|Joe Bellis","61243":"Lib|Smith|Shawn Smith","54149":"GOP|Huelskamp|Tim Huelskamp","54005":"GOP|Yoder|Kevin Yoder","19867":"GOP|Jenkins|Lynn Jenkins","1720":"GOP|Brownback|Sam Brownback"},
+"total":0,"locals":
+{}}

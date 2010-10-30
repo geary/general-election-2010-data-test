@@ -1,8 +1,4 @@
-{"state":"IN","total":0,"candidates":
-{"19081":"GOP|Rokita|Todd Rokita","60424":"GOP|Young|Todd Young","51511":"Dem|Welsh|Barry Welsh","51513":"Dem|Ellsworth|Brad Ellsworth","50000":"Dem|Donnelly|Joe Donnelly","60815":"Lib|Morris|Jon Morris","59369":"Lib|Wise|Scott Wise","53911":"Dem|Van Haaften|Trent Van Haaften","60421":"GOP|Bucshon|Larry Bucshon","60423":"GOP|Walorski|Jackie Walorski","60422":"Dem|Crawford|Tim Crawford","60818":"Lib|Reid|Chard Reid","60819":"Lib|Thompson|T.J. Thompson","429":"GOP|Burton|Dan Burton","422":"Dem|Visclosky|Peter Visclosky","1295":"Dem|Hill|Baron Hill","57849":"Dem|Carson|Andre Carson","19092":"Dem|Sanders|David Sanders","60817":"Lib|Duncan|John Duncan","1936":"GOP|Scott|Marvin Scott","53887":"GOP|Stutzman|Marlin Stutzman","59422":"Lib|Vogel|Mark Vogel","51509":"Dem|Hayhurst|Thomas Hayhurst","1287":"GOP|Leyva|Mark Leyva","19108":"Lib|Sink-Burris|Rebecca Sink-Burris","18782":"GOP|Coats|Dan Coats","61068":"Ind|Trueblood|Jesse Trueblood","60822":"Lib|Cunningham|John Cunningham","60820":"Lib|Wilson|Dav Wilson","60823":"Lib|Knott|Greg Knott","431":"GOP|Pence|Mike Pence"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -69,4 +65,8 @@
 "final":"18782"}}},
 "precincts":
 {"total":740,"reporting":121},
-"abbr":"IN","name":"Indiana"}}
+"abbr":"IN","name":"Indiana"},
+"state":"IN","candidates":
+{"19081":"GOP|Rokita|Todd Rokita","60424":"GOP|Young|Todd Young","51511":"Dem|Welsh|Barry Welsh","51513":"Dem|Ellsworth|Brad Ellsworth","50000":"Dem|Donnelly|Joe Donnelly","60815":"Lib|Morris|Jon Morris","59369":"Lib|Wise|Scott Wise","53911":"Dem|Van Haaften|Trent Van Haaften","60421":"GOP|Bucshon|Larry Bucshon","60423":"GOP|Walorski|Jackie Walorski","60422":"Dem|Crawford|Tim Crawford","60818":"Lib|Reid|Chard Reid","60819":"Lib|Thompson|T.J. Thompson","429":"GOP|Burton|Dan Burton","422":"Dem|Visclosky|Peter Visclosky","1295":"Dem|Hill|Baron Hill","57849":"Dem|Carson|Andre Carson","19092":"Dem|Sanders|David Sanders","60817":"Lib|Duncan|John Duncan","1936":"GOP|Scott|Marvin Scott","53887":"GOP|Stutzman|Marlin Stutzman","59422":"Lib|Vogel|Mark Vogel","51509":"Dem|Hayhurst|Thomas Hayhurst","1287":"GOP|Leyva|Mark Leyva","19108":"Lib|Sink-Burris|Rebecca Sink-Burris","18782":"GOP|Coats|Dan Coats","61068":"Ind|Trueblood|Jesse Trueblood","60822":"Lib|Cunningham|John Cunningham","60820":"Lib|Wilson|Dav Wilson","60823":"Lib|Knott|Greg Knott","431":"GOP|Pence|Mike Pence"},
+"total":0,"locals":
+{}}

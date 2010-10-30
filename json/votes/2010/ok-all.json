@@ -1,8 +1,4 @@
-{"state":"OK","total":0,"candidates":
-{"59450":"Dem|Robbins|Frankie Robbins","37501":"GOP|Fallin|Mary Fallin","60945":"Dem|Coyle|Billy Coyle","61119":"GOP|Lankford|James Lankford","57325":"Dem|Askins|Jari Askins","61120":"GOP|Thompson|Charles Thompson","1398":"GOP|Cole|Tom Cole","37351":"GOP|Coburn|Tom Coburn","37460":"Ind|Duffe|Clark Duffe","3":"|No| No","2":"|Yes| Yes","59449":"Ind|Wallace|Stephen Wallace","50187":"Dem|Boren|Dan Boren","61056":"Ind|White|Dave White","1396":"GOP|Lucas|Frank Lucas","38273":"Dem|Rogers|Jim Rogers","1394":"GOP|Sullivan|John Sullivan","61099":"Ind|Dwyer|Ronald Dwyer","60943":"Ind|O'Dell|Angelia O'Dell"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"name":"Oklahoma","fix":
 {"LeFlore":"Le Flore"},
 "precincts":
@@ -62,4 +58,8 @@
 {"votes":90458,"id":"37501"},
 {"votes":74178,"id":"57325"}],
 "final":"37501"}}},
-"abbr":"OK"}}
+"abbr":"OK"},
+"state":"OK","candidates":
+{"59450":"Dem|Robbins|Frankie Robbins","37501":"GOP|Fallin|Mary Fallin","60945":"Dem|Coyle|Billy Coyle","61119":"GOP|Lankford|James Lankford","57325":"Dem|Askins|Jari Askins","61120":"GOP|Thompson|Charles Thompson","1398":"GOP|Cole|Tom Cole","37351":"GOP|Coburn|Tom Coburn","37460":"Ind|Duffe|Clark Duffe","3":"|No| No","2":"|Yes| Yes","59449":"Ind|Wallace|Stephen Wallace","50187":"Dem|Boren|Dan Boren","61056":"Ind|White|Dave White","1396":"GOP|Lucas|Frank Lucas","38273":"Dem|Rogers|Jim Rogers","1394":"GOP|Sullivan|John Sullivan","61099":"Ind|Dwyer|Ronald Dwyer","60943":"Ind|O'Dell|Angelia O'Dell"},
+"total":0,"locals":
+{}}

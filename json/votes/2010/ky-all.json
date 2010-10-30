@@ -1,8 +1,4 @@
-{"state":"KY","total":0,"candidates":
-{"60705":"GOP|Barr|Andy Barr","1306":"GOP|Davis|Geoff Davis","202":"GOP|Whitfield|Ed Whitfield","60208":"GOP|Paul|Rand Paul","204":"Dem|Conway|Jack Conway","59743":"Dem|Holbert|Jim Holbert","60704":"Ind|Hansen|Michael Hansen","208":"GOP|Rogers|Hal Rogers","60532":"Dem|Waltz|John Waltz","1310":"Dem|Chandler|Ben Chandler","60703":"Dem|Marksberry|Ed Marksberry","59793":"Lib|Martin|Edward Martin","20552":"GOP|Lally|Todd Lally","54282":"GOP|Guthrie|Brett Guthrie","51522":"Dem|Yarmuth|John Yarmuth","60530":"Dem|Hatchett|Charles Hatchett"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -43,4 +39,8 @@
 {"votes":[
 {"votes":55112,"id":"204"},
 {"votes":51026,"id":"60208"}]}}},
-"abbr":"KY"}}
+"abbr":"KY"},
+"state":"KY","candidates":
+{"60705":"GOP|Barr|Andy Barr","1306":"GOP|Davis|Geoff Davis","202":"GOP|Whitfield|Ed Whitfield","60208":"GOP|Paul|Rand Paul","204":"Dem|Conway|Jack Conway","59743":"Dem|Holbert|Jim Holbert","60704":"Ind|Hansen|Michael Hansen","208":"GOP|Rogers|Hal Rogers","60532":"Dem|Waltz|John Waltz","1310":"Dem|Chandler|Ben Chandler","60703":"Dem|Marksberry|Ed Marksberry","59793":"Lib|Martin|Edward Martin","20552":"GOP|Lally|Todd Lally","54282":"GOP|Guthrie|Brett Guthrie","51522":"Dem|Yarmuth|John Yarmuth","60530":"Dem|Hatchett|Charles Hatchett"},
+"total":0,"locals":
+{}}

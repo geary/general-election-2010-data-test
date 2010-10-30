@@ -1,8 +1,4 @@
-{"state":"NC","total":0,"candidates":
-{"458":"Dem|Watt|Mel Watt","35602":"Dem|Rouse|Johnny Rouse","450":"Dem|Price|David Price","35216":"Dem|Marshall|Elaine Marshall","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","60667":"GOP|Randall|William Randall","60666":"Lib|Cecil|Lon Cecil","60665":"GOP|Miller|Jeff Miller","60664":"Dem|Gregory|Jeff Gregory","60663":"Dem|Doctor|Jeff Doctor","60662":"Lib|Hill|Thomas Hill","59430":"GOP|Lawson|William Lawson","60660":"GOP|Pantano|Ilario Pantano","60661":"GOP|Johnson|Harold Johnson","1372":"Dem|Miller|Brad Miller","51652":"Dem|Kissell|Larry Kissell","452":"GOP|Burr|Richard Burr","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35265":"GOP|McHenry|Patrick McHenry","447":"GOP|Dority|Greg Dority","51655":"Dem|Shuler|Heath Shuler","60533":"GOP|Ellmers|Renee Ellmers","60534":"GOP|Woolard|Ashley Woolard","1025":"Dem|McIntyre|Mike McIntyre","60658":"Dem|Kennedy|Billy Kennedy","60659":"Dem|Turner|Sam Turner","1877":"GOP|Foxx|Virginia Foxx","60656":"Lib|Rose|Tom Rose","60657":"Lib|Holloman|Darryl Holloman","60655":"Lib|Beitler|Michael Beitler","1362":"GOP|Jones|Walter Jones"},
-"locals":
-{},
-"totals":
+{"dttime":"Oct 30,2010 06:15 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -69,4 +65,8 @@
 {"votes":44025,"id":"60655"}]}}},
 "precincts":
 {"total":224,"reporting":73},
-"abbr":"NC","name":"North Carolina"}}
+"abbr":"NC","name":"North Carolina"},
+"state":"NC","candidates":
+{"458":"Dem|Watt|Mel Watt","35602":"Dem|Rouse|Johnny Rouse","450":"Dem|Price|David Price","35216":"Dem|Marshall|Elaine Marshall","453":"GOP|Coble|Howard Coble","34352":"Dem|Butterfield|G.K. Butterfield","60667":"GOP|Randall|William Randall","60666":"Lib|Cecil|Lon Cecil","60665":"GOP|Miller|Jeff Miller","60664":"Dem|Gregory|Jeff Gregory","60663":"Dem|Doctor|Jeff Doctor","60662":"Lib|Hill|Thomas Hill","59430":"GOP|Lawson|William Lawson","60660":"GOP|Pantano|Ilario Pantano","60661":"GOP|Johnson|Harold Johnson","1372":"Dem|Miller|Brad Miller","51652":"Dem|Kissell|Larry Kissell","452":"GOP|Burr|Richard Burr","448":"Dem|Etheridge|Bob Etheridge","454":"GOP|Myrick|Sue Myrick","35265":"GOP|McHenry|Patrick McHenry","447":"GOP|Dority|Greg Dority","51655":"Dem|Shuler|Heath Shuler","60533":"GOP|Ellmers|Renee Ellmers","60534":"GOP|Woolard|Ashley Woolard","1025":"Dem|McIntyre|Mike McIntyre","60658":"Dem|Kennedy|Billy Kennedy","60659":"Dem|Turner|Sam Turner","1877":"GOP|Foxx|Virginia Foxx","60656":"Lib|Rose|Tom Rose","60657":"Lib|Holloman|Darryl Holloman","60655":"Lib|Beitler|Michael Beitler","1362":"GOP|Jones|Walter Jones"},
+"total":0,"locals":
+{}}
