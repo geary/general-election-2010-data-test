@@ -34,10 +34,10 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"38273"},
-{"votes":0,"id":"37351"},
-{"votes":0,"id":"61099"},
-{"votes":0,"id":"59449"}]}},
+{"votes":316,"id":"38273"},
+{"votes":231,"id":"37351"},
+{"votes":113,"id":"61099"},
+{"votes":37,"id":"59449"}]}},
 "Question":
 {"751 - English Official Language":
 {"votes":[
@@ -53,11 +53,11 @@
 {"votes":0,"id":"2"}]},
 "746 - Voter ID":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}},
+{"votes":378,"id":"3"},
+{"votes":321,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"57325"},
-{"votes":0,"id":"37501"}]}}},
+{"votes":353,"id":"37501"},
+{"votes":346,"id":"57325"}]}}},
 "abbr":"OK"}}
