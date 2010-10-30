@@ -12,19 +12,16 @@
 {"1":
 {"votes":[
 {"votes":0,"id":"59613"},
-{"votes":0,"id":"60618"}],
-"final":"59613"},
+{"votes":0,"id":"60618"}]},
 "2":
 {"votes":[
 {"votes":0,"id":"60617"},
-{"votes":0,"id":"585"}],
-"final":"585"}},
+{"votes":0,"id":"585"}]}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
 {"votes":0,"id":"3"},
-{"votes":0,"id":"2"}],
-"final":"2"}},
+{"votes":0,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
@@ -32,6 +29,5 @@
 {"votes":0,"id":"60614"},
 {"votes":0,"id":"60615"},
 {"votes":0,"id":"60414"},
-{"votes":0,"id":"60416"}],
-"final":"60414"}}},
+{"votes":0,"id":"60416"}]}}},
 "abbr":"ME"}}

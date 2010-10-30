@@ -122,11 +122,11 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":11760,"id":"399"},
-{"votes":11493,"id":"36679"},
-{"votes":2124,"id":"60762"},
-{"votes":1985,"id":"59905"}],
+{"votes":13092,"id":"399"},
+{"votes":12656,"id":"36679"},
+{"votes":2319,"id":"60762"},
+{"votes":2186,"id":"59905"}],
 "final":"36679"}}},
 "precincts":
-{"total":9910,"reporting":387},
+{"total":9910,"reporting":417},
 "abbr":"OH","name":"Ohio"}}
