@@ -1,5 +1,5 @@
 {"state":"AK","total":0,"candidates":
-{"931":"Lib|Toien|Billy Toien","59900":"Lib|Haase|David Haase","61250":"NPD|Carter|Tim Carter","51351":"NPD|Gianoutsos|Ted Gianoutsos","100008":"NPD|Total Write-In| Total Write-In","52020":"Dem|Crawford|Harry Crawford","4434":"GOP|Parnell|Sean Parnell","1174":"AKI|Wright|Don Wright","61157":"GOP|Miller|Joe Miller","513":"GOP|Young|Don Young","61042":"Dem|McAdams|Scott McAdams","52025":"Dem|Berkowitz|Ethan Berkowitz"},
+{"931":"Lib|Toien|Billy Toien","59900":"Lib|Haase|David Haase","61250":"NPD|Carter|Tim Carter","51351":"NPD|Gianoutsos|Ted Gianoutsos","100008":"NPD|Total Write-In| Total Write-In","52020":"Dem|Crawford|Harry Crawford","4434":"GOP|Parnell|Sean Parnell","1174":"AKI|Wright|Don Wright","61157":"GOP|Miller|Joe Miller","61042":"Dem|McAdams|Scott McAdams","513":"GOP|Young|Don Young","52025":"Dem|Berkowitz|Ethan Berkowitz"},
 "locals":
 {},
 "totals":
@@ -12,11 +12,11 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"59900"},
-{"votes":0,"id":"61250"},
-{"votes":0,"id":"51351"},
-{"votes":0,"id":"61157"},
-{"votes":0,"id":"61042"},
+{"votes":17458,"id":"61157"},
+{"votes":16005,"id":"61042"},
+{"votes":2196,"id":"51351"},
+{"votes":2180,"id":"61250"},
+{"votes":2172,"id":"59900"},
 {"votes":0,"id":"100008"}]}},
 "Governor":
 {"":
