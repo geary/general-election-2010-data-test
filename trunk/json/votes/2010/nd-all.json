@@ -7,14 +7,14 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":16975,"id":"591"},
-{"votes":12236,"id":"56129"}]}},
+{"votes":17598,"id":"591"},
+{"votes":12970,"id":"56129"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":12520,"id":"60745"},
-{"votes":10037,"id":"60744"},
-{"votes":8802,"id":"1780"}]}}},
+{"votes":14404,"id":"60745"},
+{"votes":11988,"id":"60744"},
+{"votes":10180,"id":"1780"}]}}},
 "precincts":
-{"total":505,"reporting":194},
+{"total":505,"reporting":204},
 "abbr":"ND","name":"North Dakota"}}
