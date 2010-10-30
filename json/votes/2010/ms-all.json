@@ -6,7 +6,7 @@
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
-{"total":471,"reporting":61},
+{"total":471,"reporting":79},
 "races":
 {"U.S. House":
 {"1":
@@ -22,18 +22,18 @@
 {"votes":642,"id":"60435"}]},
 "3":
 {"votes":[
-{"votes":6946,"id":"57825"},
-{"votes":5999,"id":"57824"},
-{"votes":2333,"id":"50442"}]},
+{"votes":7909,"id":"57825"},
+{"votes":6586,"id":"57824"},
+{"votes":2569,"id":"50442"}]},
 "2":
 {"votes":[
-{"votes":2877,"id":"57828"},
-{"votes":2728,"id":"1335"},
-{"votes":1040,"id":"60613"}]},
+{"votes":4131,"id":"1335"},
+{"votes":4018,"id":"57828"},
+{"votes":1634,"id":"60613"}]},
 "4":
 {"votes":[
-{"votes":2694,"id":"220"},
-{"votes":1848,"id":"60439"},
-{"votes":521,"id":"61199"},
-{"votes":356,"id":"60440"}]}}},
+{"votes":4104,"id":"220"},
+{"votes":3021,"id":"60439"},
+{"votes":865,"id":"61199"},
+{"votes":604,"id":"60440"}]}}},
 "abbr":"MS"}}
