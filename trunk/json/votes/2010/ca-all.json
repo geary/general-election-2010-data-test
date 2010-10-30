@@ -283,12 +283,12 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":769149,"id":"6622"},
-{"votes":712358,"id":"60373"},
-{"votes":80363,"id":"8762"},
-{"votes":77697,"id":"8029"},
-{"votes":68702,"id":"60869"},
-{"votes":67102,"id":"60870"}]}},
+{"votes":779059,"id":"6622"},
+{"votes":720984,"id":"60373"},
+{"votes":81336,"id":"8762"},
+{"votes":78635,"id":"8029"},
+{"votes":69535,"id":"60869"},
+{"votes":67902,"id":"60870"}]}},
 "Proposition":
 {"19 - Legalize Marijuana":
 {"votes":[
@@ -296,8 +296,8 @@
 {"votes":796717,"id":"2"}]},
 "25 - Budget Vote":
 {"votes":[
-{"votes":954904,"id":"3"},
-{"votes":774394,"id":"2"}]}}},
+{"votes":978596,"id":"3"},
+{"votes":793254,"id":"2"}]}}},
 "precincts":
 {"total":565,"reporting":242},
 "abbr":"CA","name":"California"}}
