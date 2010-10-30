@@ -7,15 +7,15 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":1197,"id":"39864"},
-{"votes":785,"id":"60670"},
-{"votes":207,"id":"40044"},
-{"votes":201,"id":"56221"}]},
+{"votes":1942,"id":"39864"},
+{"votes":1421,"id":"60670"},
+{"votes":350,"id":"40044"},
+{"votes":335,"id":"56221"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"967"},
-{"votes":0,"id":"968"},
-{"votes":0,"id":"59621"}]}},
+{"votes":1046,"id":"59621"},
+{"votes":992,"id":"967"},
+{"votes":359,"id":"968"}]}},
 "Question":
 {"1 - State Name Change":
 {"votes":[
@@ -24,13 +24,13 @@
 "Governor":
 {"":
 {"votes":[
-{"votes":259,"id":"61225"},
-{"votes":164,"id":"61224"},
-{"votes":157,"id":"57844"},
-{"votes":157,"id":"61041"},
-{"votes":139,"id":"1753"},
-{"votes":120,"id":"61226"},
-{"votes":80,"id":"61223"}]}}},
+{"votes":2361,"id":"61225"},
+{"votes":1802,"id":"61224"},
+{"votes":1730,"id":"57844"},
+{"votes":1355,"id":"61041"},
+{"votes":1168,"id":"1753"},
+{"votes":987,"id":"61226"},
+{"votes":827,"id":"61223"}]}}},
 "precincts":
-{"total":537,"reporting":5},
+{"total":537,"reporting":54},
 "abbr":"RI","name":"Rhode Island"}}

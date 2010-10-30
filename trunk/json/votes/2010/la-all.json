@@ -6,7 +6,7 @@
 {"name":"Louisiana","fix":
 {"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
 "precincts":
-{"total":3877,"reporting":969},
+{"total":3877,"reporting":1029},
 "races":
 {"U.S. House":
 {"1":
@@ -44,16 +44,16 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":37196,"id":"21828"},
-{"votes":30431,"id":"906"},
-{"votes":15035,"id":"54392"},
-{"votes":13789,"id":"60646"},
-{"votes":12330,"id":"1315"},
-{"votes":10580,"id":"60645"},
-{"votes":9069,"id":"60644"},
-{"votes":7483,"id":"60643"},
-{"votes":6086,"id":"21459"},
-{"votes":4518,"id":"21186"},
-{"votes":3021,"id":"60642"},
-{"votes":1513,"id":"21555"}]}}},
+{"votes":39974,"id":"21828"},
+{"votes":32436,"id":"906"},
+{"votes":16082,"id":"54392"},
+{"votes":14667,"id":"60646"},
+{"votes":13184,"id":"1315"},
+{"votes":11232,"id":"60645"},
+{"votes":9665,"id":"60644"},
+{"votes":7983,"id":"60643"},
+{"votes":6492,"id":"21459"},
+{"votes":4816,"id":"21186"},
+{"votes":3217,"id":"60642"},
+{"votes":1614,"id":"21555"}]}}},
 "abbr":"LA"}}
