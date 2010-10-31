@@ -22,8 +22,22 @@
 
 <Content type="html">
 <![CDATA[
-<div style="font-family: arial, sans-serif; font-size: 100%; line-height: 1.3 em text-align: left;" >
-  <div style="float: left; padding-right: 12px;">
+<style type="text/css">
+  .a:visited {
+    color: #11c;
+  }
+  .source-column {
+    font-family: arial,sans-serif;
+    font-size: 100%;
+    line-height: 1.3 em;
+    text-align: left;
+    float: left;
+    padding-right: 12px;
+  }
+</style>
+
+<div>
+  <div class="source-column">
     <div><a href="http://abcnews.go.com/politics" target="_blank">ABC News</a></div>
     <div><a href="http://www.cbsnews.com/election2010" target="_blank">CBS News</a></div>
     <div><a href="http://www.cnn.com/POLITICS/" target="_blank">CNN</a></div>
@@ -31,7 +45,7 @@
     <div><a href="http://www.latimes.com/news/politics/" target="_blank">L.A. Times</a></div>
     <div><a href="http://www.msnbc.msn.com/id/3032553/ns/politics" target="_blank">MSNBC</a></div>
   </div>
-  <div style="float: left; padding-right: 12px;">
+  <div class="source-column">
     <div><a href="http://www.nytimes.com/pages/politics/index.html" target="_blank">N.Y. Times</a></div>
     <div><a href="http://www.politico.com/2010/" target="_blank">Politico</a></div>
     <div><a href="http://www.realclearpolitics.com/elections/" target="_blank">Real Clear Politics</a></div>
