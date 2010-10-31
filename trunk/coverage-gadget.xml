@@ -23,7 +23,7 @@
 <Content type="html">
 <![CDATA[
 <style type="text/css">
-  .a:visited {
+  a:visited {
     color: #11c;
   }
   .source-column {
