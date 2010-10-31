@@ -23,12 +23,12 @@
 <Content type="html">
 <![CDATA[
 <style type="text/css">
-  a:visited {
+  body a:visited {
     color: #551A8B;
   }
   .source-column {
     font-family: arial,sans-serif;
-    font-size: 100%;
+    font-size: 84%;
     line-height: 1.3 em;
     text-align: left;
     float: left;
