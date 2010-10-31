@@ -17,9 +17,8 @@
 	scaling="false"
 	scrolling="false">
 	<Require feature="analytics"/>
-	<!--Locale messages="http://general-election-2010-data-test.googlecode.com/svn/trunk/ALL_ALL.xml" />
-</ModulePrefs-->
-
+	<!--Locale messages="http://general-election-2010-data-test.googlecode.com/svn/trunk/ALL_ALL.xml" /-->
+</ModulePrefs>
 
 <Content type="html">
 <![CDATA[
