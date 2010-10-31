@@ -12,8 +12,8 @@
 	author_affiliation="Google, Inc."
 	author_email="elections@google.com"
 	author_location="Mountain View, CA"
-	width="305"
-	height="200"
+	width="300"
+	height="100"
 	scaling="false"
 	scrolling="false">
 	<Require feature="analytics"/>
@@ -37,7 +37,6 @@
   .source-link {
     padding-bottom: 1px;
   }
-
 </style>
 
 <div>
