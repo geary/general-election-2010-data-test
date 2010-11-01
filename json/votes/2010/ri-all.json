@@ -1,34 +1,34 @@
-{"dttime":"Nov 01, 2010 02:54 PM","totals":
+{"dttime":"Nov 01, 2010 03:00 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":42235,"id":"39864"},
-{"votes":36347,"id":"60670"},
-{"votes":8115,"id":"56221"},
-{"votes":7296,"id":"40044"}]},
+{"votes":58727,"id":"39864"},
+{"votes":54117,"id":"60670"},
+{"votes":11354,"id":"56221"},
+{"votes":10206,"id":"40044"}]},
 "2":
 {"votes":[
-{"votes":72345,"id":"967"},
-{"votes":64754,"id":"59621"},
-{"votes":24699,"id":"968"}]}},
+{"votes":72679,"id":"967"},
+{"votes":65254,"id":"59621"},
+{"votes":24865,"id":"968"}]}},
 "Question":
 {"1 - State Name Change":
 {"votes":[
-{"votes":141736,"id":"3"},
-{"votes":114055,"id":"2"}]}},
+{"votes":164818,"id":"3"},
+{"votes":132384,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":55970,"id":"61225"},
-{"votes":45764,"id":"61224"},
-{"votes":41777,"id":"57844"},
-{"votes":35764,"id":"61041"},
-{"votes":30425,"id":"1753"},
-{"votes":25567,"id":"61226"},
-{"votes":20524,"id":"61223"}]}}},
+{"votes":65065,"id":"61225"},
+{"votes":52937,"id":"61224"},
+{"votes":48102,"id":"57844"},
+{"votes":41559,"id":"61041"},
+{"votes":35674,"id":"1753"},
+{"votes":30138,"id":"61226"},
+{"votes":23727,"id":"61223"}]}}},
 "precincts":
-{"total":537,"reporting":393},
+{"total":537,"reporting":458},
 "abbr":"RI","name":"Rhode Island"},
 "state":"RI","candidates":
 {"967":"Dem|Langevin|Jim Langevin","61224":"Ind|Algieri|Ronald Algieri","40044":"Ind|Raposa|Gregory Raposa","61226":"Ind|Lusi|Joseph Lusi","39864":"Dem|Cicilline|David Cicilline","968":"Ind|Matson|John Matson","57844":"Dem|Caprio|Frank Caprio","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","60670":"GOP|Loughlin|John Loughlin","3":"|No| No","2":"|Yes| Yes","61225":"Ind|Giroux|Todd Giroux","61041":"GOP|Robitaille|John Robitaille","61223":"Mod|Block|Ken Block","1753":"Ind|Chafee|Lincoln Chafee"},

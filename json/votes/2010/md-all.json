@@ -1,22 +1,22 @@
-{"dttime":"Nov 01, 2010 02:54 PM","totals":
+{"dttime":"Nov 01, 2010 03:00 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":33981,"id":"57792"},
-{"votes":26790,"id":"54777"},
-{"votes":15941,"id":"58655"}]},
+{"votes":46798,"id":"57792"},
+{"votes":38326,"id":"54777"},
+{"votes":21506,"id":"58655"}]},
 "3":
 {"votes":[
-{"votes":17055,"id":"51603"},
-{"votes":9466,"id":"61053"},
-{"votes":5520,"id":"61267"},
-{"votes":5383,"id":"61266"}]},
+{"votes":23706,"id":"51603"},
+{"votes":12172,"id":"61053"},
+{"votes":7746,"id":"61266"},
+{"votes":7629,"id":"61267"}]},
 "2":
 {"votes":[
-{"votes":25601,"id":"1055"},
-{"votes":19934,"id":"61052"},
-{"votes":12778,"id":"58656"}]},
+{"votes":26153,"id":"1055"},
+{"votes":20053,"id":"61052"},
+{"votes":12971,"id":"58656"}]},
 "5":
 {"votes":[
 {"votes":71131,"id":"1061"},
@@ -28,15 +28,15 @@
 {"votes":25125,"id":"60034"}]},
 "7":
 {"votes":[
-{"votes":19242,"id":"1064"},
-{"votes":17602,"id":"61210"},
-{"votes":6316,"id":"61271"}]},
+{"votes":44659,"id":"1064"},
+{"votes":37332,"id":"61210"},
+{"votes":15622,"id":"61271"}]},
 "6":
 {"votes":[
-{"votes":46268,"id":"1063"},
-{"votes":39801,"id":"51605"},
-{"votes":8617,"id":"61270"},
-{"votes":6956,"id":"61269"}]},
+{"votes":70640,"id":"1063"},
+{"votes":59440,"id":"51605"},
+{"votes":12414,"id":"61270"},
+{"votes":10264,"id":"61269"}]},
 "8":
 {"votes":[
 {"votes":19243,"id":"61211"},
@@ -46,20 +46,20 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":326641,"id":"1726"},
-{"votes":236120,"id":"61051"},
-{"votes":82682,"id":"61261"},
-{"votes":76316,"id":"61263"}]}},
+{"votes":352182,"id":"1726"},
+{"votes":256491,"id":"61051"},
+{"votes":89956,"id":"61261"},
+{"votes":81951,"id":"61263"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":416030,"id":"22603"},
-{"votes":322310,"id":"1051"},
-{"votes":129389,"id":"51155"},
-{"votes":57090,"id":"61264"},
-{"votes":45059,"id":"61265"}]}}},
+{"votes":447813,"id":"22603"},
+{"votes":347784,"id":"1051"},
+{"votes":139265,"id":"51155"},
+{"votes":61448,"id":"61264"},
+{"votes":51881,"id":"61265"}]}}},
 "precincts":
-{"total":1833,"reporting":823},
+{"total":1833,"reporting":880},
 "abbr":"MD","name":"Maryland"},
 "state":"MD","candidates":
 {"58655":"Lib|Davis|Richard Davis","61210":"GOP|Mirabile|Frank Mirabile","58656":"Lib|Gaztanaga|Lorenzo Gaztanaga","22603":"Dem|O'Malley|Martin O'Malley","60034":"GOP|Broadus|Robert Broadus","61211":"GOP|Philips|Michael Philips","1051":"GOP|Ehrlich|Robert Ehrlich","1055":"Dem|Ruppersberger|Dutch Ruppersberger","61261":"CST|Shawver|Richard Shawver","61263":"Grn|Henry|Kenniss Henry","61264":"Lib|Gaztanaga|Susan Gaztanaga","61265":"CST|Knowles|Eric Knowles","61266":"CST|Lareau|Alain Lareau","61267":"Lib|McKinley|Jerry McKinley","61268":"Lib|Shickle|Gavin Shickle","61269":"Lib|Massey|Dan Massey","61054":"GOP|Lollar|Charles Lollar","61053":"GOP|Wilhelm|Jim Wilhelm","61052":"GOP|Cardarelli|Marcelo Cardarelli","61051":"GOP|Wargotz|Eric Wargotz","57792":"Dem|Kratovil|Frank Kratovil","54777":"GOP|Harris|Andy Harris","57813":"Dem|Edwards|Donna Edwards","1061":"Dem|Hoyer|Steny Hoyer","51155":"Grn|Allwine|Maria Allwine","1063":"GOP|Bartlett|Roscoe Bartlett","1064":"Dem|Cummings|Elijah Cummings","1066":"Dem|Van Hollen|Chris Van Hollen","1726":"Dem|Mikulski|Barbara Mikulski","61273":"CST|Nordhorn|Fred Nordhorn","61272":"Lib|Grannis|Mark Grannis","61271":"Lib|Spencer|Scott Spencer","61270":"CST|Reed|Michael Reed","51603":"Dem|Sarbanes|John Sarbanes","51605":"Dem|Duck|Andrew Duck"},
