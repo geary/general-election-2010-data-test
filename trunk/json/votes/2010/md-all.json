@@ -1,11 +1,11 @@
-{"dttime":"Nov 01, 2010 02:24 PM","totals":
+{"dttime":"Nov 01, 2010 02:30 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":20303,"id":"57792"},
-{"votes":16862,"id":"54777"},
-{"votes":9338,"id":"58655"}]},
+{"votes":25416,"id":"57792"},
+{"votes":22190,"id":"54777"},
+{"votes":12588,"id":"58655"}]},
 "3":
 {"votes":[
 {"votes":4518,"id":"51603"},
@@ -14,9 +14,9 @@
 {"votes":0,"id":"61266"}]},
 "2":
 {"votes":[
-{"votes":8510,"id":"1055"},
-{"votes":7608,"id":"61052"},
-{"votes":4381,"id":"58656"}]},
+{"votes":13532,"id":"1055"},
+{"votes":11323,"id":"61052"},
+{"votes":6665,"id":"58656"}]},
 "5":
 {"votes":[
 {"votes":51242,"id":"1061"},
@@ -33,10 +33,10 @@
 {"votes":882,"id":"61271"}]},
 "6":
 {"votes":[
-{"votes":13999,"id":"51605"},
-{"votes":13413,"id":"1063"},
-{"votes":2875,"id":"61270"},
-{"votes":1881,"id":"61269"}]},
+{"votes":16117,"id":"51605"},
+{"votes":15016,"id":"1063"},
+{"votes":2989,"id":"61270"},
+{"votes":2197,"id":"61269"}]},
 "8":
 {"votes":[
 {"votes":19243,"id":"61211"},
@@ -46,20 +46,20 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":148547,"id":"1726"},
-{"votes":108024,"id":"61051"},
-{"votes":37670,"id":"61261"},
-{"votes":33823,"id":"61263"}]}},
+{"votes":186376,"id":"1726"},
+{"votes":133240,"id":"61051"},
+{"votes":47951,"id":"61261"},
+{"votes":42572,"id":"61263"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":259755,"id":"22603"},
-{"votes":201280,"id":"1051"},
-{"votes":81154,"id":"51155"},
-{"votes":35830,"id":"61264"},
-{"votes":28132,"id":"61265"}]}}},
+{"votes":266586,"id":"22603"},
+{"votes":204974,"id":"1051"},
+{"votes":82788,"id":"51155"},
+{"votes":36531,"id":"61264"},
+{"votes":28946,"id":"61265"}]}}},
 "precincts":
-{"total":1833,"reporting":310},
+{"total":1833,"reporting":390},
 "abbr":"MD","name":"Maryland"},
 "state":"MD","candidates":
 {"58655":"Lib|Davis|Richard Davis","61210":"GOP|Mirabile|Frank Mirabile","58656":"Lib|Gaztanaga|Lorenzo Gaztanaga","22603":"Dem|O'Malley|Martin O'Malley","60034":"GOP|Broadus|Robert Broadus","61211":"GOP|Philips|Michael Philips","1051":"GOP|Ehrlich|Robert Ehrlich","1055":"Dem|Ruppersberger|Dutch Ruppersberger","61261":"CST|Shawver|Richard Shawver","61263":"Grn|Henry|Kenniss Henry","61264":"Lib|Gaztanaga|Susan Gaztanaga","61265":"CST|Knowles|Eric Knowles","61266":"CST|Lareau|Alain Lareau","61267":"Lib|McKinley|Jerry McKinley","61268":"Lib|Shickle|Gavin Shickle","61269":"Lib|Massey|Dan Massey","61054":"GOP|Lollar|Charles Lollar","61053":"GOP|Wilhelm|Jim Wilhelm","61052":"GOP|Cardarelli|Marcelo Cardarelli","61051":"GOP|Wargotz|Eric Wargotz","57792":"Dem|Kratovil|Frank Kratovil","54777":"GOP|Harris|Andy Harris","57813":"Dem|Edwards|Donna Edwards","1061":"Dem|Hoyer|Steny Hoyer","51155":"Grn|Allwine|Maria Allwine","1063":"GOP|Bartlett|Roscoe Bartlett","1064":"Dem|Cummings|Elijah Cummings","1066":"Dem|Van Hollen|Chris Van Hollen","1726":"Dem|Mikulski|Barbara Mikulski","61273":"CST|Nordhorn|Fred Nordhorn","61272":"Lib|Grannis|Mark Grannis","61271":"Lib|Spencer|Scott Spencer","61270":"CST|Reed|Michael Reed","51603":"Dem|Sarbanes|John Sarbanes","51605":"Dem|Duck|Andrew Duck"},
