@@ -1,61 +1,61 @@
-{"dttime":"Nov 01, 2010 03:25 PM","totals":
+{"dttime":"Nov 01, 2010 03:32 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":24846,"id":"60610"},
-{"votes":23024,"id":"478"},
-{"votes":3355,"id":"59846"},
-{"votes":3183,"id":"61132"},
-{"votes":3049,"id":"39371"}]},
+{"votes":25409,"id":"60610"},
+{"votes":23423,"id":"478"},
+{"votes":3380,"id":"59846"},
+{"votes":3217,"id":"61132"},
+{"votes":3097,"id":"39371"}]},
 "3":
 {"votes":[
-{"votes":36213,"id":"58449"},
-{"votes":33460,"id":"482"},
-{"votes":7793,"id":"59797"},
-{"votes":6828,"id":"61141"}]},
+{"votes":43863,"id":"58449"},
+{"votes":39680,"id":"482"},
+{"votes":8337,"id":"61141"},
+{"votes":7793,"id":"59797"}]},
 "2":
 {"votes":[
-{"votes":62934,"id":"60611"},
-{"votes":53814,"id":"481"}]},
+{"votes":113343,"id":"60611"},
+{"votes":92735,"id":"481"}]},
 "5":
 {"votes":[
-{"votes":75681,"id":"38736"},
-{"votes":66520,"id":"57501"},
-{"votes":21382,"id":"51866"}]},
+{"votes":82921,"id":"38736"},
+{"votes":73495,"id":"57501"},
+{"votes":27365,"id":"51866"}]},
 "4":
 {"votes":[
-{"votes":76551,"id":"60612"},
-{"votes":71530,"id":"484"},
-{"votes":26758,"id":"59807"}]}},
+{"votes":95175,"id":"60612"},
+{"votes":84599,"id":"484"},
+{"votes":31725,"id":"59807"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":245931,"id":"60190"},
-{"votes":224490,"id":"1750"},
-{"votes":36114,"id":"38806"},
-{"votes":30895,"id":"61143"},
-{"votes":30457,"id":"61142"}]}},
+{"votes":332344,"id":"60190"},
+{"votes":299868,"id":"1750"},
+{"votes":45176,"id":"38806"},
+{"votes":41370,"id":"61143"},
+{"votes":40402,"id":"61142"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":261019,"id":"60200"},
-{"votes":245623,"id":"39053"},
-{"votes":51109,"id":"61133"},
-{"votes":50227,"id":"61134"}]}},
+{"votes":337430,"id":"60200"},
+{"votes":314064,"id":"39053"},
+{"votes":65476,"id":"61133"},
+{"votes":64100,"id":"61134"}]}},
 "Measure":
 {"75 - Multnomah Casino":
 {"votes":[
-{"votes":340525,"id":"3"},
-{"votes":273979,"id":"2"}]},
+{"votes":486203,"id":"3"},
+{"votes":399201,"id":"2"}]},
 "74 - Medical Marijuana":
 {"votes":[
-{"votes":334844,"id":"3"},
-{"votes":265403,"id":"2"}]}}},
+{"votes":475319,"id":"3"},
+{"votes":382958,"id":"2"}]}}},
 "precincts":
-{"total":1000,"reporting":591},
+{"total":1000,"reporting":761},
 "abbr":"OR","name":"Oregon"},
 "state":"OR","candidates":
-{"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","38806":"WF|Cronk|Bruce Cronk","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","59797":"PAG|Meo|Michael Meo","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},
+{"60200":"GOP|Dudley|Chris Dudley","51866":"PAG|Lugo|Chris Lugo","38736":"GOP|Bruun|Scott Bruun","60190":"GOP|Huffman|Jim Huffman","61134":"Lib|Wagner|Wes Wagner","3":"|No| No","2":"|Yes| Yes","39371":"Lib|Tabor|Joe Tabor","61132":"CST|LaMunyon|Don LaMunyon","61133":"CST|Kord|Greg Kord","59807":"PAG|Beilstein|Mike Beilstein","1750":"Dem|Wyden|Ron Wyden","59846":"PAG|Henry|Chris Henry","59797":"PAG|Meo|Michael Meo","58449":"GOP|Lopez|Delia Lopez","484":"Dem|DeFazio|Peter DeFazio","482":"Dem|Blumenauer|Earl Blumenauer","481":"GOP|Walden|Greg Walden","38806":"WF|Cronk|Bruce Cronk","60612":"GOP|Robinson|Art Robinson","60610":"GOP|Cornilles|Rob Cornilles","60611":"Dem|Segers|Joyce Segers","61141":"Lib|Lawrence|Jeff Lawrence","57501":"Dem|Schrader|Kurt Schrader","61143":"Prg|Staggenborg|Rick Staggenborg","61142":"Lib|Delphine|Marc Delphine","39053":"Dem|Kitzhaber|John Kitzhaber","478":"Dem|Wu|David Wu"},
 "total":0,"locals":
 {}}
