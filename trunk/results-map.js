@@ -808,7 +808,7 @@ function stateReady( state, reload ) {
   $('#spinner').hide();
   $('#ballot-initiatives').text(strings.ballot);
   $('#ballot-initiatives').click(function() {
-    toggleBallotInitiatives();
+    toggleBallotInitiatives(state);
   });
   //reloadTimer = setTimeout( function() { loadState( true ); }, 300000 );
 }
