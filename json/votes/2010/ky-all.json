@@ -1,4 +1,4 @@
-{"dttime":"Nov 01, 2010 02:24 PM","totals":
+{"dttime":"Nov 01, 2010 02:30 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -21,21 +21,21 @@
 {"votes":6929,"id":"60703"}]},
 "5":
 {"votes":[
-{"votes":26277,"id":"208"},
-{"votes":22601,"id":"59743"}]},
+{"votes":50539,"id":"208"},
+{"votes":38824,"id":"59743"}]},
 "4":
 {"votes":[
-{"votes":33613,"id":"1306"},
-{"votes":31303,"id":"60532"}]},
+{"votes":49298,"id":"1306"},
+{"votes":44106,"id":"60532"}]},
 "6":
 {"votes":[
-{"votes":20907,"id":"1310"},
-{"votes":20175,"id":"60705"}]}},
+{"votes":30480,"id":"1310"},
+{"votes":28118,"id":"60705"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":138744,"id":"204"},
-{"votes":107814,"id":"60208"}]}}},
+{"votes":176677,"id":"204"},
+{"votes":141816,"id":"60208"}]}}},
 "abbr":"KY"},
 "state":"KY","candidates":
 {"60705":"GOP|Barr|Andy Barr","1306":"GOP|Davis|Geoff Davis","202":"GOP|Whitfield|Ed Whitfield","60208":"GOP|Paul|Rand Paul","204":"Dem|Conway|Jack Conway","59743":"Dem|Holbert|Jim Holbert","60704":"Ind|Hansen|Michael Hansen","208":"GOP|Rogers|Hal Rogers","60532":"Dem|Waltz|John Waltz","1310":"Dem|Chandler|Ben Chandler","60703":"Dem|Marksberry|Ed Marksberry","59793":"Lib|Martin|Edward Martin","20552":"GOP|Lally|Todd Lally","54282":"GOP|Guthrie|Brett Guthrie","51522":"Dem|Yarmuth|John Yarmuth","60530":"Dem|Hatchett|Charles Hatchett"},

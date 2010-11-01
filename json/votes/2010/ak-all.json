@@ -1,28 +1,28 @@
-{"dttime":"Nov 01, 2010 02:24 PM","totals":
+{"dttime":"Nov 01, 2010 02:30 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":25827,"id":"52020"},
-{"votes":23392,"id":"513"}]}},
+{"votes":51944,"id":"52020"},
+{"votes":44257,"id":"513"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":10224,"id":"61157"},
-{"votes":7189,"id":"61042"},
-{"votes":1372,"id":"100008"},
-{"votes":1226,"id":"51351"},
-{"votes":1213,"id":"61250"},
-{"votes":1148,"id":"59900"}]}},
+{"votes":58338,"id":"61157"},
+{"votes":52449,"id":"61042"},
+{"votes":7368,"id":"51351"},
+{"votes":7355,"id":"61250"},
+{"votes":7181,"id":"59900"},
+{"votes":4899,"id":"100008"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":231,"id":"52025"},
-{"votes":161,"id":"4434"},
-{"votes":115,"id":"1174"},
-{"votes":52,"id":"931"}]}}},
+{"votes":28815,"id":"52025"},
+{"votes":23454,"id":"4434"},
+{"votes":6867,"id":"1174"},
+{"votes":5184,"id":"931"}]}}},
 "precincts":
-{"total":438,"reporting":1},
+{"total":438,"reporting":115},
 "abbr":"AK","name":"Alaska"},
 "state":"AK","candidates":
 {"1174":"AKI|Wright|Don Wright","59900":"Lib|Haase|David Haase","61250":"NPD|Carter|Tim Carter","51351":"NPD|Gianoutsos|Ted Gianoutsos","100008":"NPD|Total Write-In| Total Write-In","52020":"Dem|Crawford|Harry Crawford","4434":"GOP|Parnell|Sean Parnell","931":"Lib|Toien|Billy Toien","61157":"GOP|Miller|Joe Miller","61042":"Dem|McAdams|Scott McAdams","513":"GOP|Young|Don Young","52025":"Dem|Berkowitz|Ethan Berkowitz"},
