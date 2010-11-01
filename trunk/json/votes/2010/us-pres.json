@@ -1,13 +1,6 @@
-{"dttime":"Nov 01,2010 04:06 AM","totals":
-{"races":
-{"President":
-{"":
-{"votes":[],
-"precincts":
-{"total":0,"reporting":0}}}}},
-"state":"US","candidates":
+{"state":"US","total":0,"candidates":
 {},
-"total":0,"locals":
+"locals":
 {"Mississippi":
 {"fix":
 {"Jeff Davis":"Jefferson Davis"},
@@ -141,4 +134,11 @@
 {},
 "abbr":"ME","name":"Maine"},
 "Rhode Island":
-{"abbr":"RI","name":"Rhode Island"}}}
+{"abbr":"RI","name":"Rhode Island"}},
+"totals":
+{"races":
+{"President":
+{"":
+{"votes":[],
+"precincts":
+{"total":0,"reporting":0}}}}}}
