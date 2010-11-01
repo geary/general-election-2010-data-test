@@ -56,7 +56,7 @@ var $window = $(window), ww = $window.width(), wh = $window.height();
 var prefs = new _IG_Prefs();
 
 var opt = window.GoogleElectionMapOptions || {};
-opt.static1 = ( ww == 573  &&  wh == 463 );
+opt.static1 = ( ww == 573  &&  wh == 490 );
 opt.static = opt.static1  ||  ( ww == 620  &&  wh == 530 );
 opt.fontsize = '15px';
 var sw = opt.panelWidth = 180;
