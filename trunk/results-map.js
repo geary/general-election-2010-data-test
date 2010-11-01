@@ -806,6 +806,7 @@ function stateReady( state, reload ) {
   polys();
   $('#spinner').hide();
   $('#ballot-initiatives').text(strings.ballot);
+  $('#ballot-initiatives').unbind('click');  
   $('#ballot-initiatives').click(function() {
     toggleBallotInitiatives(state, reload);
   });
