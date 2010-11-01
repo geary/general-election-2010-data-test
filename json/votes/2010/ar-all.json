@@ -1,15 +1,15 @@
-{"dttime":"Nov 01,2010 02:21 PM","totals":
+{"dttime":"Nov 01, 2010 02:24 PM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":293},
+{"total":2406,"reporting":434},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":15085,"id":"60226"},
-{"votes":13821,"id":"60223"},
-{"votes":4610,"id":"61138"}]},
+{"votes":24808,"id":"60226"},
+{"votes":22251,"id":"60223"},
+{"votes":7782,"id":"61138"}]},
 "3":
 {"votes":[
 {"votes":2078,"id":"60233"},
@@ -22,27 +22,27 @@
 {"votes":7749,"id":"60553"}]},
 "4":
 {"votes":[
-{"votes":9480,"id":"60240"},
-{"votes":9054,"id":"1194"},
-{"votes":2659,"id":"59645"}]}},
+{"votes":11551,"id":"60240"},
+{"votes":11254,"id":"1194"},
+{"votes":3182,"id":"59645"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":34116,"id":"1620"},
-{"votes":25957,"id":"7086"},
-{"votes":16971,"id":"60551"},
-{"votes":9074,"id":"61137"}]}},
+{"votes":44689,"id":"1620"},
+{"votes":33796,"id":"7086"},
+{"votes":22463,"id":"60551"},
+{"votes":11289,"id":"61137"}]}},
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":46267,"id":"3"},
-{"votes":34689,"id":"2"}]}},
+{"votes":61527,"id":"3"},
+{"votes":45548,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":45633,"id":"60197"},
-{"votes":39512,"id":"5647"},
-{"votes":14383,"id":"52723"}]}}},
+{"votes":56634,"id":"60197"},
+{"votes":50940,"id":"5647"},
+{"votes":18073,"id":"52723"}]}}},
 "abbr":"AR"},
 "state":"AR","candidates":
 {"60238":"GOP|Womack|Steve Womack","60551":"Ind|Drown|Trevor Drown","60553":"Ind|Levi|Lance Levi","1620":"GOP|Boozman|John Boozman","7086":"Dem|Lincoln|Blanche Lincoln","60226":"GOP|Crawford|Rick Crawford","60233":"Dem|Whitaker|David Whitaker","60223":"Dem|Causey|Chad Causey","1194":"Dem|Ross|Mike Ross","60240":"GOP|Rankin|Beth Anne Rankin","52723":"Grn|Lendall|Jim Lendall","52721":"Dem|Elliott|Joyce Elliott","61137":"Grn|Gray|John Gray","60197":"GOP|Keet|Jim Keet","60231":"GOP|Griffin|Tim Griffin","59645":"Grn|Drake|Josh Drake","2":"|Yes| Yes","61138":"Grn|Adler|Ken Adler","61139":"Grn|Kennedy|Lewis Kennedy","5647":"Dem|Beebe|Mike Beebe","3":"|No| No"},
