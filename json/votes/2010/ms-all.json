@@ -1,21 +1,21 @@
-{"dttime":"Nov 01,2010 02:15 PM","totals":
+{"dttime":"Nov 01,2010 02:21 PM","totals":
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
-{"total":471,"reporting":158},
+{"total":471,"reporting":183},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":4564,"id":"57814"},
-{"votes":4140,"id":"55675"},
-{"votes":2755,"id":"58428"},
-{"votes":2625,"id":"60438"},
-{"votes":1830,"id":"60437"},
-{"votes":1729,"id":"60436"},
-{"votes":1177,"id":"28712"},
-{"votes":761,"id":"214"},
-{"votes":418,"id":"60435"}]},
+{"votes":5643,"id":"57814"},
+{"votes":4873,"id":"55675"},
+{"votes":3331,"id":"58428"},
+{"votes":3113,"id":"60438"},
+{"votes":2319,"id":"60437"},
+{"votes":2140,"id":"60436"},
+{"votes":1451,"id":"28712"},
+{"votes":940,"id":"214"},
+{"votes":516,"id":"60435"}]},
 "3":
 {"votes":[
 {"votes":23317,"id":"57825"},
@@ -23,15 +23,15 @@
 {"votes":6963,"id":"50442"}]},
 "2":
 {"votes":[
-{"votes":28213,"id":"1335"},
-{"votes":24828,"id":"57828"},
-{"votes":9399,"id":"60613"}]},
+{"votes":30069,"id":"1335"},
+{"votes":27761,"id":"57828"},
+{"votes":10231,"id":"60613"}]},
 "4":
 {"votes":[
-{"votes":0,"id":"60439"},
-{"votes":0,"id":"220"},
-{"votes":0,"id":"60440"},
-{"votes":0,"id":"61199"}]}}},
+{"votes":17356,"id":"220"},
+{"votes":16604,"id":"60439"},
+{"votes":3270,"id":"61199"},
+{"votes":2210,"id":"60440"}]}}},
 "abbr":"MS"},
 "state":"MS","candidates":
 {"60438":"Ind|Hoskins|Rico Hoskins","60439":"GOP|Palazzo|Steven Palazzo","28712":"RP|Washer|Barbara Washer","57825":"GOP|Harper|Gregg Harper","57824":"Dem|Gill|Joel Gill","1335":"Dem|Thompson|Bennie Thompson","50442":"RP|Hill|Tracella Hill","57828":"GOP|Marcy|Bill Marcy","60436":"Ind|Baddley|A. G. Baddley","57814":"Dem|Childers|Travis Childers","58428":"Ind|Pang|Wally Pang","60437":"Ind|Green|Les Green","61199":"RP|Revies|Anna Revies","214":"Lib|Taylor|Harold Taylor","60440":"Lib|Hampton|Tim Hampton","60435":"CST|Giaramita|Gail Giaramita","220":"Dem|Taylor|Gene Taylor","55675":"GOP|Nunnelee|Alan Nunnelee","60613":"RP|Norwood|Ashley Norwood"},
