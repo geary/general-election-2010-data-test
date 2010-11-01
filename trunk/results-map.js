@@ -835,7 +835,7 @@ function showBallotInfo(state, reload, fetchPoly) {
   $('#ballot-results').show();
   $('#ballot-initiatives').unbind('click');
   $('#ballot-initiatives').click(function() {
-    showMap(state, reload, fetchPoly);
+    showMap(state, false, fetchPoly);
   });
   var locals = stateUS.results.locals;
   var html = [];
