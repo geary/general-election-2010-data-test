@@ -1,10 +1,10 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":39371,"id":"61010"},
-{"votes":29245,"id":"1465"}]},
+{"votes":46431,"id":"61010"},
+{"votes":35267,"id":"1465"}]},
 "3":
 {"votes":[
 {"votes":104692,"id":"61094"},
@@ -19,31 +19,31 @@
 {"votes":55337,"id":"46291"}]},
 "4":
 {"votes":[
-{"votes":37762,"id":"61096"},
-{"votes":27205,"id":"1475"}]},
+{"votes":64600,"id":"61096"},
+{"votes":50253,"id":"1475"}]},
 "7":
 {"votes":[
-{"votes":50431,"id":"61097"},
-{"votes":42768,"id":"1482"}]},
+{"votes":51591,"id":"61097"},
+{"votes":44576,"id":"1482"}]},
 "6":
 {"votes":[
-{"votes":24595,"id":"51235"},
-{"votes":20056,"id":"1479"}]},
+{"votes":40081,"id":"51235"},
+{"votes":37472,"id":"1479"}]},
 "9":
 {"votes":[
-{"votes":45227,"id":"1488"},
-{"votes":39383,"id":"61095"}]},
+{"votes":58840,"id":"1488"},
+{"votes":45688,"id":"61095"}]},
 "8":
 {"votes":[
-{"votes":58464,"id":"61012"},
-{"votes":48121,"id":"50215"}]}},
+{"votes":72809,"id":"61012"},
+{"votes":63198,"id":"50215"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":447539,"id":"46399"},
-{"votes":378000,"id":"1762"}]}}},
+{"votes":524384,"id":"46399"},
+{"votes":436938,"id":"1762"}]}}},
 "precincts":
-{"total":695,"reporting":231},
+{"total":695,"reporting":275},
 "abbr":"WA","name":"Washington"},
 "state":"WA","candidates":
 {"51235":"GOP|Cloud|Doug Cloud","46291":"GOP|Rodgers|Cathy McMorris Rodgers","1488":"Dem|Smith|Adam Smith","1762":"Dem|Murray|Patty Murray","46399":"GOP|Rossi|Dino Rossi","1475":"GOP|Hastings|Doc Hastings","61012":"Dem|DelBene|Suzan DelBene","61011":"Dem|Heck|Denny Heck","61010":"GOP|Watkins|James Watkins","1479":"Dem|Dicks|Norm Dicks","1482":"Dem|McDermott|Jim McDermott","46225":"GOP|Koster|John Koster","61097":"NPD|Jeffers-Schroder|Bob Jeffers-Schroder","1468":"Dem|Larsen|Rick Larsen","61095":"GOP|Muri|Dick Muri","61094":"GOP|Herrera|Jaime Herrera","1465":"Dem|Inslee|Jay Inslee","50215":"GOP|Reichert|Dave Reichert","61098":"Dem|Romeyn|Daryl Romeyn","61096":"Dem|Clough|Jay Clough"},

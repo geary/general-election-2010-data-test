@@ -1,4 +1,4 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"races":
 {"U.S. House":
 {"11":
@@ -8,16 +8,16 @@
 {"votes":13233,"id":"60463"}]},
 "10":
 {"votes":[
-{"votes":50060,"id":"382"},
-{"votes":43057,"id":"60460"},
-{"votes":9472,"id":"60459"},
-{"votes":9278,"id":"60461"}]},
+{"votes":72173,"id":"382"},
+{"votes":64002,"id":"60460"},
+{"votes":13874,"id":"60459"},
+{"votes":13484,"id":"60461"}]},
 "13":
 {"votes":[
-{"votes":24795,"id":"56705"},
-{"votes":24566,"id":"60466"},
-{"votes":5363,"id":"60467"},
-{"votes":3322,"id":"60468"}]},
+{"votes":30352,"id":"56705"},
+{"votes":27609,"id":"60466"},
+{"votes":6000,"id":"60467"},
+{"votes":4007,"id":"60468"}]},
 "12":
 {"votes":[
 {"votes":25168,"id":"385"},
@@ -25,25 +25,25 @@
 {"votes":7642,"id":"60465"}]},
 "1":
 {"votes":[
-{"votes":40606,"id":"369"},
-{"votes":36962,"id":"58834"},
+{"votes":54419,"id":"369"},
+{"votes":49091,"id":"58834"},
 {"votes":7083,"id":"60443"},
-{"votes":5100,"id":"58835"},
+{"votes":6490,"id":"58835"},
 {"votes":4323,"id":"60442"}]},
 "3":
 {"votes":[
-{"votes":29773,"id":"56726"},
-{"votes":24867,"id":"60351"},
+{"votes":30579,"id":"56726"},
+{"votes":25625,"id":"60351"},
 {"votes":4567,"id":"60545"},
 {"votes":4388,"id":"60448"},
 {"votes":3774,"id":"60447"}]},
 "2":
 {"votes":[
-{"votes":33410,"id":"371"},
-{"votes":27187,"id":"58845"},
-{"votes":5100,"id":"60445"},
-{"votes":4151,"id":"60444"},
-{"votes":3832,"id":"58841"}]},
+{"votes":42960,"id":"371"},
+{"votes":36438,"id":"58845"},
+{"votes":6393,"id":"60445"},
+{"votes":5408,"id":"60444"},
+{"votes":5165,"id":"58841"}]},
 "5":
 {"votes":[
 {"votes":41153,"id":"556"},
@@ -60,14 +60,14 @@
 {"votes":2560,"id":"60450"}]},
 "7":
 {"votes":[
-{"votes":318,"id":"60455"},
-{"votes":65,"id":"56743"}]},
+{"votes":42297,"id":"56743"},
+{"votes":34730,"id":"60455"}]},
 "6":
 {"votes":[
-{"votes":0,"id":"60454"},
-{"votes":0,"id":"569"},
-{"votes":0,"id":"375"},
-{"votes":0,"id":"60453"}]},
+{"votes":5978,"id":"375"},
+{"votes":3917,"id":"60453"},
+{"votes":870,"id":"60454"},
+{"votes":868,"id":"569"}]},
 "9":
 {"votes":[
 {"votes":61985,"id":"380"},
@@ -79,7 +79,7 @@
 {"votes":27342,"id":"58911"},
 {"votes":9020,"id":"60457"}]}}},
 "precincts":
-{"total":483,"reporting":186},
+{"total":483,"reporting":239},
 "abbr":"NJ","name":"New Jersey"},
 "state":"NJ","candidates":
 {"58874":"Grn|Welzer|Steven Welzer","60457":"Ind|Giangrasso|Raymond Giangrasso","60055":"Ind|Meiswinkle|David Meiswinkle","60545":"Ind|Donahue|Lawrence Donahue","556":"GOP|Garrett|Scott Garrett","58835":"Ind|Chapman|Margaret Chapman","58834":"GOP|Glading|Dale Glading","375":"Dem|Pallone|Frank Pallone","569":"Ind|Zaletel|Karen Zaletel","60465":"Ind|Cody|Kenneth Cody","60464":"GOP|Sipprelle|Scott Sipprelle","60467":"Ind|Nacer|Maximo Nacer","60466":"GOP|Dwyer|Henrietta Dwyer","60461":"Ind|Toussaint|Robert Toussaint","60460":"GOP|Alonso|Michael Alonso","60463":"Lib|Gawron|Jim Gawron","60462":"Dem|Herbert|Douglas Herbert","60449":"Dem|Kleinhendler|Howard Kleinhendler","60448":"Ind|DeStefano|Peter DeStefano","60468":"Ind|Zanowic|Anthony Zanowic","56726":"Dem|Adler|John Adler","58879":"Grn|Fanning|Ed Fanning","31001":"Grn|Alessandrini|Patricia Alessandrini","369":"Dem|Andrews|Robert Andrews","60443":"Ind|Petrutz|Nicky Petrutz","58911":"GOP|Straten|Roland Straten","56743":"GOP|Lance|Leonard Lance","60442":"Grn|Heacock|Mark Heacock","58845":"Dem|Stein|Gary Stein","60445":"Ind|Valdes-Munoz|Vitov Valdes-Munoz","56705":"Dem|Sires|Albio Sires","58841":"CST|Boyce|Peter Boyce","380":"Dem|Rothman|Steve Rothman","382":"Dem|Payne|Donald Payne","384":"GOP|Frelinghuysen|Rodney Frelinghuysen","385":"Dem|Holt|Rush Holt","60447":"Lib|Conger|Russ Conger","60351":"GOP|Runyan|Jon Runyan","60458":"GOP|Agosta|Michael Agosta","60459":"Ind|Miller|Joanne Miller","60454":"Ind|Freudenheim|Jack Freudenheim","60455":"Dem|Potosnak|Ed Potosnak","60444":"Ind|Lovett|Mark Lovett","60450":"Lib|Siano|Joe Siano","60451":"Ind|Quick|Mark Quick","60452":"Ind|Radigan|James Radigan","60453":"GOP|Little|Anna Little","378":"Dem|Pascrell|Bill Pascrell","371":"GOP|LoBiondo|Frank LoBiondo","31301":"Dem|Theise|Tod Theise","1352":"GOP|Smith|Chris Smith"},

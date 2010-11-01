@@ -1,4 +1,4 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -14,9 +14,9 @@
 {"votes":5285,"id":"59897"}]},
 "2":
 {"votes":[
-{"votes":43905,"id":"1121"},
-{"votes":42919,"id":"51674"},
-{"votes":18110,"id":"51356"}]},
+{"votes":43908,"id":"1121"},
+{"votes":42922,"id":"51674"},
+{"votes":18113,"id":"51356"}]},
 "5":
 {"votes":[
 {"votes":28756,"id":"52516"},
@@ -30,10 +30,10 @@
 {"votes":3171,"id":"57149"}]},
 "7":
 {"votes":[
-{"votes":12729,"id":"1131"},
-{"votes":10432,"id":"61007"},
-{"votes":2371,"id":"61195"},
-{"votes":2158,"id":"61153"}]},
+{"votes":14479,"id":"1131"},
+{"votes":12264,"id":"61007"},
+{"votes":2618,"id":"61195"},
+{"votes":2513,"id":"61153"}]},
 "6":
 {"votes":[
 {"votes":20046,"id":"1129"},
@@ -48,40 +48,40 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":150846,"id":"61000"},
-{"votes":129870,"id":"1701"},
-{"votes":25641,"id":"61001"},
-{"votes":21625,"id":"56827"}]}},
+{"votes":153338,"id":"61000"},
+{"votes":131116,"id":"1701"},
+{"votes":25968,"id":"61001"},
+{"votes":21817,"id":"56827"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":217683,"id":"4627"},
-{"votes":184684,"id":"4875"},
-{"votes":40594,"id":"61009"},
-{"votes":33711,"id":"1137"}]}},
+{"votes":219546,"id":"4627"},
+{"votes":186448,"id":"4875"},
+{"votes":40923,"id":"61009"},
+{"votes":34012,"id":"1137"}]}},
 "Proposition":
 {"107 - Preferential Treatment":
 {"votes":[
-{"votes":194610,"id":"2"},
-{"votes":157074,"id":"3"}]},
+{"votes":196933,"id":"2"},
+{"votes":159008,"id":"3"}]},
 "109 - Hunting and Fishing":
 {"votes":[
-{"votes":218846,"id":"2"},
-{"votes":190314,"id":"3"}]},
+{"votes":220438,"id":"2"},
+{"votes":192979,"id":"3"}]},
 "106 - Health Care":
 {"votes":[
-{"votes":213216,"id":"2"},
-{"votes":179374,"id":"3"}]},
+{"votes":215430,"id":"2"},
+{"votes":181417,"id":"3"}]},
 "113 - Secret Ballot":
 {"votes":[
-{"votes":232001,"id":"3"},
-{"votes":194182,"id":"2"}]},
+{"votes":233372,"id":"3"},
+{"votes":197068,"id":"2"}]},
 "203 - Medical Marijuana":
 {"votes":[
-{"votes":217202,"id":"3"},
-{"votes":174610,"id":"2"}]}}},
+{"votes":219691,"id":"3"},
+{"votes":176378,"id":"2"}]}}},
 "precincts":
-{"total":2239,"reporting":464},
+{"total":2239,"reporting":476},
 "abbr":"AZ","name":"Arizona"},
 "state":"AZ","candidates":
 {"59537":"Dem|Schneider|Rebecca Schneider","1129":"GOP|Flake|Jeff Flake","59893":"Grn|DeWitt|Rebecca DeWitt","5397":"GOP|Schweikert|David Schweikert","52516":"Dem|Mitchell|Harry Mitchell","59897":"Lib|Shoen|Michael Shoen","1121":"GOP|Franks|Trent Franks","1124":"Dem|Pastor|Ed Pastor","57784":"Grn|Grayson|Richard Grayson","4703":"Grn|Clark|Leonard Clark","57149":"Lib|Cobb|Joe Cobb","3":"|No| No","61153":"Ind|Meyer|Harley Meyer","61136":"GOP|Kelly|Jesse Kelly","2":"|Yes| Yes","51674":"Dem|Thrasher|John Thrasher","56827":"Lib|Nolan|David Nolan","59526":"Dem|Kirkpatrick|Ann Kirkpatrick","1131":"Dem|Grijalva|Raul Grijalva","1137":"Lib|Hess|Barry Hess","61194":"Lib|Tapp|Darell Tapp","61195":"Lib|Keane|George Keane","61192":"Lib|Patti|Nicole Patti","4627":"GOP|Brewer|Jan Brewer","52527":"Dem|Giffords|Gabrielle Giffords","4875":"Dem|Goddard|Terry Goddard","1701":"GOP|McCain|John McCain","51356":"Lib|Gammill|Powell Gammill","61004":"GOP|Quayle|Ben Quayle","61005":"GOP|Contreras|Janet Contreras","61006":"Lib|Coons|Nick Coons","61007":"GOP|McClung|Ruth McClung","61000":"Dem|Glassman|Rodney Glassman","61001":"Grn|Joslyn|Jerry Joslyn","61002":"GOP|Gosar|Paul Gosar","61003":"Dem|Hulburd|Jon Hulburd","61008":"Lib|Stoltz|Steven Stoltz","61009":"Grn|Gist|Larry Gist"},

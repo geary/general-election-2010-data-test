@@ -1,33 +1,33 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":42399,"id":"58553"},
-{"votes":40473,"id":"60527"},
-{"votes":8642,"id":"56227"},
-{"votes":6639,"id":"60567"}]},
+{"votes":44954,"id":"58553"},
+{"votes":41247,"id":"60527"},
+{"votes":8956,"id":"56227"},
+{"votes":6848,"id":"60567"}]},
 "2":
 {"votes":[
-{"votes":52755,"id":"504"},
-{"votes":47040,"id":"60568"},
-{"votes":18152,"id":"60569"}]}},
+{"votes":53046,"id":"504"},
+{"votes":48187,"id":"60568"},
+{"votes":18661,"id":"60569"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":89268,"id":"81"},
-{"votes":78391,"id":"60565"},
-{"votes":29124,"id":"60566"}]}},
+{"votes":91564,"id":"81"},
+{"votes":81065,"id":"60565"},
+{"votes":29953,"id":"60566"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":101609,"id":"501"},
-{"votes":96146,"id":"60528"},
-{"votes":19813,"id":"56769"},
-{"votes":18631,"id":"60570"},
-{"votes":6022,"id":"15109"}]}}},
+{"votes":104114,"id":"501"},
+{"votes":98625,"id":"60528"},
+{"votes":20152,"id":"56769"},
+{"votes":18965,"id":"60570"},
+{"votes":6164,"id":"15109"}]}}},
 "precincts":
-{"total":472,"reporting":242},
+{"total":472,"reporting":261},
 "abbr":"ID","name":"Idaho"},
 "state":"ID","candidates":
 {"60568":"Dem|Crawford|Mike Crawford","60569":"Ind|Schad|Brian Schad","60527":"GOP|Labrador|Raul Labrador","60570":"Ind|Kemp|Jana Kemp","58553":"Dem|Minnick|Walt Minnick","56769":"Ind|Pro-Life| Pro-Life","15109":"Lib|Dunlap|Ted Dunlap","60528":"Dem|Allred|Keith Allred","60565":"Dem|Sullivan|Tom Sullivan","60566":"Con|Bergquist|Randy Bergquist","60567":"Lib|Washburn|Mike Washburn","56227":"Ind|Olson|Dave Olson","504":"GOP|Simpson|Mike Simpson","81":"GOP|Crapo|Mike Crapo","501":"GOP|Otter|C.L. Butch Otter"},
