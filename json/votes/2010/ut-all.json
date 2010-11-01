@@ -1,46 +1,46 @@
-{"dttime":"Nov 01,2010 02:08 PM","totals":
+{"dttime":"Nov 01,2010 02:15 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":0,"id":"59340"},
-{"votes":0,"id":"59341"},
-{"votes":0,"id":"618"},
-{"votes":0,"id":"60695"}]},
+{"votes":23611,"id":"618"},
+{"votes":16999,"id":"59341"},
+{"votes":3557,"id":"59340"},
+{"votes":3300,"id":"60695"}]},
 "3":
 {"votes":[
-{"votes":9294,"id":"59346"},
-{"votes":7650,"id":"60698"},
-{"votes":3860,"id":"60701"},
-{"votes":1234,"id":"60700"},
-{"votes":962,"id":"60699"}]},
+{"votes":13977,"id":"59346"},
+{"votes":12182,"id":"60698"},
+{"votes":4604,"id":"60701"},
+{"votes":1836,"id":"60700"},
+{"votes":1402,"id":"60699"}]},
 "2":
 {"votes":[
-{"votes":6617,"id":"620"},
-{"votes":5111,"id":"58507"},
-{"votes":663,"id":"60696"},
-{"votes":648,"id":"60697"},
-{"votes":557,"id":"44307"}]}},
+{"votes":13930,"id":"620"},
+{"votes":11231,"id":"58507"},
+{"votes":1963,"id":"60697"},
+{"votes":1528,"id":"60696"},
+{"votes":1382,"id":"44307"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":32496,"id":"60693"},
-{"votes":31473,"id":"60694"},
-{"votes":10253,"id":"51684"}]}},
+{"votes":50897,"id":"60693"},
+{"votes":47444,"id":"60694"},
+{"votes":14975,"id":"51684"}]}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[
-{"votes":13895,"id":"2"},
-{"votes":12949,"id":"3"}]}},
+{"votes":44969,"id":"2"},
+{"votes":35082,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":25201,"id":"44298"},
-{"votes":23346,"id":"60702"},
-{"votes":6697,"id":"44544"},
-{"votes":4482,"id":"61131"}]}}},
+{"votes":42697,"id":"44298"},
+{"votes":38776,"id":"60702"},
+{"votes":8833,"id":"44544"},
+{"votes":7072,"id":"61131"}]}}},
 "precincts":
-{"total":667,"reporting":0},
+{"total":667,"reporting":109},
 "abbr":"UT","name":"Utah"},
 "state":"UT","candidates":
 {"620":"Dem|Matheson|Jim Matheson","59340":"CST|Pearson|Kirk Pearson","59341":"Dem|Bowen|Morgan Bowen","59346":"GOP|Chaffetz|Jason Chaffetz","60700":"Lib|Shannon|Jake Shannon","60701":"CST|Sligting|Douglas Sligting","60702":"Dem|Corroon|Peter Corroon","44298":"GOP|Herbert|Gary Herbert","3":"|No| No","2":"|Yes| Yes","61131":"Una|Anderson|Farley Anderson","44307":"Una|Hill|Wayne Hill","618":"GOP|Bishop|Rob Bishop","44544":"Lib|McCullough|Andrew McCullough","51684":"CST|Bradley|Scott Bradley","60698":"Dem|Hyer|Karen Hyer","60699":"Una|Puente|Joseph Puente","60696":"Una|Glissmeyer|Dave Glissmeyer","60697":"CST|Hinton|Randall Hinton","60694":"Dem|Granato|Sam Granato","60695":"Lib|Stratton|Jared Stratton","60693":"GOP|Lee|Mike Lee","58507":"GOP|Philpot|Morgan Philpot"},
