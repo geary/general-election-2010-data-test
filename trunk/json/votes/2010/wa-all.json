@@ -1,22 +1,22 @@
-{"dttime":"Nov 01, 2010 03:32 PM","totals":
+{"dttime":"Nov 01, 2010 03:44 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":88664,"id":"61010"},
-{"votes":72951,"id":"1465"}]},
+{"votes":113560,"id":"61010"},
+{"votes":92914,"id":"1465"}]},
 "3":
 {"votes":[
 {"votes":116141,"id":"61094"},
-{"votes":94727,"id":"61011"}]},
+{"votes":95026,"id":"61011"}]},
 "2":
 {"votes":[
-{"votes":87300,"id":"46225"},
-{"votes":71940,"id":"1468"}]},
+{"votes":115421,"id":"46225"},
+{"votes":94436,"id":"1468"}]},
 "5":
 {"votes":[
-{"votes":77760,"id":"61098"},
-{"votes":71921,"id":"46291"}]},
+{"votes":108871,"id":"61098"},
+{"votes":89076,"id":"46291"}]},
 "4":
 {"votes":[
 {"votes":93393,"id":"61096"},
@@ -27,23 +27,23 @@
 {"votes":93103,"id":"1482"}]},
 "6":
 {"votes":[
-{"votes":88051,"id":"51235"},
-{"votes":72659,"id":"1479"}]},
+{"votes":103404,"id":"51235"},
+{"votes":84604,"id":"1479"}]},
 "9":
 {"votes":[
-{"votes":82964,"id":"1488"},
-{"votes":69392,"id":"61095"}]},
+{"votes":95735,"id":"1488"},
+{"votes":78328,"id":"61095"}]},
 "8":
 {"votes":[
-{"votes":118697,"id":"61012"},
-{"votes":97486,"id":"50215"}]}},
+{"votes":121355,"id":"61012"},
+{"votes":99289,"id":"50215"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":881580,"id":"46399"},
-{"votes":725691,"id":"1762"}]}}},
+{"votes":987238,"id":"46399"},
+{"votes":807741,"id":"1762"}]}}},
 "precincts":
-{"total":695,"reporting":544},
+{"total":695,"reporting":695},
 "abbr":"WA","name":"Washington"},
 "state":"WA","candidates":
 {"51235":"GOP|Cloud|Doug Cloud","46291":"GOP|Rodgers|Cathy McMorris Rodgers","1488":"Dem|Smith|Adam Smith","1762":"Dem|Murray|Patty Murray","46399":"GOP|Rossi|Dino Rossi","1475":"GOP|Hastings|Doc Hastings","61012":"Dem|DelBene|Suzan DelBene","61011":"Dem|Heck|Denny Heck","61010":"GOP|Watkins|James Watkins","1479":"Dem|Dicks|Norm Dicks","1482":"Dem|McDermott|Jim McDermott","46225":"GOP|Koster|John Koster","61097":"NPD|Jeffers-Schroder|Bob Jeffers-Schroder","1468":"Dem|Larsen|Rick Larsen","61095":"GOP|Muri|Dick Muri","61094":"GOP|Herrera|Jaime Herrera","1465":"Dem|Inslee|Jay Inslee","50215":"GOP|Reichert|Dave Reichert","61098":"Dem|Romeyn|Daryl Romeyn","61096":"Dem|Clough|Jay Clough"},
