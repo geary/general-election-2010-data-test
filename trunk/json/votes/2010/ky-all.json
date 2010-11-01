@@ -1,4 +1,4 @@
-{"dttime":"Nov 01, 2010 02:47 PM","totals":
+{"dttime":"Nov 01, 2010 02:54 PM","totals":
 {"name":"Kentucky","fix":
 {"LaRue":"Larue"},
 "precincts":
@@ -7,8 +7,8 @@
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":26544,"id":"202"},
-{"votes":20372,"id":"60530"}]},
+{"votes":50145,"id":"202"},
+{"votes":39285,"id":"60530"}]},
 "3":
 {"votes":[
 {"votes":7686,"id":"51522"},
@@ -17,16 +17,16 @@
 {"votes":894,"id":"59793"}]},
 "2":
 {"votes":[
-{"votes":14926,"id":"54282"},
-{"votes":11488,"id":"60703"}]},
+{"votes":29420,"id":"54282"},
+{"votes":27164,"id":"60703"}]},
 "5":
 {"votes":[
-{"votes":77670,"id":"208"},
-{"votes":64233,"id":"59743"}]},
+{"votes":83397,"id":"208"},
+{"votes":69348,"id":"59743"}]},
 "4":
 {"votes":[
-{"votes":59389,"id":"1306"},
-{"votes":50519,"id":"60532"}]},
+{"votes":75140,"id":"1306"},
+{"votes":62912,"id":"60532"}]},
 "6":
 {"votes":[
 {"votes":64838,"id":"1310"},
@@ -34,8 +34,8 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":261774,"id":"204"},
-{"votes":215456,"id":"60208"}]}}},
+{"votes":326925,"id":"204"},
+{"votes":269333,"id":"60208"}]}}},
 "abbr":"KY"},
 "state":"KY","candidates":
 {"60705":"GOP|Barr|Andy Barr","1306":"GOP|Davis|Geoff Davis","202":"GOP|Whitfield|Ed Whitfield","60208":"GOP|Paul|Rand Paul","204":"Dem|Conway|Jack Conway","59743":"Dem|Holbert|Jim Holbert","60704":"Ind|Hansen|Michael Hansen","208":"GOP|Rogers|Hal Rogers","60532":"Dem|Waltz|John Waltz","1310":"Dem|Chandler|Ben Chandler","60703":"Dem|Marksberry|Ed Marksberry","59793":"Lib|Martin|Edward Martin","20552":"GOP|Lally|Todd Lally","54282":"GOP|Guthrie|Brett Guthrie","51522":"Dem|Yarmuth|John Yarmuth","60530":"Dem|Hatchett|Charles Hatchett"},
