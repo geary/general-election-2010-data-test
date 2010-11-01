@@ -804,11 +804,10 @@ function stateReady( state, reload ) {
   loadChart();
   if (!reload) moveToState(state);
   polys();
-  updateBallotInfo(state);  
   $('#spinner').hide();
   $('#ballot-initiatives').text(strings.ballot);
   $('#ballot-initiatives').click(function() {
-    toggleBallotInitiatives(state);
+    toggleBallotInitiatives(state, reload);
   });
   //reloadTimer = setTimeout( function() { loadState( true ); }, 300000 );
 }
@@ -824,23 +823,20 @@ function checkBallotsData() {
   return ballotExist;
 }
 
-function toggleBallotInitiatives(state) {
+function toggleBallotInitiatives(state, reload) {
   if (showingBallotInitiatives) {
     // Hide ballot initiatives, show map.
     $('#ballot-initiatives').text(strings.ballot); 
     $('#stateInfoSelector').attr('disabled', false);
     $('#ballot-results').hide();        
-    staticmap = opt.static  &&  state == stateUS;
-    //if (staticmap) {
-    //  $('#staticmap').show();
-    //} else {
-    //  $('#map').show();
-    //}
+    if (!reload) moveToState(state);
+    polys();
     showingBallotInitiatives = false;
   } else {
+    updateBallotInfo(state);      
     $('#ballot-initiatives').text(strings.showMap);
-    //$('#map').hide();    
-    //$('#staticmap').hide();    
+    $('#map').hide();    
+    $('#staticmap').hide();    
     $('#stateInfoSelector').attr('disabled', true);    
     $('#ballot-results').show();    
     showingBallotInitiatives = true;
