@@ -824,7 +824,7 @@ function checkBallotsData() {
   return ballotExist;
 }
 
-function toggleBallotInitiatives() {
+function toggleBallotInitiatives(state) {
   if (showingBallotInitiatives) {
     // Hide ballot initiatives, show map.
     $('#ballot-initiatives').text(strings.ballot); 
