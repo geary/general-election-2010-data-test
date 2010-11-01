@@ -1,4 +1,4 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -10,16 +10,16 @@
 {"votes":7893,"id":"744"}]},
 "3":
 {"votes":[
-{"votes":23836,"id":"9344"},
-{"votes":21208,"id":"51753"},
-{"votes":4736,"id":"60586"},
-{"votes":4426,"id":"60999"}]},
+{"votes":30955,"id":"9344"},
+{"votes":27546,"id":"51753"},
+{"votes":6142,"id":"60586"},
+{"votes":5704,"id":"60999"}]},
 "2":
 {"votes":[
-{"votes":27133,"id":"9302"},
+{"votes":27507,"id":"9302"},
 {"votes":24948,"id":"60691"},
-{"votes":6770,"id":"60584"},
-{"votes":5119,"id":"60585"}]},
+{"votes":6905,"id":"60584"},
+{"votes":5183,"id":"60585"}]},
 "5":
 {"votes":[
 {"votes":46123,"id":"9174"},
@@ -28,15 +28,15 @@
 {"votes":7400,"id":"59791"}]},
 "4":
 {"votes":[
-{"votes":36500,"id":"59348"},
-{"votes":30838,"id":"60588"},
-{"votes":8975,"id":"60593"},
-{"votes":6853,"id":"60589"}]},
+{"votes":37375,"id":"59348"},
+{"votes":31268,"id":"60588"},
+{"votes":9077,"id":"60593"},
+{"votes":6976,"id":"60589"}]},
 "7":
 {"votes":[
-{"votes":55608,"id":"9291"},
-{"votes":52217,"id":"60599"},
-{"votes":17949,"id":"60600"}]},
+{"votes":58707,"id":"9291"},
+{"votes":53887,"id":"60599"},
+{"votes":18153,"id":"60600"}]},
 "6":
 {"votes":[
 {"votes":86170,"id":"8993"},
@@ -45,33 +45,33 @@
 "Amendment":
 {"62 - Definition of Person":
 {"votes":[
-{"votes":413189,"id":"2"},
-{"votes":337201,"id":"3"}]},
+{"votes":432035,"id":"2"},
+{"votes":355114,"id":"3"}]},
 "63 - Health Care":
 {"votes":[
-{"votes":430175,"id":"3"},
-{"votes":357404,"id":"2"}]}},
+{"votes":458209,"id":"3"},
+{"votes":375143,"id":"2"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":350838,"id":"59911"},
-{"votes":316998,"id":"61077"},
-{"votes":30076,"id":"60998"},
-{"votes":27149,"id":"60579"},
-{"votes":25303,"id":"61078"},
-{"votes":25038,"id":"59783"},
-{"votes":24875,"id":"60578"}]}},
+{"votes":372306,"id":"59911"},
+{"votes":341166,"id":"61077"},
+{"votes":32383,"id":"60998"},
+{"votes":29036,"id":"60579"},
+{"votes":27182,"id":"61078"},
+{"votes":26930,"id":"59783"},
+{"votes":26592,"id":"60578"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":292365,"id":"751"},
-{"votes":226369,"id":"61076"},
-{"votes":209622,"id":"60601"},
-{"votes":37980,"id":"60607"},
-{"votes":36036,"id":"53523"},
-{"votes":34663,"id":"60604"}]}}},
+{"votes":298118,"id":"751"},
+{"votes":232272,"id":"61076"},
+{"votes":214911,"id":"60601"},
+{"votes":38988,"id":"60607"},
+{"votes":37006,"id":"53523"},
+{"votes":35531,"id":"60604"}]}}},
 "precincts":
-{"total":462,"reporting":129},
+{"total":462,"reporting":130},
 "abbr":"CO","name":"Colorado"},
 "state":"CO","candidates":
 {"744":"Grn|Swing|Gary Swing","59783":"Grn|Kinsey|Bob Kinsey","53523":"Una|Fiorino|Paul Fiorino","59348":"Dem|Markey|Betsy Markey","9344":"Dem|Salazar|John Salazar","60600":"Lib|Bailey|Buck Bailey","9302":"Dem|Polis|Jared Polis","60586":"Lib|Gilman|Gregory Gilman","60604":"Lib|Brown|Jaimes Brown","60584":"AmC|Goss|Jenna Goss","60585":"Lib|Harris|Curtis Harris","60582":"GOP|Fallon|Mike Fallon","60583":"AmC|Styskal|Chris Styskal","60588":"GOP|Gardner|Cory Gardner","60589":"AmC|Aden|Doug Aden","51753":"GOP|Tipton|Scott Tipton","3":"|No| No","2":"|Yes| Yes","734":"Dem|DeGette|Diana DeGette","61077":"GOP|Buck|Ken Buck","61076":"GOP|Maes|Dan Maes","61079":"Lib|Jones|Clint Jones","61078":"Lib|Stringer|Maclyn Stringer","60999":"Una|Segrest|Jake Segrest","60998":"INR|Napolitano|Jason Napolitano","751":"AmC|Tancredo|Tom Tancredo","59911":"Dem|Bennet|Michael Bennet","60579":"Una|Moromisato|J. Moromisato","60578":"Una|Miller|Charley Miller","60607":"Una|Clark|Jason Clark","60596":"Dem|Flerlage|John Flerlage","59791":"AmC|Scott|Brian Scott","60601":"Dem|Hickenlooper|John Hickenlooper","9174":"GOP|Lamborn|Doug Lamborn","60691":"GOP|Bailey|Stephen Bailey","60595":"Lib|Klaver|Jerell Klaver","60594":"Dem|Bradley|Kevin Bradley","9291":"Dem|Perlmutter|Ed Perlmutter","60593":"Una|Waszkiewicz|Ken Waszkiewicz","8993":"GOP|Coffman|Mike Coffman","60599":"GOP|Frazier|Ryan Frazier","60598":"Lib|McNealy|Rob McNealy"},

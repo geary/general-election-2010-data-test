@@ -1,8 +1,8 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":1525},
+{"total":2406,"reporting":1562},
 "races":
 {"U.S. House":
 {"1":
@@ -12,37 +12,37 @@
 {"votes":16639,"id":"61138"}]},
 "3":
 {"votes":[
-{"votes":20690,"id":"60233"},
-{"votes":17162,"id":"60238"}]},
+{"votes":33340,"id":"60233"},
+{"votes":27666,"id":"60238"}]},
 "2":
 {"votes":[
-{"votes":71698,"id":"60231"},
-{"votes":63087,"id":"52721"},
-{"votes":12837,"id":"61139"},
-{"votes":11264,"id":"60553"}]},
+{"votes":73800,"id":"60231"},
+{"votes":64592,"id":"52721"},
+{"votes":13136,"id":"61139"},
+{"votes":11609,"id":"60553"}]},
 "4":
 {"votes":[
-{"votes":53516,"id":"1194"},
-{"votes":50915,"id":"60240"},
-{"votes":18640,"id":"59645"}]}},
+{"votes":54948,"id":"1194"},
+{"votes":52239,"id":"60240"},
+{"votes":19247,"id":"59645"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":168708,"id":"1620"},
-{"votes":124455,"id":"7086"},
-{"votes":84320,"id":"60551"},
-{"votes":41256,"id":"61137"}]}},
+{"votes":173367,"id":"1620"},
+{"votes":127089,"id":"7086"},
+{"votes":85779,"id":"60551"},
+{"votes":42080,"id":"61137"}]}},
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":222390,"id":"3"},
-{"votes":180317,"id":"2"}]}},
+{"votes":226347,"id":"3"},
+{"votes":184366,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":184530,"id":"60197"},
-{"votes":161780,"id":"5647"},
-{"votes":60312,"id":"52723"}]}}},
+{"votes":189081,"id":"60197"},
+{"votes":163947,"id":"5647"},
+{"votes":61600,"id":"52723"}]}}},
 "abbr":"AR"},
 "state":"AR","candidates":
 {"60238":"GOP|Womack|Steve Womack","60551":"Ind|Drown|Trevor Drown","60553":"Ind|Levi|Lance Levi","1620":"GOP|Boozman|John Boozman","7086":"Dem|Lincoln|Blanche Lincoln","60226":"GOP|Crawford|Rick Crawford","60233":"Dem|Whitaker|David Whitaker","60223":"Dem|Causey|Chad Causey","1194":"Dem|Ross|Mike Ross","60240":"GOP|Rankin|Beth Anne Rankin","52723":"Grn|Lendall|Jim Lendall","52721":"Dem|Elliott|Joyce Elliott","61137":"Grn|Gray|John Gray","60197":"GOP|Keet|Jim Keet","60231":"GOP|Griffin|Tim Griffin","59645":"Grn|Drake|Josh Drake","2":"|Yes| Yes","61138":"Grn|Adler|Ken Adler","61139":"Grn|Kennedy|Lewis Kennedy","5647":"Dem|Beebe|Mike Beebe","3":"|No| No"},

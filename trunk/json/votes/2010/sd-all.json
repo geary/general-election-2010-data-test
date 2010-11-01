@@ -1,26 +1,26 @@
-{"dttime":"Nov 01, 2010 03:00 PM","totals":
+{"dttime":"Nov 01, 2010 03:07 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":75452,"id":"60394"},
-{"votes":72979,"id":"581"},
-{"votes":36551,"id":"60708"}]}},
+{"votes":78068,"id":"60394"},
+{"votes":74969,"id":"581"},
+{"votes":37952,"id":"60708"}]}},
 "Amendment":
 {"K - Secret Ballot":
 {"votes":[
-{"votes":100098,"id":"3"},
-{"votes":84884,"id":"2"}]}},
+{"votes":103538,"id":"3"},
+{"votes":87451,"id":"2"}]}},
 "Referendum":
 {"12 - Smoking Ban":
 {"votes":[
-{"votes":103700,"id":"2"},
-{"votes":81282,"id":"3"}]}},
+{"votes":107038,"id":"2"},
+{"votes":83951,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":104044,"id":"40715"},
-{"votes":80938,"id":"60690"}]}},
+{"votes":107886,"id":"40715"},
+{"votes":83103,"id":"60690"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
@@ -28,10 +28,10 @@
 "Initiative":
 {"13 - Medical Marijuana":
 {"votes":[
-{"votes":105214,"id":"2"},
-{"votes":87133,"id":"3"}]}}},
+{"votes":105532,"id":"2"},
+{"votes":87292,"id":"3"}]}}},
 "precincts":
-{"total":791,"reporting":535},
+{"total":791,"reporting":550},
 "abbr":"SD","name":"South Dakota"},
 "state":"SD","candidates":
 {"579":"GOP|Thune|John Thune","60708":"Ind|Marking|Thomas Marking","581":"Dem|Herseth Sandlin|Stephanie Herseth Sandlin","40715":"GOP|Daugaard|Dennis Daugaard","3":"|No| No","2":"|Yes| Yes","60394":"GOP|Noem|Kristi Noem","60690":"Dem|Heidepriem|Scott Heidepriem"},
