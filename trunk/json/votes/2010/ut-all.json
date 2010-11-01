@@ -1,12 +1,12 @@
-{"dttime":"Nov 01, 2010 02:54 PM","totals":
+{"dttime":"Nov 01, 2010 03:00 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":49665,"id":"618"},
-{"votes":43043,"id":"59341"},
-{"votes":7236,"id":"59340"},
-{"votes":6526,"id":"60695"}]},
+{"votes":55610,"id":"618"},
+{"votes":49915,"id":"59341"},
+{"votes":8286,"id":"59340"},
+{"votes":7812,"id":"60695"}]},
 "3":
 {"votes":[
 {"votes":49396,"id":"59346"},
@@ -16,31 +16,31 @@
 {"votes":5362,"id":"60699"}]},
 "2":
 {"votes":[
-{"votes":25029,"id":"620"},
-{"votes":23444,"id":"58507"},
-{"votes":2793,"id":"60697"},
-{"votes":2377,"id":"60696"},
-{"votes":2102,"id":"44307"}]}},
+{"votes":30924,"id":"620"},
+{"votes":29074,"id":"58507"},
+{"votes":3496,"id":"60697"},
+{"votes":3019,"id":"60696"},
+{"votes":2774,"id":"44307"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":126771,"id":"60693"},
-{"votes":115860,"id":"60694"},
-{"votes":41825,"id":"51684"}]}},
+{"votes":139264,"id":"60693"},
+{"votes":127688,"id":"60694"},
+{"votes":46199,"id":"51684"}]}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[
-{"votes":193829,"id":"2"},
-{"votes":151112,"id":"3"}]}},
+{"votes":209398,"id":"2"},
+{"votes":164238,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":144873,"id":"44298"},
-{"votes":127295,"id":"60702"},
-{"votes":23364,"id":"61131"},
-{"votes":20853,"id":"44544"}]}}},
+{"votes":156653,"id":"44298"},
+{"votes":139552,"id":"60702"},
+{"votes":25596,"id":"61131"},
+{"votes":23279,"id":"44544"}]}}},
 "precincts":
-{"total":667,"reporting":259},
+{"total":667,"reporting":321},
 "abbr":"UT","name":"Utah"},
 "state":"UT","candidates":
 {"620":"Dem|Matheson|Jim Matheson","59340":"CST|Pearson|Kirk Pearson","59341":"Dem|Bowen|Morgan Bowen","59346":"GOP|Chaffetz|Jason Chaffetz","60700":"Lib|Shannon|Jake Shannon","60701":"CST|Sligting|Douglas Sligting","60702":"Dem|Corroon|Peter Corroon","44544":"Lib|McCullough|Andrew McCullough","3":"|No| No","2":"|Yes| Yes","61131":"Una|Anderson|Farley Anderson","44307":"Una|Hill|Wayne Hill","618":"GOP|Bishop|Rob Bishop","44298":"GOP|Herbert|Gary Herbert","51684":"CST|Bradley|Scott Bradley","60698":"Dem|Hyer|Karen Hyer","60699":"Una|Puente|Joseph Puente","60696":"Una|Glissmeyer|Dave Glissmeyer","60697":"CST|Hinton|Randall Hinton","60694":"Dem|Granato|Sam Granato","60695":"Lib|Stratton|Jared Stratton","60693":"GOP|Lee|Mike Lee","58507":"GOP|Philpot|Morgan Philpot"},
