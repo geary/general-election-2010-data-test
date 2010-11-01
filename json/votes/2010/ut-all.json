@@ -1,4 +1,4 @@
-{"dttime":"Nov 01,2010 02:02 PM","totals":
+{"dttime":"Nov 01,2010 02:08 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -9,36 +9,36 @@
 {"votes":0,"id":"60695"}]},
 "3":
 {"votes":[
-{"votes":0,"id":"60698"},
-{"votes":0,"id":"60700"},
-{"votes":0,"id":"60701"},
-{"votes":0,"id":"59346"},
-{"votes":0,"id":"60699"}]},
+{"votes":9294,"id":"59346"},
+{"votes":7650,"id":"60698"},
+{"votes":3860,"id":"60701"},
+{"votes":1234,"id":"60700"},
+{"votes":962,"id":"60699"}]},
 "2":
 {"votes":[
-{"votes":0,"id":"60696"},
-{"votes":0,"id":"44307"},
-{"votes":0,"id":"58507"},
-{"votes":0,"id":"620"},
-{"votes":0,"id":"60697"}]}},
+{"votes":6617,"id":"620"},
+{"votes":5111,"id":"58507"},
+{"votes":663,"id":"60696"},
+{"votes":648,"id":"60697"},
+{"votes":557,"id":"44307"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":0,"id":"60694"},
-{"votes":0,"id":"60693"},
-{"votes":0,"id":"51684"}]}},
+{"votes":32496,"id":"60693"},
+{"votes":31473,"id":"60694"},
+{"votes":10253,"id":"51684"}]}},
 "Constitutional Amendment":
 {"A - Secret Ballot":
 {"votes":[
-{"votes":0,"id":"3"},
-{"votes":0,"id":"2"}]}},
+{"votes":13895,"id":"2"},
+{"votes":12949,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":0,"id":"44298"},
-{"votes":0,"id":"44544"},
-{"votes":0,"id":"61131"},
-{"votes":0,"id":"60702"}]}}},
+{"votes":25201,"id":"44298"},
+{"votes":23346,"id":"60702"},
+{"votes":6697,"id":"44544"},
+{"votes":4482,"id":"61131"}]}}},
 "precincts":
 {"total":667,"reporting":0},
 "abbr":"UT","name":"Utah"},
