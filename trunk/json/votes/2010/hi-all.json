@@ -1,4 +1,4 @@
-{"dttime":"Nov 01,2010 02:15 PM","totals":
+{"dttime":"Nov 01,2010 02:21 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
@@ -7,27 +7,27 @@
 {"votes":0,"id":"53401"}]},
 "2":
 {"votes":[
-{"votes":26555,"id":"1594"},
-{"votes":25965,"id":"61240"},
-{"votes":5513,"id":"60883"},
-{"votes":4642,"id":"60882"}]}},
+{"votes":49331,"id":"1594"},
+{"votes":45942,"id":"61240"},
+{"votes":9930,"id":"60883"},
+{"votes":7976,"id":"60882"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":26804,"id":"1714"},
-{"votes":24591,"id":"13663"},
-{"votes":5178,"id":"1593"},
-{"votes":4451,"id":"1596"},
-{"votes":1651,"id":"60884"}]}},
+{"votes":49366,"id":"1714"},
+{"votes":44211,"id":"13663"},
+{"votes":8797,"id":"1593"},
+{"votes":7920,"id":"1596"},
+{"votes":2885,"id":"60884"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":28321,"id":"1587"},
-{"votes":24757,"id":"13472"},
-{"votes":5143,"id":"1597"},
-{"votes":4454,"id":"61241"}]}}},
+{"votes":51251,"id":"1587"},
+{"votes":43824,"id":"13472"},
+{"votes":9875,"id":"1597"},
+{"votes":8229,"id":"61241"}]}}},
 "precincts":
-{"total":144,"reporting":57},
+{"total":144,"reporting":105},
 "abbr":"HI","name":"Hawaii"},
 "state":"HI","candidates":
 {"60883":"NP|Von Sonn|Andrew Von Sonn","13790":"GOP|Djou|Charles Djou","61241":"NP|Pollard|Tom Pollard","13472":"GOP|Aiona|Duke Aiona","60882":"Lib|Brock|Pat Brock","61240":"GOP|Willoughby|John Willoughby","1714":"Dem|Inouye|Daniel Inouye","60884":"NP|Jarrett|Jeff Jarrett","1587":"Dem|Abercrombie|Neil Abercrombie","1594":"Dem|Hirono|Mazie Hirono","1597":"FEP|Cunningham|Daniel Cunningham","1596":"Grn|Brewer|Jim Brewer","53401":"Dem|Hanabusa|Colleen Hanabusa","1593":"Lib|Mallan|Jeff Mallan","13663":"GOP|Cavasso|Cam Cavasso"},
