@@ -57,7 +57,7 @@ var prefs = new _IG_Prefs();
 
 var opt = window.GoogleElectionMapOptions || {};
 opt.static1 = ( ww == 573  &&  wh == 463 );
-opt.static = opt.static1  ||  ( ww == 620  &&  wh == 480 );
+opt.static = opt.static1  ||  ( ww == 620  &&  wh == 500 );
 opt.fontsize = '15px';
 var sw = opt.panelWidth = 180;
 
