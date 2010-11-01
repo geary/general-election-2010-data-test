@@ -41,7 +41,7 @@
     padding-right: 12px;
   }
   .source-link {
-    padding-bottom: 1px;
+    margin: 7px 0 0 0;
   }
 </style>
 
