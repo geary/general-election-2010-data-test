@@ -1,19 +1,19 @@
-{"dttime":"Nov 01, 2010 03:32 PM","totals":
+{"dttime":"Nov 01, 2010 03:44 PM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":2304},
+{"total":2406,"reporting":2406},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":83546,"id":"60226"},
-{"votes":72788,"id":"60223"},
-{"votes":28641,"id":"61138"}]},
+{"votes":87985,"id":"60226"},
+{"votes":78210,"id":"60223"},
+{"votes":29328,"id":"61138"}]},
 "3":
 {"votes":[
-{"votes":96242,"id":"60233"},
-{"votes":77931,"id":"60238"}]},
+{"votes":114741,"id":"60233"},
+{"votes":93879,"id":"60238"}]},
 "2":
 {"votes":[
 {"votes":95024,"id":"60231"},
@@ -28,21 +28,21 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":309201,"id":"1620"},
-{"votes":230555,"id":"7086"},
-{"votes":153333,"id":"60551"},
-{"votes":77101,"id":"61137"}]}},
+{"votes":327768,"id":"1620"},
+{"votes":245826,"id":"7086"},
+{"votes":163884,"id":"60551"},
+{"votes":81942,"id":"61137"}]}},
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":440237,"id":"3"},
-{"votes":355776,"id":"2"}]}},
+{"votes":450681,"id":"3"},
+{"votes":368739,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":341737,"id":"60197"},
-{"votes":308330,"id":"5647"},
-{"votes":114207,"id":"52723"}]}}},
+{"votes":368739,"id":"60197"},
+{"votes":327768,"id":"5647"},
+{"votes":122913,"id":"52723"}]}}},
 "abbr":"AR"},
 "state":"AR","candidates":
 {"60238":"GOP|Womack|Steve Womack","60551":"Ind|Drown|Trevor Drown","60553":"Ind|Levi|Lance Levi","1620":"GOP|Boozman|John Boozman","7086":"Dem|Lincoln|Blanche Lincoln","60226":"GOP|Crawford|Rick Crawford","60233":"Dem|Whitaker|David Whitaker","60223":"Dem|Causey|Chad Causey","1194":"Dem|Ross|Mike Ross","60240":"GOP|Rankin|Beth Anne Rankin","52723":"Grn|Lendall|Jim Lendall","52721":"Dem|Elliott|Joyce Elliott","61137":"Grn|Gray|John Gray","60197":"GOP|Keet|Jim Keet","60231":"GOP|Griffin|Tim Griffin","59645":"Grn|Drake|Josh Drake","2":"|Yes| Yes","61138":"Grn|Adler|Ken Adler","61139":"Grn|Kennedy|Lewis Kennedy","5647":"Dem|Beebe|Mike Beebe","3":"|No| No"},
