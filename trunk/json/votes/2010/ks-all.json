@@ -1,48 +1,48 @@
-{"dttime":"Nov 01,2010 02:08 PM","totals":
+{"dttime":"Nov 01,2010 02:15 PM","totals":
 {"name":"Kansas","precincts":
-{"total":1321,"reporting":9},
+{"total":1321,"reporting":160},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":893,"id":"54149"},
-{"votes":304,"id":"693"},
-{"votes":4,"id":"60764"}]},
+{"votes":10477,"id":"54149"},
+{"votes":7673,"id":"60764"},
+{"votes":3707,"id":"693"}]},
 "3":
 {"votes":[
-{"votes":208,"id":"54005"},
-{"votes":151,"id":"60766"},
-{"votes":48,"id":"61105"}]},
+{"votes":9630,"id":"60766"},
+{"votes":8131,"id":"54005"},
+{"votes":2616,"id":"61105"}]},
 "2":
 {"votes":[
-{"votes":10841,"id":"61084"},
-{"votes":10426,"id":"19867"},
-{"votes":2600,"id":"59786"}]},
+{"votes":19988,"id":"61084"},
+{"votes":19088,"id":"19867"},
+{"votes":5588,"id":"59786"}]},
 "4":
 {"votes":[
-{"votes":0,"id":"59789"},
-{"votes":0,"id":"60768"},
-{"votes":0,"id":"61243"},
-{"votes":0,"id":"61085"}]}},
+{"votes":43455,"id":"60768"},
+{"votes":39498,"id":"61085"},
+{"votes":8869,"id":"59789"},
+{"votes":8214,"id":"61243"}]}},
 "Amendment":
 {"1 - Right to Bear Arms":
 {"votes":[
-{"votes":8802,"id":"2"},
-{"votes":3148,"id":"3"}]}},
+{"votes":83053,"id":"2"},
+{"votes":69648,"id":"3"}]}},
 "U.S. Senate":
 {"2010":
 {"votes":[
-{"votes":29805,"id":"692"},
-{"votes":26937,"id":"61083"},
-{"votes":5247,"id":"61102"},
-{"votes":2463,"id":"51224"}]}},
+{"votes":99356,"id":"692"},
+{"votes":91232,"id":"61083"},
+{"votes":16267,"id":"61102"},
+{"votes":12668,"id":"51224"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":6964,"id":"1720"},
-{"votes":6740,"id":"53995"},
-{"votes":1304,"id":"61103"},
-{"votes":1130,"id":"61104"}]}}},
+{"votes":77680,"id":"1720"},
+{"votes":72921,"id":"53995"},
+{"votes":16002,"id":"61103"},
+{"votes":14633,"id":"61104"}]}}},
 "abbr":"KS","votesby":"district"},
 "state":"KS","candidates":
 {"61105":"Lib|Talbert|Jasmin Talbert","61104":"Lib|Gray|Andrew Gray","61103":"RP|Cannon|Ken Cannon","61102":"Lib|Dann|Michael Dann","59786":"Lib|Garrard|Robert Garrard","61085":"Dem|Goyle|Raj Goyle","61084":"Dem|Hudspeth|Cheryl Hudspeth","59789":"RP|Ducey|Susan Ducey","53995":"Dem|Holland|Tom Holland","61083":"Dem|Johnston|Lisa Johnston","692":"GOP|Moran|Jerry Moran","693":"Lib|Warner|Jack Warner","60768":"GOP|Pompeo|Mike Pompeo","60766":"Dem|Moore|Stephene Moore","60764":"Dem|Jilka|Alan Jilka","3":"|No| No","2":"|Yes| Yes","51224":"RP|Bellis|Joe Bellis","61243":"Lib|Smith|Shawn Smith","54149":"GOP|Huelskamp|Tim Huelskamp","54005":"GOP|Yoder|Kevin Yoder","19867":"GOP|Jenkins|Lynn Jenkins","1720":"GOP|Brownback|Sam Brownback"},
