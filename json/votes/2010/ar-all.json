@@ -1,8 +1,8 @@
-{"dttime":"Nov 01, 2010 03:19 PM","totals":
+{"dttime":"Nov 01, 2010 03:25 PM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":1944},
+{"total":2406,"reporting":1980},
 "races":
 {"U.S. House":
 {"1":
@@ -16,10 +16,10 @@
 {"votes":77709,"id":"60238"}]},
 "2":
 {"votes":[
-{"votes":73800,"id":"60231"},
-{"votes":64592,"id":"52721"},
-{"votes":13136,"id":"61139"},
-{"votes":11609,"id":"60553"}]},
+{"votes":87853,"id":"60231"},
+{"votes":76667,"id":"52721"},
+{"votes":15747,"id":"61139"},
+{"votes":14106,"id":"60553"}]},
 "4":
 {"votes":[
 {"votes":77291,"id":"1194"},
@@ -28,21 +28,21 @@
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":241356,"id":"1620"},
-{"votes":180463,"id":"7086"},
-{"votes":117713,"id":"60551"},
-{"votes":59125,"id":"61137"}]}},
+{"votes":254490,"id":"1620"},
+{"votes":188852,"id":"7086"},
+{"votes":124099,"id":"60551"},
+{"votes":62452,"id":"61137"}]}},
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":329313,"id":"3"},
-{"votes":263237,"id":"2"}]}},
+{"votes":347320,"id":"3"},
+{"votes":276466,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":267912,"id":"60197"},
-{"votes":233568,"id":"5647"},
-{"votes":87475,"id":"52723"}]}}},
+{"votes":279501,"id":"60197"},
+{"votes":248358,"id":"5647"},
+{"votes":92332,"id":"52723"}]}}},
 "abbr":"AR"},
 "state":"AR","candidates":
 {"60238":"GOP|Womack|Steve Womack","60551":"Ind|Drown|Trevor Drown","60553":"Ind|Levi|Lance Levi","1620":"GOP|Boozman|John Boozman","7086":"Dem|Lincoln|Blanche Lincoln","60226":"GOP|Crawford|Rick Crawford","60233":"Dem|Whitaker|David Whitaker","60223":"Dem|Causey|Chad Causey","1194":"Dem|Ross|Mike Ross","60240":"GOP|Rankin|Beth Anne Rankin","52723":"Grn|Lendall|Jim Lendall","52721":"Dem|Elliott|Joyce Elliott","61137":"Grn|Gray|John Gray","60197":"GOP|Keet|Jim Keet","60231":"GOP|Griffin|Tim Griffin","59645":"Grn|Drake|Josh Drake","2":"|Yes| Yes","61138":"Grn|Adler|Ken Adler","61139":"Grn|Kennedy|Lewis Kennedy","5647":"Dem|Beebe|Mike Beebe","3":"|No| No"},
