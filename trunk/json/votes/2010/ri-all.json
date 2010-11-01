@@ -1,36 +1,36 @@
-{"state":"RI","total":0,"candidates":
-{"967":"Dem|Langevin|Jim Langevin","61224":"Ind|Algieri|Ronald Algieri","40044":"Ind|Raposa|Gregory Raposa","61226":"Ind|Lusi|Joseph Lusi","39864":"Dem|Cicilline|David Cicilline","968":"Ind|Matson|John Matson","57844":"Dem|Caprio|Frank Caprio","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","60670":"GOP|Loughlin|John Loughlin","3":"|No| No","2":"|Yes| Yes","61225":"Ind|Giroux|Todd Giroux","61041":"GOP|Robitaille|John Robitaille","61223":"Mod|Block|Ken Block","1753":"Ind|Chafee|Lincoln Chafee"},
-"locals":
-{},
-"totals":
+{"dttime":"Nov 01,2010 05:51 AM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":11562,"id":"60670"},
-{"votes":11147,"id":"39864"},
-{"votes":2448,"id":"56221"},
-{"votes":2327,"id":"40044"}]},
+{"votes":4443,"id":"39864"},
+{"votes":3929,"id":"60670"},
+{"votes":828,"id":"56221"},
+{"votes":803,"id":"40044"}]},
 "2":
 {"votes":[
-{"votes":43226,"id":"967"},
-{"votes":36250,"id":"59621"},
-{"votes":13283,"id":"968"}]}},
+{"votes":3096,"id":"59621"},
+{"votes":2874,"id":"967"},
+{"votes":1134,"id":"968"}]}},
 "Question":
 {"1 - State Name Change":
 {"votes":[
-{"votes":59088,"id":"3"},
-{"votes":54900,"id":"2"}]}},
+{"votes":11376,"id":"3"},
+{"votes":8252,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":24485,"id":"61225"},
-{"votes":21078,"id":"61224"},
-{"votes":18572,"id":"57844"},
-{"votes":16253,"id":"61041"},
-{"votes":14078,"id":"1753"},
-{"votes":11416,"id":"61226"},
-{"votes":9243,"id":"61223"}]}}},
+{"votes":4794,"id":"61225"},
+{"votes":3631,"id":"61224"},
+{"votes":3335,"id":"57844"},
+{"votes":2971,"id":"61041"},
+{"votes":2437,"id":"1753"},
+{"votes":2085,"id":"61226"},
+{"votes":1703,"id":"61223"}]}}},
 "precincts":
-{"total":537,"reporting":171},
-"abbr":"RI","name":"Rhode Island"}}
+{"total":537,"reporting":100},
+"abbr":"RI","name":"Rhode Island"},
+"state":"RI","candidates":
+{"967":"Dem|Langevin|Jim Langevin","61224":"Ind|Algieri|Ronald Algieri","40044":"Ind|Raposa|Gregory Raposa","61226":"Ind|Lusi|Joseph Lusi","39864":"Dem|Cicilline|David Cicilline","968":"Ind|Matson|John Matson","57844":"Dem|Caprio|Frank Caprio","59621":"GOP|Zaccaria|Mark Zaccaria","56221":"Ind|Capalbo|Kenneth Capalbo","60670":"GOP|Loughlin|John Loughlin","3":"|No| No","2":"|Yes| Yes","61225":"Ind|Giroux|Todd Giroux","61041":"GOP|Robitaille|John Robitaille","61223":"Mod|Block|Ken Block","1753":"Ind|Chafee|Lincoln Chafee"},
+"total":0,"locals":
+{}}
