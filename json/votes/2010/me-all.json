@@ -1,31 +1,31 @@
-{"dttime":"Nov 01, 2010 02:47 PM","totals":
+{"dttime":"Nov 01, 2010 02:54 PM","totals":
 {"name":"Maine","fix":
 {},
 "precincts":
-{"total":184,"reporting":83},
+{"total":184,"reporting":101},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":67819,"id":"59613"},
-{"votes":57069,"id":"60618"}]},
+{"votes":85658,"id":"59613"},
+{"votes":71263,"id":"60618"}]},
 "2":
 {"votes":[
-{"votes":74241,"id":"585"},
-{"votes":58693,"id":"60617"}]}},
+{"votes":87029,"id":"585"},
+{"votes":68674,"id":"60617"}]}},
 "Question":
 {"1 - Oxford County Casino":
 {"votes":[
-{"votes":141254,"id":"2"},
-{"votes":116568,"id":"3"}]}},
+{"votes":172773,"id":"2"},
+{"votes":139851,"id":"3"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":74586,"id":"60414"},
-{"votes":66949,"id":"60614"},
-{"votes":44737,"id":"60616"},
-{"votes":38701,"id":"60416"},
-{"votes":32849,"id":"60615"}]}}},
+{"votes":90626,"id":"60414"},
+{"votes":80682,"id":"60614"},
+{"votes":54131,"id":"60616"},
+{"votes":47112,"id":"60416"},
+{"votes":40073,"id":"60615"}]}}},
 "abbr":"ME"},
 "state":"ME","candidates":
 {"60616":"Ind|Scott|Kevin Scott","59613":"Dem|Pingree|Chellie Pingree","60614":"Ind|Cutler|Eliot Cutler","585":"Dem|Michaud|Mike Michaud","60615":"Ind|Moody|Shawn Moody","60617":"GOP|Levesque|Jason Levesque","60618":"GOP|Scontras|Dean Scontras","3":"|No| No","2":"|Yes| Yes","60414":"GOP|LePage|Paul LePage","60416":"Dem|Mitchell|Libby Mitchell"},
