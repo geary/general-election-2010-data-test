@@ -1,48 +1,48 @@
-{"dttime":"Oct 30,2010 06:15 PM","totals":
+{"dttime":"Nov 01,2010 04:06 AM","totals":
 {"name":"Arkansas","fix":
 {"Saint Francis":"St. Francis"},
 "precincts":
-{"total":2406,"reporting":1045},
+{"total":2406,"reporting":0},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":10087,"id":"60223"},
-{"votes":8365,"id":"60226"},
-{"votes":3096,"id":"61138"}]},
+{"votes":0,"id":"60226"},
+{"votes":0,"id":"60223"},
+{"votes":0,"id":"61138"}]},
 "3":
 {"votes":[
-{"votes":13089,"id":"60238"},
-{"votes":11103,"id":"60233"}]},
+{"votes":0,"id":"60238"},
+{"votes":0,"id":"60233"}]},
 "2":
 {"votes":[
-{"votes":3743,"id":"52721"},
-{"votes":3513,"id":"60231"},
-{"votes":709,"id":"60553"},
-{"votes":616,"id":"61139"}]},
+{"votes":0,"id":"60231"},
+{"votes":0,"id":"52721"},
+{"votes":0,"id":"60553"},
+{"votes":0,"id":"61139"}]},
 "4":
 {"votes":[
-{"votes":12809,"id":"1194"},
-{"votes":11204,"id":"60240"},
-{"votes":3920,"id":"59645"}]}},
+{"votes":0,"id":"59645"},
+{"votes":0,"id":"1194"},
+{"votes":0,"id":"60240"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":35423,"id":"1620"},
-{"votes":26005,"id":"7086"},
-{"votes":17378,"id":"60551"},
-{"votes":8792,"id":"61137"}]}},
+{"votes":0,"id":"60551"},
+{"votes":0,"id":"61137"},
+{"votes":0,"id":"1620"},
+{"votes":0,"id":"7086"}]}},
 "Issue":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":45964,"id":"3"},
-{"votes":36299,"id":"2"}]}},
+{"votes":0,"id":"3"},
+{"votes":0,"id":"2"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":35887,"id":"60197"},
-{"votes":34144,"id":"5647"},
-{"votes":12221,"id":"52723"}]}}},
+{"votes":0,"id":"52723"},
+{"votes":0,"id":"5647"},
+{"votes":0,"id":"60197"}]}}},
 "abbr":"AR"},
 "state":"AR","candidates":
 {"60238":"GOP|Womack|Steve Womack","60551":"Ind|Drown|Trevor Drown","60553":"Ind|Levi|Lance Levi","1620":"GOP|Boozman|John Boozman","7086":"Dem|Lincoln|Blanche Lincoln","60226":"GOP|Crawford|Rick Crawford","60233":"Dem|Whitaker|David Whitaker","60223":"Dem|Causey|Chad Causey","1194":"Dem|Ross|Mike Ross","60240":"GOP|Rankin|Beth Anne Rankin","52723":"Grn|Lendall|Jim Lendall","52721":"Dem|Elliott|Joyce Elliott","61137":"Grn|Gray|John Gray","60197":"GOP|Keet|Jim Keet","60231":"GOP|Griffin|Tim Griffin","59645":"Grn|Drake|Josh Drake","2":"|Yes| Yes","61138":"Grn|Adler|Ken Adler","61139":"Grn|Kennedy|Lewis Kennedy","5647":"Dem|Beebe|Mike Beebe","3":"|No| No"},
