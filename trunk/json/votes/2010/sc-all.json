@@ -1,30 +1,30 @@
-{"dttime":"Nov 01, 2010 02:30 PM","totals":
+{"dttime":"Nov 01, 2010 02:47 PM","totals":
 {"races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":30869,"id":"40244"},
-{"votes":24293,"id":"60345"},
-{"votes":6756,"id":"61075"},
-{"votes":4720,"id":"60674"},
-{"votes":4638,"id":"60676"},
-{"votes":2817,"id":"60677"},
-{"votes":1959,"id":"60673"}]},
+{"votes":49348,"id":"40244"},
+{"votes":40018,"id":"60345"},
+{"votes":10298,"id":"61075"},
+{"votes":7169,"id":"60674"},
+{"votes":6095,"id":"60676"},
+{"votes":3026,"id":"60673"},
+{"votes":2817,"id":"60677"}]},
 "3":
 {"votes":[
-{"votes":50136,"id":"59676"},
-{"votes":48812,"id":"57891"},
-{"votes":8883,"id":"60680"}]},
+{"votes":76941,"id":"59676"},
+{"votes":70718,"id":"57891"},
+{"votes":14485,"id":"60680"}]},
 "2":
 {"votes":[
-{"votes":10907,"id":"59675"},
-{"votes":7533,"id":"1410"},
-{"votes":2236,"id":"60679"},
-{"votes":1815,"id":"60678"}]},
+{"votes":13505,"id":"59675"},
+{"votes":10095,"id":"1410"},
+{"votes":2990,"id":"60679"},
+{"votes":2434,"id":"60678"}]},
 "5":
 {"votes":[
-{"votes":14651,"id":"60619"},
-{"votes":13683,"id":"612"}]},
+{"votes":53190,"id":"60619"},
+{"votes":44091,"id":"612"}]},
 "4":
 {"votes":[
 {"votes":902,"id":"59677"},
@@ -34,32 +34,32 @@
 {"votes":41,"id":"60682"}]},
 "6":
 {"votes":[
-{"votes":14311,"id":"60684"},
-{"votes":11996,"id":"1414"},
-{"votes":4387,"id":"60685"}]}},
+{"votes":43798,"id":"60684"},
+{"votes":38475,"id":"1414"},
+{"votes":13767,"id":"60685"}]}},
 "Amendment":
 {"1 - Hunting and Fishing":
 {"votes":[
-{"votes":136526,"id":"2"},
-{"votes":116378,"id":"3"}]},
+{"votes":273903,"id":"2"},
+{"votes":230875,"id":"3"}]},
 "2 - Secret Ballot":
 {"votes":[
-{"votes":97062,"id":"2"},
-{"votes":78814,"id":"3"}]}},
+{"votes":264022,"id":"2"},
+{"votes":214162,"id":"3"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":158409,"id":"60335"},
-{"votes":141042,"id":"610"},
-{"votes":52640,"id":"60671"}]}},
+{"votes":227576,"id":"60335"},
+{"votes":200243,"id":"610"},
+{"votes":75288,"id":"60671"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":118051,"id":"58026"},
-{"votes":104055,"id":"60420"},
-{"votes":42158,"id":"60672"}]}}},
+{"votes":238695,"id":"58026"},
+{"votes":211354,"id":"60420"},
+{"votes":81487,"id":"60672"}]}}},
 "precincts":
-{"total":398,"reporting":120},
+{"total":398,"reporting":191},
 "abbr":"SC","name":"South Carolina"},
 "state":"SC","candidates":
 {"60345":"GOP|Scott|Tim Scott","60685":"Grn|Muhammad|Nammu Muhammad","60684":"GOP|Pratt|Jim Pratt","60681":"GOP|Gowdy|Trey Gowdy","60680":"CST|Dalen|John Dalen","60683":"CST|Edwards|Dave Edwards","60682":"Lib|Mahler|Rick Mahler","60420":"GOP|Haley|Nikki Haley","3":"|No| No","2":"|Yes| Yes","61075":"WF|Groce|Rob Groce","59675":"Dem|Miller|Rob Miller","59676":"Dem|Dyer|Jane Dyer","59677":"Dem|Corden|Paul Corden","60335":"Dem|Greene|Alvin Greene","612":"Dem|Spratt|John Spratt","610":"GOP|DeMint|Jim DeMint","611":"Grn|Walters|C. Faye Walters","60671":"Grn|Clements|Tom Clements","60672":"Grn|Reeves|Morgan Reeves","60673":"Grn|Dobbs|Robert Dobbs","60674":"Lib|Blandford|Keith Blandford","60676":"UCz|McCullough|Mac McCullough","60677":"Inp|Wood|Jimmy Wood","60678":"Lib|McCain|Eddie McCain","60679":"CST|Beaman|Marc Beaman","57891":"GOP|Duncan|Jeff Duncan","58026":"Dem|Sheheen|Vincent Sheheen","60619":"GOP|Mulvaney|Mick Mulvaney","40244":"Dem|Frasier|Ben Frasier","1410":"GOP|Wilson|Joe Wilson","1414":"Dem|Clyburn|Jim Clyburn"},

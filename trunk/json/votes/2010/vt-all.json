@@ -1,34 +1,34 @@
-{"dttime":"Nov 01, 2010 02:30 PM","totals":
+{"dttime":"Nov 01, 2010 02:47 PM","totals":
 {"name":"Vermont","precincts":
-{"total":260,"reporting":83},
+{"total":260,"reporting":120},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":36653,"id":"58883"},
-{"votes":30893,"id":"61151"},
-{"votes":6300,"id":"60891"},
-{"votes":5369,"id":"1152"}]}},
+{"votes":48222,"id":"58883"},
+{"votes":43653,"id":"61151"},
+{"votes":9669,"id":"60891"},
+{"votes":8048,"id":"1152"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":33867,"id":"1760"},
-{"votes":26769,"id":"60885"},
-{"votes":5507,"id":"1157"},
-{"votes":5261,"id":"1158"},
-{"votes":4713,"id":"60888"},
-{"votes":1740,"id":"60889"},
-{"votes":1358,"id":"60887"}]}},
+{"votes":46339,"id":"1760"},
+{"votes":37687,"id":"60885"},
+{"votes":7610,"id":"1157"},
+{"votes":7121,"id":"1158"},
+{"votes":6562,"id":"60888"},
+{"votes":2408,"id":"60889"},
+{"votes":1865,"id":"60887"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":41612,"id":"45461"},
-{"votes":25166,"id":"45222"},
-{"votes":4123,"id":"1158"},
-{"votes":3190,"id":"50649"},
-{"votes":2317,"id":"60894"},
-{"votes":2018,"id":"60893"},
-{"votes":789,"id":"60895"}]}}},
+{"votes":58890,"id":"45461"},
+{"votes":34146,"id":"45222"},
+{"votes":5669,"id":"1158"},
+{"votes":4178,"id":"50649"},
+{"votes":3003,"id":"60894"},
+{"votes":2704,"id":"60893"},
+{"votes":1002,"id":"60895"}]}}},
 "abbr":"VT","votesby":"town"},
 "state":"VT","candidates":
 {"50649":"LUn|Mitchell|Ben Mitchell","60888":"Ind|Freilich|Daniel Freilich","60887":"Ind|Cain|Stephen Cain","1158":"Oth|Ericson|Cris Ericson","60885":"GOP|Britton|Len Britton","60894":"Ind|Peyton|Em Peyton","60895":"Ind|Steele|Dennis Steele","1157":"Soc|Diamondstone|Peter Diamondstone","58883":"Dem|Welch|Peter Welch","45222":"GOP|Dubie|Brian Dubie","60891":"Ind|Jaccaci|Gus Jaccaci","1152":"Soc|Newton|Jane Newton","61151":"GOP|Beaudry|Paul Beaudry","1760":"Dem|Leahy|Patrick Leahy","60893":"Ind|Feliciano|Dan Feliciano","60889":"Ind|Nunes|Johenry Nunes","45461":"Dem|Shumlin|Peter Shumlin"},
