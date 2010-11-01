@@ -831,16 +831,16 @@ function toggleBallotInitiatives(state) {
     $('#stateInfoSelector').attr('disabled', false);
     $('#ballot-results').hide();        
     staticmap = opt.static  &&  state == stateUS;
-    if (staticmap) {
-      $('#staticmap').show();
-    } else {
-      $('#map').show();
-    }
+    //if (staticmap) {
+    //  $('#staticmap').show();
+    //} else {
+    //  $('#map').show();
+    //}
     showingBallotInitiatives = false;
   } else {
     $('#ballot-initiatives').text(strings.showMap);
-    $('#map').hide();    
-    $('#staticmap').hide();    
+    //$('#map').hide();    
+    //$('#staticmap').hide();    
     $('#stateInfoSelector').attr('disabled', true);    
     $('#ballot-results').show();    
     showingBallotInitiatives = true;
