@@ -1,37 +1,37 @@
-{"dttime":"Nov 01, 2010 03:13 PM","totals":
+{"dttime":"Nov 01, 2010 03:19 PM","totals":
 {"name":"Mississippi","fix":
 {"Jeff Davis":"Jefferson Davis"},
 "precincts":
-{"total":471,"reporting":406},
+{"total":471,"reporting":424},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":49056,"id":"57814"},
-{"votes":41161,"id":"55675"},
-{"votes":28292,"id":"58428"},
-{"votes":24622,"id":"60438"},
-{"votes":20403,"id":"60437"},
-{"votes":16394,"id":"60436"},
-{"votes":12283,"id":"28712"},
-{"votes":8249,"id":"214"},
-{"votes":4157,"id":"60435"}]},
+{"votes":53405,"id":"57814"},
+{"votes":44585,"id":"55675"},
+{"votes":30968,"id":"58428"},
+{"votes":26755,"id":"60438"},
+{"votes":22250,"id":"60437"},
+{"votes":17793,"id":"60436"},
+{"votes":13322,"id":"28712"},
+{"votes":8875,"id":"214"},
+{"votes":4498,"id":"60435"}]},
 "3":
 {"votes":[
-{"votes":66524,"id":"57825"},
-{"votes":57761,"id":"57824"},
-{"votes":21432,"id":"50442"}]},
+{"votes":74925,"id":"57825"},
+{"votes":64494,"id":"57824"},
+{"votes":23823,"id":"50442"}]},
 "2":
 {"votes":[
-{"votes":85349,"id":"1335"},
-{"votes":76875,"id":"57828"},
-{"votes":28613,"id":"60613"}]},
+{"votes":88661,"id":"1335"},
+{"votes":79881,"id":"57828"},
+{"votes":29670,"id":"60613"}]},
 "4":
 {"votes":[
-{"votes":62425,"id":"220"},
-{"votes":53671,"id":"60439"},
-{"votes":11711,"id":"61199"},
-{"votes":7982,"id":"60440"}]}}},
+{"votes":70854,"id":"220"},
+{"votes":60682,"id":"60439"},
+{"votes":13769,"id":"61199"},
+{"votes":9466,"id":"60440"}]}}},
 "abbr":"MS"},
 "state":"MS","candidates":
 {"60438":"Ind|Hoskins|Rico Hoskins","60439":"GOP|Palazzo|Steven Palazzo","28712":"RP|Washer|Barbara Washer","57825":"GOP|Harper|Gregg Harper","57824":"Dem|Gill|Joel Gill","1335":"Dem|Thompson|Bennie Thompson","50442":"RP|Hill|Tracella Hill","57828":"GOP|Marcy|Bill Marcy","60436":"Ind|Baddley|A. G. Baddley","57814":"Dem|Childers|Travis Childers","58428":"Ind|Pang|Wally Pang","60437":"Ind|Green|Les Green","61199":"RP|Revies|Anna Revies","214":"Lib|Taylor|Harold Taylor","60440":"Lib|Hampton|Tim Hampton","60435":"CST|Giaramita|Gail Giaramita","220":"Dem|Taylor|Gene Taylor","55675":"GOP|Nunnelee|Alan Nunnelee","60613":"RP|Norwood|Ashley Norwood"},
