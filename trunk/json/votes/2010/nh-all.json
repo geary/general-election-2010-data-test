@@ -1,36 +1,36 @@
-{"dttime":"Nov 01,2010 01:56 PM","totals":
+{"dttime":"Nov 01,2010 02:02 PM","totals":
 {"name":"New Hampshire","fix":
 {"":"Atkinson and Gilmanton Academy"},
 "precincts":
-{"total":301,"reporting":71},
+{"total":301,"reporting":0},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":2528,"id":"53539"},
-{"votes":2336,"id":"61212"},
-{"votes":792,"id":"61220"}]},
+{"votes":0,"id":"53539"},
+{"votes":0,"id":"61220"},
+{"votes":0,"id":"61212"}]},
 "2":
 {"votes":[
-{"votes":4191,"id":"61213"},
-{"votes":3842,"id":"1080"},
-{"votes":744,"id":"61221"},
-{"votes":730,"id":"61222"}]}},
+{"votes":0,"id":"61213"},
+{"votes":0,"id":"61221"},
+{"votes":0,"id":"61222"},
+{"votes":0,"id":"1080"}]}},
 "U.S. Senate":
 {"":
 {"votes":[
-{"votes":5367,"id":"50448"},
-{"votes":4407,"id":"1075"},
-{"votes":2850,"id":"61040"},
-{"votes":2474,"id":"61219"}]}},
+{"votes":0,"id":"50448"},
+{"votes":0,"id":"61040"},
+{"votes":0,"id":"1075"},
+{"votes":0,"id":"61219"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":5931,"id":"59860"},
-{"votes":5367,"id":"1072"},
-{"votes":4256,"id":"7722"}]}}},
+{"votes":0,"id":"7722"},
+{"votes":0,"id":"1072"},
+{"votes":0,"id":"59860"}]}}},
 "abbr":"NH","votesby":"town"},
 "state":"NH","candidates":
-{"50448":"Dem|Hodes|Paul Hodes","1075":"Lib|Blevens|Ken Blevens","61213":"Dem|Kuster|Ann Kuster","1080":"GOP|Bass|Charlie Bass","61219":"Ind|Booth|Chris Booth","61212":"GOP|Guinta|Frank Guinta","61220":"Lib|Hodson|Philip Hodson","61221":"Ind|vanBlommesteyn|Tim vanBlommesteyn","61222":"Lib|Wilson|Howard Wilson","59860":"GOP|Stephen|John Stephen","61040":"GOP|Ayotte|Kelly Ayotte","7722":"Dem|Lynch|John Lynch","53539":"Dem|Shea-Porter|Carol Shea-Porter","1072":"Lib|Babiarz|John Babiarz"},
+{"50448":"Dem|Hodes|Paul Hodes","1075":"Lib|Blevens|Ken Blevens","61213":"Dem|Kuster|Ann Kuster","61212":"GOP|Guinta|Frank Guinta","61219":"Ind|Booth|Chris Booth","1080":"GOP|Bass|Charlie Bass","61220":"Lib|Hodson|Philip Hodson","61221":"Ind|vanBlommesteyn|Tim vanBlommesteyn","61222":"Lib|Wilson|Howard Wilson","59860":"GOP|Stephen|John Stephen","61040":"GOP|Ayotte|Kelly Ayotte","7722":"Dem|Lynch|John Lynch","53539":"Dem|Shea-Porter|Carol Shea-Porter","1072":"Lib|Babiarz|John Babiarz"},
 "total":0,"locals":
 {}}
