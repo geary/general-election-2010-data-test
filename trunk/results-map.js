@@ -994,7 +994,7 @@ function getStateDistricts( places, state ) {
   return districts;
 }
 
-unction polys() {
+function polys() {
   var congress, stateCongress;
   if( opt.infoType == 'U.S. House' ) {
     var p = stateCD.shapes.places.district;
