@@ -1,27 +1,27 @@
-{"dttime":"Nov 01, 2010 04:21 PM","totals":
+{"dttime":"Nov 02,2010 04:10 PM","totals":
 {"name":"New Mexico","fix":
 {"DeBaca":"De Baca"},
 "precincts":
-{"total":462,"reporting":462},
+{"total":462,"reporting":0},
 "races":
 {"U.S. House":
 {"1":
 {"votes":[
-{"votes":85344,"id":"60546"},
-{"votes":69828,"id":"59492"}]},
+{"votes":0,"id":"60546"},
+{"votes":0,"id":"59492"}]},
 "3":
 {"votes":[
-{"votes":101816,"id":"60547"},
-{"votes":83305,"id":"56805"}]},
+{"votes":0,"id":"56805"},
+{"votes":0,"id":"60547"}]},
 "2":
 {"votes":[
-{"votes":90778,"id":"31918"},
-{"votes":74274,"id":"59494"}]}},
+{"votes":0,"id":"59494"},
+{"votes":0,"id":"31918"}]}},
 "Governor":
 {"":
 {"votes":[
-{"votes":313489,"id":"31522"},
-{"votes":256490,"id":"31807"}]}}},
+{"votes":0,"id":"31522"},
+{"votes":0,"id":"31807"}]}}},
 "abbr":"NM"},
 "state":"NM","candidates":
 {"31807":"GOP|Martinez|Susana Martinez","60546":"GOP|Barela|Jonathan Barela","60547":"GOP|Mullins|Tom Mullins","31522":"Dem|Denish|Diane Denish","31918":"GOP|Pearce|Steve Pearce","59494":"Dem|Teague|Harry Teague","59492":"Dem|Heinrich|Martin Heinrich","56805":"Dem|Lujan|Ben R. Lujan"},
