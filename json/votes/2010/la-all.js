@@ -1,0 +1,59 @@
+votesReady( {"dttime":"Nov 02,2010 09:07 PM","totals":
+{"name":"Louisiana","fix":
+{"DeSoto":"De Soto","Jeff Davis":"Jefferson Davis","LaSalle":"La Salle"},
+"precincts":
+{"total":3877,"reporting":0},
+"races":
+{"U.S. House":
+{"1":
+{"votes":[
+{"votes":0,"id":"54369"},
+{"votes":0,"id":"60647"},
+{"votes":0,"id":"22238"}]},
+"3":
+{"votes":[
+{"votes":0,"id":"60651"},
+{"votes":0,"id":"61154"}]},
+"2":
+{"votes":[
+{"votes":0,"id":"60649"},
+{"votes":0,"id":"60650"},
+{"votes":0,"id":"59650"},
+{"votes":0,"id":"54388"}]},
+"5":
+{"votes":[
+{"votes":0,"id":"60653"},
+{"votes":0,"id":"1313"}]},
+"4":
+{"votes":[
+{"votes":0,"id":"60652"},
+{"votes":0,"id":"51907"},
+{"votes":0,"id":"59669"}]},
+"7":
+{"votes":[
+{"votes":0,"id":"50418"}],
+"final":"50418"},
+"6":
+{"votes":[
+{"votes":0,"id":"59656"},
+{"votes":0,"id":"60654"}]}},
+"U.S. Senate":
+{"":
+{"votes":[
+{"votes":0,"id":"21828"},
+{"votes":0,"id":"906"},
+{"votes":0,"id":"60643"},
+{"votes":0,"id":"60642"},
+{"votes":0,"id":"60645"},
+{"votes":0,"id":"1315"},
+{"votes":0,"id":"60644"},
+{"votes":0,"id":"60646"},
+{"votes":0,"id":"54392"},
+{"votes":0,"id":"21555"},
+{"votes":0,"id":"21186"},
+{"votes":0,"id":"21459"}]}}},
+"abbr":"LA"},
+"state":"LA","candidates":
+{"21828":"Dem|Melancon|Charlie Melancon","22238":"Ind|Wells|Arden Wells","51907":"Ind|Cash|Artis Cash","59669":"GOP|Fleming|John Fleming","21186":"Ind|Brown|Michael Brown","60649":"Ind|Marquize|Anthony Marquize","60643":"Ind|Gordon|Milton Gordon","60642":"RP|McShan|William McShan","60645":"Ind|Lang|Bob Lang","60644":"Ind|LaFargue|Tommy LaFargue","60647":"Dem|Katz|Myron Katz","60646":"Ind|Spears|Mike Spears","50418":"GOP|Boustany|Charles Boustany","21459":"Ind|Galan|Skip Galan","61154":"GOP|Landry|Jeff Landry","54388":"Dem|Richmond|Cedric Richmond","1315":"Ind|Melton|Sam Melton","1313":"GOP|Alexander|Rodney Alexander","59656":"GOP|Cassidy|Bill Cassidy","54369":"GOP|Scalise|Steve Scalise","59650":"GOP|Cao|Joseph Cao","906":"GOP|Vitter|David Vitter","60652":"Dem|Melville|David Melville","60653":"Ind|Gibbs|Tom Gibbs","60650":"Ind|Radosta|Jack Radosta","60651":"Dem|Sangisetty|Ravi Sangisetty","60654":"Dem|McDonald|Merritt McDonald","21555":"Lib|Hayes|Randall Hayes","54392":"Ind|Wooton|Ernest Wooton"},
+"total":0,"locals":
+{}})
